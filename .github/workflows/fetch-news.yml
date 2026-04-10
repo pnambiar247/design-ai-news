@@ -8,6 +8,9 @@ on:
 permissions:
   contents: write             # Needed to commit data/articles.json
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # Opt into Node 24, silences deprecation warning
+
 concurrency:
   group: fetch-news           # Only one run at a time — cancel any queued duplicate
   cancel-in-progress: true
