@@ -32,11 +32,12 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           # Save the freshly fetched articles, sync to latest remote, then commit on top
-          cp data/articles.json /tmp/articles.json
+          cp docs/data/articles.json /tmp/articles.json
           git fetch origin main
           git reset --hard origin/main
-          cp /tmp/articles.json data/articles.json
-          git add data/articles.json
+          mkdir -p docs/data
+          cp /tmp/articles.json docs/data/articles.json
+          git add docs/data/articles.json
           if git diff --staged --quiet; then
             echo "No new articles — nothing to commit"
           else

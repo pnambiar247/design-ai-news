@@ -1,5 +1,5 @@
 // GitHub Actions script — fetches design AI news from Google News RSS
-// Runs every 3h, writes data/articles.json for GitHub Pages frontend
+// Runs every 3h, writes docs/data/articles.json for GitHub Pages frontend
 
 import { writeFileSync, mkdirSync } from 'fs'
 import { createHash } from 'crypto'
@@ -142,9 +142,9 @@ async function main() {
     console.warn('WARNING: No articles fetched — all beats may have been blocked or timed out')
   }
 
-  mkdirSync('data', { recursive: true })
-  writeFileSync('data/articles.json', JSON.stringify(output, null, 2))
-  console.log(`Done — ${deduped.length} articles written to data/articles.json (${Math.round((Date.now()-start)/1000)}s)`)
+  mkdirSync('docs/data', { recursive: true })
+  writeFileSync('docs/data/articles.json', JSON.stringify(output, null, 2))
+  console.log(`Done — ${deduped.length} articles written to docs/data/articles.json (${Math.round((Date.now()-start)/1000)}s)`)
 }
 
 main().catch(err => { console.error(err); process.exit(1) })
