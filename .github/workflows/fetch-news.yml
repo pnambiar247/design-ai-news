@@ -20,10 +20,10 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
 
       - name: Fetch news from Google News RSS
-        run: node scripts/fetch-news.mjs
+        run: node scripts/fetch-news.mjs || (echo "Fetch failed — see output above" && exit 1)
 
       - name: Commit updated articles
         run: |

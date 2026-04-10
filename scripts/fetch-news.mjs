@@ -138,6 +138,10 @@ async function main() {
     durationMs: Date.now() - start,
   }
 
+  if (deduped.length === 0) {
+    console.warn('WARNING: No articles fetched — all beats may have been blocked or timed out')
+  }
+
   mkdirSync('data', { recursive: true })
   writeFileSync('data/articles.json', JSON.stringify(output, null, 2))
   console.log(`Done — ${deduped.length} articles written to data/articles.json (${Math.round((Date.now()-start)/1000)}s)`)
