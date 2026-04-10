@@ -35,5 +35,6 @@ jobs:
           else
             ARTICLE_COUNT=$(node -e "const d=require('./data/articles.json'); console.log(d.total)")
             git commit -m "chore: sync design AI news — ${ARTICLE_COUNT} articles [skip ci]"
+            git pull --rebase
             git push
           fi
