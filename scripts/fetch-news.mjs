@@ -5,24 +5,74 @@ import { writeFileSync, mkdirSync } from 'fs'
 import { createHash } from 'crypto'
 
 const BEATS = [
-  { label: 'Figma AI',              query: 'Figma AI features design' },
+  // ── Core Design Tools ───────────────────────────────────────────────────────
+  { label: 'Figma AI',              query: 'Figma AI features design 2025' },
+  { label: 'Figma Make',            query: 'Figma Make AI component generation' },
   { label: 'Adobe Firefly',         query: 'Adobe Firefly AI Photoshop Illustrator' },
-  { label: 'AI UX Design',          query: 'AI UX design user experience tools' },
-  { label: 'Canva AI',              query: 'Canva AI Magic design' },
+  { label: 'Adobe Stitch',          query: 'Adobe Stitch AI design tool' },
+  { label: 'Canva AI',              query: 'Canva AI Magic design generator' },
   { label: 'Framer AI',             query: 'Framer AI website builder design' },
-  { label: 'Midjourney Design',     query: 'Midjourney design creative AI image' },
-  { label: 'AI Design Systems',     query: 'AI design system component automation' },
-  { label: 'AI Prototyping',        query: 'AI prototyping wireframe mockup tool' },
-  { label: 'AI Motion Design',      query: 'AI animation motion design Runway' },
-  { label: 'AI Typography',         query: 'AI typography font design generation' },
-  { label: 'AI Branding',           query: 'AI branding logo identity design' },
-  { label: 'AI Web Design',         query: 'AI website design builder generator' },
-  { label: 'Generative Design',     query: 'generative design AI creative tool 2025' },
-  { label: 'AI Accessibility',      query: 'AI accessibility inclusive design' },
-  { label: 'Design + AI Tools',     query: 'AI design tools launch product 2025' },
-  { label: 'Creative AI',           query: 'creative AI art design professionals' },
-  { label: 'Stable Diffusion',      query: 'Stable Diffusion creative design art UI' },
   { label: 'Microsoft Designer',    query: 'Microsoft Designer AI Copilot design' },
+  { label: 'Sketch AI',             query: 'Sketch app AI design features plugin' },
+  { label: 'Webflow AI',            query: 'Webflow AI website design builder' },
+  { label: 'Wix AI',                query: 'Wix AI website design creator' },
+
+  // ── AI Image & Creative ─────────────────────────────────────────────────────
+  { label: 'Midjourney Design',     query: 'Midjourney design creative AI image generation' },
+  { label: 'DALL-E Design',         query: 'DALL-E OpenAI image design creative' },
+  { label: 'Stable Diffusion',      query: 'Stable Diffusion creative design art UI' },
+  { label: 'Runway ML',             query: 'Runway ML AI video design creative' },
+  { label: 'Ideogram AI',           query: 'Ideogram AI text image design generation' },
+  { label: 'Recraft AI',            query: 'Recraft AI vector icon design tool' },
+
+  // ── UX / Research ───────────────────────────────────────────────────────────
+  { label: 'AI UX Design',          query: 'AI UX design user experience tools 2025' },
+  { label: 'AI UX Research',        query: 'AI user research testing UX insights' },
+  { label: 'AI Accessibility',      query: 'AI accessibility inclusive design WCAG' },
+  { label: 'AI Wireframing',        query: 'AI wireframe mockup prototype tool' },
+  { label: 'AI User Testing',       query: 'AI user testing usability design' },
+
+  // ── Design Systems & Components ─────────────────────────────────────────────
+  { label: 'AI Design Systems',     query: 'AI design system component token automation' },
+  { label: 'Design Tokens AI',      query: 'design tokens AI variable automation Figma' },
+  { label: 'AI Component Gen',      query: 'AI UI component generation React code design' },
+  { label: 'AI Style Guide',        query: 'AI style guide brand design system' },
+
+  // ── Motion & 3D ─────────────────────────────────────────────────────────────
+  { label: 'AI Motion Design',      query: 'AI animation motion design after effects' },
+  { label: 'Spline 3D AI',          query: 'Spline 3D AI web design interactive' },
+  { label: 'Pika Labs',             query: 'Pika Labs AI animation video design' },
+  { label: 'Lottie AI',             query: 'Lottie animation AI design motion' },
+  { label: 'AI Video Design',       query: 'AI video design creative production tool' },
+
+  // ── Typography & Visual ──────────────────────────────────────────────────────
+  { label: 'AI Typography',         query: 'AI typography font design generation tool' },
+  { label: 'AI Color Design',       query: 'AI color palette generator design tool' },
+  { label: 'AI Icon Design',        query: 'AI icon design generation SVG vector' },
+  { label: 'AI Illustration',       query: 'AI illustration art digital design' },
+  { label: 'AI Logo Design',        query: 'AI logo branding identity design generator' },
+
+  // ── Branding & Marketing ────────────────────────────────────────────────────
+  { label: 'AI Branding',           query: 'AI branding logo identity design tool' },
+  { label: 'AI Marketing Design',   query: 'AI marketing design banner ad creative' },
+  { label: 'AI Presentation',       query: 'Gamma Beautiful.ai Tome AI presentation design' },
+  { label: 'AI Data Viz',           query: 'AI data visualization chart design infographic' },
+
+  // ── Web & Code ──────────────────────────────────────────────────────────────
+  { label: 'AI Web Design',         query: 'AI website design builder generator tool' },
+  { label: 'Claude AI Design',      query: 'Claude AI UI design code frontend' },
+  { label: 'ChatGPT Design',        query: 'ChatGPT UI design code frontend CSS' },
+  { label: 'Cursor AI Design',      query: 'Cursor AI frontend design code CSS' },
+  { label: 'AI CSS Generation',     query: 'AI CSS code generation web design tool' },
+  { label: 'v0 Design',             query: 'v0 Vercel AI UI component design generation' },
+
+  // ── Platforms & Workflow ────────────────────────────────────────────────────
+  { label: 'Generative Design',     query: 'generative design AI creative product 2025' },
+  { label: 'Design + AI Tools',     query: 'AI design tools new launch product 2025' },
+  { label: 'Creative AI',           query: 'creative AI professionals design workflow' },
+  { label: 'Notion AI Design',      query: 'Notion AI design document workflow' },
+  { label: 'AI Design Feedback',    query: 'AI design review feedback critique tool' },
+  { label: 'AI Prototyping',        query: 'AI prototyping interactive design tool' },
 ]
 
 function parseGoogleTitle(raw) {
