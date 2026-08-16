@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "a2cb0376d0971436",
+      "title": "Website Conversion Tools",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZOEJSUGYzVDlhU19vWDBteTd0dXRlWC1RdzBiRFBJX2ZUSkFkbGYyUDlYLWx3eFFhOS1GX0VyaHV6dmxmMlU4LVQ0X2w1RVNQZDgwaEcxUTNvZFXSAVtBVV95cUxQWThCUlBmM1Q5YVNfb1gwbXk3dHV0ZVgtUXcwYkRQSV9mVEpBZGxmMlA5WC1sd3hRYTktRl9Fcmh1enZsZjJVOC1UNF9sNUVTUGQ4MGhHMVEzb2RV?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZOEJSUGYzVDlhU19vWDBteTd0dXRlWC1RdzBiRFBJX2ZUSkFkbGYyUDlYLWx3eFFhOS1GX0VyaHV6dmxmMlU4LVQ0X2w1RVNQZDgwaEcxUTNvZFXSAVtBVV95cUxQWThCUlBmM1Q5YVNfb1gwbXk3dHV0ZVgtUXcwYkRQSV9mVEpBZGxmMlA5WC1sd3hRYTktRl9Fcmh1enZsZjJVOC1UNF9sNU",
+      "source": "Trend Hunter",
+      "beat": "Framer AI",
+      "publishedDate": "2026-08-16T15:54:53.000Z",
+      "category": "tools"
+    },
+    {
       "id": "36cb707bd8443119",
       "title": "AI Design Tools",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uc0owcFRIeVpRQmlOWHZ5b19XZnkzc01pcmFWbVg1RUVEd2ZHVHNfVS1OYzhJcFJONndTZnNLZTlWU09WSk9QNGQybzAtQ09ZRUo4WjBRUl9zTFBOcWdFOV9Xc9IBY0FVX3lxTE9uc0owcFRIeVpRQmlOWHZ5b19XZnkzc01pcmFWbVg1RUVEd2ZHVHNfVS1OYzhJcFJONndTZnNLZTlWU09WSk9QNGQybzAtQ09ZRUo4WjBRUl9zTFBOcWdFOV9Xcw?oc=5",
@@ -65,7 +75,7 @@
       "title": "Coca-Cola to use an AI system to manage brand design across 200 markets",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNlc5aWlneFp1alNsRGlXMUVtaUVPWDZOaGlySUlEY0dqZ3lUclN6cTBBS1pwVGlGNFl0cmh6WVlCcTZIWjFSLVNDY25pQ19CVVNoelBLbUF5bFM5YTlBcVJNNjd4b2kxLU5HT0JraHEya3h4dDloVFhsWm1GTUQzdWpjeEFRb0dobWtGanNPTjFxZWZEX00zdXVjOFJtb2E2MTZQV2NuYmpOUERfQTVmZnRCYllEMHcwdDF5QmcxSDllaHQ0cUx5Z2dtckFVT2dwVXNRYktBYXI?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNlc5aWlneFp1alNsRGlXMUVtaUVPWDZOaGlySUlEY0dqZ3lUclN6cTBBS1pwVGlGNFl0cmh6WVlCcTZIWjFSLVNDY25pQ19CVVNoelBLbUF5bFM5YTlBcVJNNjd4b2kxLU5HT0JraHEya3h4dDloVFhsWm1GTUQzdWpjeEFRb0dobWtGanNPTjFxZWZEX00zdXVjOFJtb2E2MTZQV2NuYmpOUE",
-      "source": "Campaign Asia",
+      "source": "campaignasia.com",
       "beat": "AI Style Guide",
       "publishedDate": "2026-08-14T06:02:02.000Z",
       "category": "tools"
@@ -125,7 +135,7 @@
       "title": "How AI image generators expand digital design workflows",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1QnBZTTVqajNTTnE2NHJidHNVMjd6Qmc5RFY2TGdoMko0NE4xNFdVejA2M0RYVDZWREx0eVMzRE4zM2lRNzZfVXVPVkRKbDFhN0RzQ1E5aGo3VDFPaU5tUU5fT2J3Rl9FN3p2SG85eW5CaGpv?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFA1QnBZTTVqajNTTnE2NHJidHNVMjd6Qmc5RFY2TGdoMko0NE4xNFdVejA2M0RYVDZWREx0eVMzRE4zM2lRNzZfVXVPVkRKbDFhN0RzQ1E5aGo3VDFPaU5tUU5fT2J3Rl9FN3p2SG85eW5CaGpv?oc=5\" target=\"_blank\">How AI image generators expand digital design workf",
-      "source": "usa.inquirer.net",
+      "source": "INQUIRER.net USA",
       "beat": "Creative AI",
       "publishedDate": "2026-08-13T08:30:00.000Z",
       "category": "ai-tools"
@@ -181,16 +191,6 @@
       "category": "tools"
     },
     {
-      "id": "fcc2a73797b7bd6d",
-      "title": "Top 42 Branding Agencies You Should Work With in 2025",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tR2FXekVYdEk0bUtVVGZPdlUwYU9ORmhVSHl2Z0ZkcVhoeHIwaVc1ZjlSQVoxRlJFMjRWVFFIbVVfVlJiVldpVVd0NXZ6SmJ3X1hiZGFSSlc3MHMzQjcyNTNyUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tR2FXekVYdEk0bUtVVGZPdlUwYU9ORmhVSHl2Z0ZkcVhoeHIwaVc1ZjlSQVoxRlJFMjRWVFFIbVVfVlJiVldpVVd0NXZ6SmJ3X1hiZGFSSlc3MHMzQjcyNTNyUQ?oc=5\" target=\"_blank\">Top 42 Branding Agencies You Should Work With in 2025</a>&nbsp;&nbsp;<fon",
-      "source": "Influencer Marketing Hub",
-      "beat": "AI Style Guide",
-      "publishedDate": "2026-08-12T07:00:00.000Z",
-      "category": "tools"
-    },
-    {
       "id": "416d6bee1694275b",
       "title": "AI in the Workplace: 5 Ways Companies Are Using Generative AI",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13VUlCWi16QTc1QjRMTS1JbTlDVUxkdzlRT3p6aWhHTVBfZWxoZ29OWnBHVXpUQ01YZnY0d2hfUWU5anRWMF84cEVkMlVrTnlLVGd4ZUNJR1J2QVFKYV95SFM5bVlsMGotY2RzX0ZYMVI1Zw?oc=5",
@@ -225,7 +225,7 @@
       "title": "The Vogue Business AI Tracker",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tZjdHNXA5d2R6TzFwTW9Ib3dIX0IyUWprZ1QzSWtnSmdZVms3aENwcTJkaHJxOEVDWUNkX3NZX2pDbkNUa1F1Ui1sZHlJUDgzR185TmhLVElfX3hzUFlBMnp2eHpPQkgzcU9rVkhaUExBY0doaHNn?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE8tZjdHNXA5d2R6TzFwTW9Ib3dIX0IyUWprZ1QzSWtnSmdZVms3aENwcTJkaHJxOEVDWUNkX3NZX2pDbkNUa1F1Ui1sZHlJUDgzR185TmhLVElfX3hzUFlBMnp2eHpPQkgzcU9rVkhaUExBY0doaHNn?oc=5\" target=\"_blank\">The Vogue Business AI Tracker</a>&nbsp;&nbsp;<f",
-      "source": "vogue.com",
+      "source": "Vogue",
       "beat": "Design + AI Tools",
       "publishedDate": "2026-08-11T11:12:51.000Z",
       "category": "ai-tools"
@@ -301,16 +301,6 @@
       "category": "ux"
     },
     {
-      "id": "f48c0e330b671acf",
-      "title": "AI Portfolio Review Tools",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pWlE4dWNoUi1pY2FuaW9NUHY3X2ZNTmRtUEJ0XzI3amQtdFlpREVEM1JOZUlZOGFrWWZ1Z3B1VGR3TFJvbWZseW40UkVNaXd0cThqaDRR0gFbQVVfeXFMUHB3UFFPLVlRMWpLVFVQajhPR2pfUW9MVlhDWDJWb3dmNGlhMHdGVUYtZnMtTFJraTdoWkh4ZkZQd1F3Mk5RRGNsWmk5dkttTk5UWGIyYjhuNTNWRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pWlE4dWNoUi1pY2FuaW9NUHY3X2ZNTmRtUEJ0XzI3amQtdFlpREVEM1JOZUlZOGFrWWZ1Z3B1VGR3TFJvbWZseW40UkVNaXd0cThqaDRR0gFbQVVfeXFMUHB3UFFPLVlRMWpLVFVQajhPR2pfUW9MVlhDWDJWb3dmNGlhMHdGVUYtZnMtTFJraTdoWkh4ZkZQd1F3Mk5RRGNsWmk5dkttTk5UWG",
-      "source": "Trend Hunter",
-      "beat": "AI Design Feedback",
-      "publishedDate": "2026-08-07T16:10:44.000Z",
-      "category": "ai-tools"
-    },
-    {
       "id": "6a2fd444aa11d8ef",
       "title": "15 Top AI Design Tools to Know",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtQURBMHZDQms4RmZlZktGYV9ETXpQSUtMNktOX0I1MjJ0VGl0UFEtZE1jNnF5bC1FNl8zUU5TZUxXVEZrVUxtMEh0eWlUdnNtdFkxSk9qSQ?oc=5",
@@ -375,7 +365,7 @@
       "title": "AI Ad Maker: How Framia Pro Simplifies Modern Video Advertising",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd05QM3V4amYyMG5wSHdjT0xQUDRJOUlCZFpiODh4R1hDTkpydnlRLThTNmF1VFJveUp1YS03N2gtZGRtdjJqZ3Q1eERKVHZHOVQtRkxudEt1Q2ZtVnVldHBPMGtjZWVhLXcwQTNQOTVTd2FOdnR3QmdSN2ZyOHc1emhqRG5mSXNsb0NpVDBOdEc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQd05QM3V4amYyMG5wSHdjT0xQUDRJOUlCZFpiODh4R1hDTkpydnlRLThTNmF1VFJveUp1YS03N2gtZGRtdjJqZ3Q1eERKVHZHOVQtRkxudEt1Q2ZtVnVldHBPMGtjZWVhLXcwQTNQOTVTd2FOdnR3QmdSN2ZyOHc1emhqRG5mSXNsb0NpVDBOdEc?oc=5\" target=\"_blank\">AI Ad Maker:",
-      "source": "techbullion.com",
+      "source": "TechBullion",
       "beat": "AI Marketing Design",
       "publishedDate": "2026-08-05T08:03:58.000Z",
       "category": "ux"
@@ -435,7 +425,7 @@
       "title": "What is Canva Pro? Features, Benefits, and Everything You Need to Know",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSmtZMjlvdlBEcXAyX3pNUzVuNG5XQWNhNENBLVFwb0RmT0JrbThFWWxWUFZkWE5YOV9fQmxCd3ZteHU1RGU1YUxNMUtHTnZMRERsdmx2al96TFJmQV9SdHVJTWRrOENfXzc5aEo1Mkp3UnpKMjhrVVNlMXJZV3phaU4tY2k1N0hGaUh3TUdzRHV6WDN3VGpFamNDUXNMNTlZejk4RmdKRzbSAbYBQVVfeXFMTzNBdFV6UXpvY0dBNmh4bzJLN3plc2xQZTA1RGhyWnpWamZ0OXZ3OWJRYUdZVk5xWUpMLVFHaEU2bVd2NXR5b0szV3V2Y1BYU2JzODdDMTNBSm1aREx0c3FsNlpLNk1oYWNtTlFVYktGMXBCdWIwUnJtRk80VWl4a2htNnJFR196enRZbUljZWxLS2pNYUx1ZW5iOHAydVQxTWswelhORzN0OFpPVHFaT2V0NGN6dkE?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSmtZMjlvdlBEcXAyX3pNUzVuNG5XQWNhNENBLVFwb0RmT0JrbThFWWxWUFZkWE5YOV9fQmxCd3ZteHU1RGU1YUxNMUtHTnZMRERsdmx2al96TFJmQV9SdHVJTWRrOENfXzc5aEo1Mkp3UnpKMjhrVVNlMXJZV3phaU4tY2k1N0hGaUh3TUdzRHV6WDN3VGpFamNDUXNMNTlZejk4RmdKRzbSAb",
-      "source": "analyticsinsight.net",
+      "source": "Analytics Insight",
       "beat": "Canva AI",
       "publishedDate": "2026-08-03T07:00:00.000Z",
       "category": "tools"
@@ -525,7 +515,7 @@
       "title": "Best Notion AI Automations to Boost Productivity in 2026",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmx5eHlTNTZvSUI1RGNza2oxa0l3dW5ZeTNLT2JzM2pZc2dYY2hIZV9sdUo4Q1VpOVZ3WHRfQlpaTEhEY0VnWUpzVThrdDFiQlRzRUg2QUhSa1VMT0NUUmJEQ2dsV3ltcy1PeEZyNFBpazl4a0FTMWM2ZEhwV1FUeTRvb3JTU09kdzZpalloWTZwUnFtYy1VYnlGaWRWUkpLZER5VkZUUWtSMV93LWpOcDlMY9IBwAFBVV95cUxPWGlMUElENU1NUWJNMFYwMHBIUzMwckc4N0owVEFqeUlRLVpuMkMzb2JBaENfS1pEYV9PSWF6M2VobjVDVm1tN21Iamh0VDNnNUs2MmJPQ0xad0lncGFyZDg1cnFLdGhjNkFmVEI4LWFrZXNnRjBEV0FKcVZlbWl2R3l2bDJGNWNySjFSWFg4dm5QRHloRnBLUXpxNjRTbFFndWd3RDFnWkUtY3ZleGpHamdFOWVDTmtodGJVckw2THE?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmx5eHlTNTZvSUI1RGNza2oxa0l3dW5ZeTNLT2JzM2pZc2dYY2hIZV9sdUo4Q1VpOVZ3WHRfQlpaTEhEY0VnWUpzVThrdDFiQlRzRUg2QUhSa1VMT0NUUmJEQ2dsV3ltcy1PeEZyNFBpazl4a0FTMWM2ZEhwV1FUeTRvb3JTU09kdzZpalloWTZwUnFtYy1VYnlGaWRWUkpLZER5VkZUUWtSMV",
-      "source": "analyticsinsight.net",
+      "source": "Analytics Insight",
       "beat": "Notion AI Design",
       "publishedDate": "2026-07-31T18:45:00.000Z",
       "category": "ux"
@@ -801,6 +791,16 @@
       "category": "tools"
     },
     {
+      "id": "0671bc4f0931b4e7",
+      "title": "Fashion industry - Retailing, Marketing, Merchandising",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ3RsUzhMaWJuY1RadlFScDF1OFI1RHpMM3hKZFZ1WGRpTzhORjdTa2k1ZXNRSHUxenhYZkZDOXFBUzNvZ0FRMWhLVV9JVTVvMHJUNXY4WTVaU1BZU3VuM3hVR1hjMld3TFpTclg5Q2xiY2hrU1Qzd01VSWJhbkRaTlMzRGR1Mmt5Sk5UYk5EY1JNS3hjTVdoWA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ3RsUzhMaWJuY1RadlFScDF1OFI1RHpMM3hKZFZ1WGRpTzhORjdTa2k1ZXNRSHUxenhYZkZDOXFBUzNvZ0FRMWhLVV9JVTVvMHJUNXY4WTVaU1BZU3VuM3hVR1hjMld3TFpTclg5Q2xiY2hrU1Qzd01VSWJhbkRaTlMzRGR1Mmt5Sk5UYk5EY1JNS3hjTVdoWA?oc=5\" target=\"_blank\">F",
+      "source": "Encyclopedia Britannica",
+      "beat": "AI Style Guide",
+      "publishedDate": "2026-07-21T07:00:00.000Z",
+      "category": "tools"
+    },
+    {
       "id": "266faebc5f1bda42",
       "title": "AI provoked this artist into seeking \"transcendent truth\" in traditional tools and the fun of creating",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT2pWWUQ1MjdRNXJING1uWjE3UlBNRzJZeURNTmtFVFBrdGZPVGpPSzQ0N1RsMzNqbm4tZWNNY3gzLW5zVmlaMTZta0FCYmFEbnR3OWlYclZMYmI0b3lzMkhSVkxTYS1IWHIxM3BMS2Q2YjFfVUtGUWEyOXhGRk5EOVYyUHprRHY0Y1JjdVF5RVFTb2lxZTFmNUxn?oc=5",
@@ -819,6 +819,16 @@
       "beat": "AI Marketing Design",
       "publishedDate": "2026-07-21T07:00:00.000Z",
       "category": "ai-tools"
+    },
+    {
+      "id": "d5bcbed757b7f4db",
+      "title": "Meshy AI Review: I Let an AI Agent Design My 3D Model",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HQndWNTF0aS1CVlVtRGx5dTUxY2treGxnWUQ2cE54RVZONjl6VVFXcm9xX2syd1RzLXZoYmJJaWtpcXM3WUxCNW5YVi1FQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HQndWNTF0aS1CVlVtRGx5dTUxY2treGxnWUQ2cE54RVZONjl6VVFXcm9xX2syd1RzLXZoYmJJaWtpcXM3WUxCNW5YVi1FQQ?oc=5\" target=\"_blank\">Meshy AI Review: I Let an AI Agent Design My 3D Model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unite.AI</",
+      "source": "Unite.AI",
+      "beat": "AI Design Feedback",
+      "publishedDate": "2026-07-21T07:00:00.000Z",
+      "category": "ux"
     },
     {
       "id": "b8ebb4e59c62a3f9",
@@ -885,7 +895,7 @@
       "title": "From markets to bus stops, AI-generated design is everywhere in N.B. — here’s what designers think",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWhOTTk5QUdtckYwSDRJOVVFT1k4MlNQOVRIbnhWNWhVRVlZdDRhYS12bDZuQ3ZnSkQzTXgtZEdia0FDRVFoZ1NTaWZyWmtyaHBuNjRBMXI5cWFOUGJGejJ2LWNubGpsRU01ZzdlbGZLbVBEbjZDQy1TVXZpaWcyOXVqU0o4V2U1WFJTTjRveFNCdw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWhOTTk5QUdtckYwSDRJOVVFT1k4MlNQOVRIbnhWNWhVRVlZdDRhYS12bDZuQ3ZnSkQzTXgtZEdia0FDRVFoZ1NTaWZyWmtyaHBuNjRBMXI5cWFOUGJGejJ2LWNubGpsRU01ZzdlbGZLbVBEbjZDQy1TVXZpaWcyOXVqU0o4V2U1WFJTTjRveFNCdw?oc=5\" target=\"_blank\">From mark",
-      "source": "cbc.ca",
+      "source": "CBC",
       "beat": "AI Marketing Design",
       "publishedDate": "2026-07-17T07:00:00.000Z",
       "category": "ux"
@@ -1101,6 +1111,16 @@
       "category": "ux"
     },
     {
+      "id": "0e0d6a76d248ba2d",
+      "title": "Thematic review and gap analysis on AI security",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMXBLUXNTSnZfX3c0bnF0cHFxTGlUYTF2TmVVU09fU04zX2ZITlpPQXctM25IeUhFekxfV2h3dkdPYTFicnFLenl6VF9vdFRWNWRNa19WQ2VXVVU2SWRDSjBaVDNlWDBwaGE1T2x3Z3c3VEhXSXozRldIR2NoUWlocWFPamtPRWRrckJfY2diVGlmcjRZczljeGZocHhiSURvX3ljQndXSGNzUy13SmNYUnpiMkUxNTJLMkdDYXZyOFBRMldwMEphZnZ2S0lOS2lYYW9aUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMXBLUXNTSnZfX3c0bnF0cHFxTGlUYTF2TmVVU09fU04zX2ZITlpPQXctM25IeUhFekxfV2h3dkdPYTFicnFLenl6VF9vdFRWNWRNa19WQ2VXVVU2SWRDSjBaVDNlWDBwaGE1T2x3Z3c3VEhXSXozRldIR2NoUWlocWFPamtPRWRrckJfY2diVGlmcjRZczljeGZocHhiSURvX3ljQndXSGNzUy",
+      "source": "GOV.UK",
+      "beat": "AI Design Feedback",
+      "publishedDate": "2026-07-10T07:00:00.000Z",
+      "category": "ux"
+    },
+    {
       "id": "98e5616d9ecce31b",
       "title": "The best digital art software",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BN1BMeVRHby10TnkybEVCMTQ5emNFTzUwWWpkYWJrbG9VcnphOFpCT1lzQ3NVMzhVazZpdFRLNTViN1ZjNW1MVXFtbTFWZElMSkJKSWFadHZkbG1DOS10ZldxaVozckFYLTd0VFdQaDVBZ0JRQ2ZVdGJJZGIwUQ?oc=5",
@@ -1205,7 +1225,7 @@
       "title": "Best AI Design Tools in 2026: Tested and Ranked by Use Case",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jczdCd1ItSXllS3lhYjM0ejFOTEcwLUhRX1BHVURDd1NZMEE4QnpkeXBMUm1QUExKcy1FeDItcWFUd2VkS09JblFjWVhMUGYtS25STg?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jczdCd1ItSXllS3lhYjM0ejFOTEcwLUhRX1BHVURDd1NZMEE4QnpkeXBMUm1QUExKcy1FeDItcWFUd2VkS09JblFjWVhMUGYtS25STg?oc=5\" target=\"_blank\">Best AI Design Tools in 2026: Tested and Ranked by Use Case</a>&nbsp;&nbsp;<font color=\"#6f6f",
-      "source": "Memeburn",
+      "source": "memeburn.com",
       "beat": "Figma Make",
       "publishedDate": "2026-07-06T04:05:56.000Z",
       "category": "tools"
@@ -1265,7 +1285,7 @@
       "title": "Top 10 AI 3D Modeling Platforms for Product Rendering, Structural Design, and Prototyping in 2026",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRU1nekVsT2ZIZHFNNXZXXzN5LU1EZnVNNUZkZGl2ZVJGbFhYVlB2N1FhUGpfN3ZYVXBTVW53UC1adklpT1ltZmZmbE9zOVVQZGg5SGNEai1kaWlSQ29tdXluOGRBWmlKT1hpZl8tSnhXcnZFcHNUNFlQWXM1T3VWU2Ezb2tKSjRXUEota1J1bEI0bXpoa2d6NDdJeU5iX1JnbTliaFdaWWVHU0NlWHdyV2Nuc3dhaW8tX3otSQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNRU1nekVsT2ZIZHFNNXZXXzN5LU1EZnVNNUZkZGl2ZVJGbFhYVlB2N1FhUGpfN3ZYVXBTVW53UC1adklpT1ltZmZmbE9zOVVQZGg5SGNEai1kaWlSQ29tdXluOGRBWmlKT1hpZl8tSnhXcnZFcHNUNFlQWXM1T3VWU2Ezb2tKSjRXUEota1J1bEI0bXpoa2d6NDdJeU5iX1JnbTliaFdaWWVHU0",
-      "source": "techbullion.com",
+      "source": "TechBullion",
       "beat": "Spline 3D AI",
       "publishedDate": "2026-07-03T07:00:00.000Z",
       "category": "ux"
@@ -1515,6 +1535,16 @@
       "title": "12 best v0 alternatives to build web apps",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KcUIyLVV1UTBFd3FPR2ktOUVSaHNRbXdMMFE5SmxWd19waWJpZllJRUY3UWZXSlhYRU1wV0pRMmNVOEc0Y1VhbExMNktpcEU1OWFNTXlFNHBzY0hzNWl0NVotb29fZw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KcUIyLVV1UTBFd3FPR2ktOUVSaHNRbXdMMFE5SmxWd19waWJpZllJRUY3UWZXSlhYRU1wV0pRMmNVOEc0Y1VhbExMNktpcEU1OWFNTXlFNHBzY0hzNWl0NVotb29fZw?oc=5\" target=\"_blank\">12 best v0 alternatives to build web apps</a>&nbsp;&nbsp;<font color=",
+      "source": "Hostinger",
+      "beat": "AI Component Gen",
+      "publishedDate": "2026-06-27T07:00:00.000Z",
+      "category": "ui"
+    },
+    {
+      "id": "3fa64aaa9329abf5",
+      "title": "v0 vs. Lovable: Which AI app builder is better?",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OM2phWEJ6aWhjLUR1dGhNVHJFSVU0TjBSTVVSeFQtYnVfRXVmSExSSnVPYktIbHZCbDd4MlRsR0szWmtWZTE5Um53Nk82UEFERi1GeWl3UG8wd0JpRDI4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OM2phWEJ6aWhjLUR1dGhNVHJFSVU0TjBSTVVSeFQtYnVfRXVmSExSSnVPYktIbHZCbDd4MlRsR0szWmtWZTE5Um53Nk82UEFERi1GeWl3UG8wd0JpRDI4?oc=5\" target=\"_blank\">v0 vs. Lovable: Which AI app builder is better?</a>&nbsp;&nbsp;<font color=\"#6f",
       "source": "Hostinger",
       "beat": "AI Component Gen",
       "publishedDate": "2026-06-27T07:00:00.000Z",
@@ -1871,16 +1901,6 @@
       "category": "tools"
     },
     {
-      "id": "76230bdae4295885",
-      "title": "Adobe Unveils Major Expansion of Creative Agent Across Firefly and Creative Cloud Apps Including Photoshop and Premiere",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN2JsTzdUQ0c4NVdPbEd6Ykh4aHpPSXZBX1pjbnMyZDJ0cm00dnA4cmk4S3VvWlg5ZG1jM2plRXFUcG82a3VOamEwUDFMdFhodXJNZVNVc3FocHh1VFkxbzRvYjdTV2ZLbDIxQnp4R0c1SG9rQnFSRDZUZE81VXVzZnFyTkowS1RXNE5NM01yaTBGOFFSZXdTRl94WnItMXJBSDZnOENMc3RQMmg3alpDQ0Z1eDVMdE9JeVZHbkVhUHdPQkZwVmdCczJ0dTBLb0FCN3RaTXN3ZDF0bjhGalRHZ1JyeldrUm4zSlJydw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN2JsTzdUQ0c4NVdPbEd6Ykh4aHpPSXZBX1pjbnMyZDJ0cm00dnA4cmk4S3VvWlg5ZG1jM2plRXFUcG82a3VOamEwUDFMdFhodXJNZVNVc3FocHh1VFkxbzRvYjdTV2ZLbDIxQnp4R0c1SG9rQnFSRDZUZE81VXVzZnFyTkowS1RXNE5NM01yaTBGOFFSZXdTRl94WnItMXJBSDZnOENMc3RQMm",
-      "source": "CXOToday.com",
-      "beat": "Adobe Firefly",
-      "publishedDate": "2026-06-19T07:00:00.000Z",
-      "category": "tools"
-    },
-    {
       "id": "b2bfc81dfe36e9f8",
       "title": "Adobe has unveiled a powerful creative agent function that coordinates complex content creation flow..",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80OGFya2R0eGJZSmxWRUdOOHY5V0t1QkNMLTFyQzZBN0pHV1FxbjdjWHFwRDB4bWN2MXBsVWtHNkxRc2ljTDVqZERQbw?oc=5",
@@ -1891,11 +1911,21 @@
       "category": "tools"
     },
     {
+      "id": "76230bdae4295885",
+      "title": "Adobe Unveils Major Expansion of Creative Agent Across Firefly and Creative Cloud Apps Including Photoshop and Premiere",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN2JsTzdUQ0c4NVdPbEd6Ykh4aHpPSXZBX1pjbnMyZDJ0cm00dnA4cmk4S3VvWlg5ZG1jM2plRXFUcG82a3VOamEwUDFMdFhodXJNZVNVc3FocHh1VFkxbzRvYjdTV2ZLbDIxQnp4R0c1SG9rQnFSRDZUZE81VXVzZnFyTkowS1RXNE5NM01yaTBGOFFSZXdTRl94WnItMXJBSDZnOENMc3RQMmg3alpDQ0Z1eDVMdE9JeVZHbkVhUHdPQkZwVmdCczJ0dTBLb0FCN3RaTXN3ZDF0bjhGalRHZ1JyeldrUm4zSlJydw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN2JsTzdUQ0c4NVdPbEd6Ykh4aHpPSXZBX1pjbnMyZDJ0cm00dnA4cmk4S3VvWlg5ZG1jM2plRXFUcG82a3VOamEwUDFMdFhodXJNZVNVc3FocHh1VFkxbzRvYjdTV2ZLbDIxQnp4R0c1SG9rQnFSRDZUZE81VXVzZnFyTkowS1RXNE5NM01yaTBGOFFSZXdTRl94WnItMXJBSDZnOENMc3RQMm",
+      "source": "CXOToday.com",
+      "beat": "Adobe Firefly",
+      "publishedDate": "2026-06-19T07:00:00.000Z",
+      "category": "tools"
+    },
+    {
       "id": "7014ff7c18d3681a",
       "title": "Adobe is putting AI agent inside Photoshop and Premiere, it does the boring work for you",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQ3ZNSW1BWHRIeHpiNlBDTm9GcWYzejN5TkQxWUxxUzMxRldfQnNheURrejZGaEYwdnlZQ1lXYi1SSXotN0VIMFdkdXZsM0RBOG01dERjWTZjbm50TTFvaHdYM21zeHZfZTNTWFZvdjM1dm1zdGF2NzFOcVcwdUFaM29pejhlT192MEo1dkVzcDhGaXBaRmVqUHpJR0h3MnBOLUdvMGVaeVh2eG9DRFRpbjVyb2FxY3duLW83NUNKcHVneEVsMGhwRk9tSjU4dHI2UmlMSnV1dGU1OHJGZ0ZsbEw3OVhEbTBleEHSAe8BQVVfeXFMTjQ2VDVkbi12Q2h0b1JNX1hSMFk2SXU0V0Vac253Q3BTUkZPY1h4ZnhpZ3RSclZzeVphNHFLT2xNS3hEaEJpeHBiWnlTcU93ZFNhRzZVWS1QVWtPamd4OUN2QU51ai1CWmEyTXJsdXpDd2dLU1pTVTltd2xsV3E2UlhxS3BPWkZYTkRhZlZ0dkVEQnFBbXdYQWVPOUYyTG9zbXdzN01EVzRIYXMtVk12RXVYRHNESF9VZERiWkdNWkphMGJQS2ItdWFPZmtLMzc4Z1hSU2hya0E3b1RKTWNOS2hQQXBPOFk0Q3JjQlVQclk?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQ3ZNSW1BWHRIeHpiNlBDTm9GcWYzejN5TkQxWUxxUzMxRldfQnNheURrejZGaEYwdnlZQ1lXYi1SSXotN0VIMFdkdXZsM0RBOG01dERjWTZjbm50TTFvaHdYM21zeHZfZTNTWFZvdjM1dm1zdGF2NzFOcVcwdUFaM29pejhlT192MEo1dkVzcDhGaXBaRmVqUHpJR0h3MnBOLUdvMGVaeVh2eG",
-      "source": "indiatoday.in",
+      "source": "India Today",
       "beat": "Adobe Firefly",
       "publishedDate": "2026-06-19T07:00:00.000Z",
       "category": "tools"
@@ -1915,7 +1945,7 @@
       "title": "Adobe expands AI Assistant across Firefly and Creative Cloud apps",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN09pYmJRT3JIVy1FQ0NjalcxWWtLd3c1RHoyTjZyT0VlM1BkRG5fU1kyWW05T1E5NW5RaWJ4SW4zdUJtTVo1djdMNjFCYVo2TFllaVprTUU5cy13RnZBZklYMUpOYlZFOEFCU241aUlLaFVjNnVHdmFUR1lpUWFjdV80YW9JVlljNk5uV19JS053b1HSAZgBQVVfeXFMTUFoVUFCcDNpa3ZBSTU2NFhDUkRGYnV5aXpaUmstLTZzaklkbDN5OGNsdWczZm1DT0pyZ2xhLWFFMEFJaU5UdG9fQzBIOGhEXzBIemthdlVQYnI5RmNId3dYQURpNWRBaUE4blA3ZWRxeER2TGo5Sk8wNXdoTVZkU3Q2ZWxHLVdwV0xqdVViN3ZDU2F5ZnBma0w?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNN09pYmJRT3JIVy1FQ0NjalcxWWtLd3c1RHoyTjZyT0VlM1BkRG5fU1kyWW05T1E5NW5RaWJ4SW4zdUJtTVo1djdMNjFCYVo2TFllaVprTUU5cy13RnZBZklYMUpOYlZFOEFCU241aUlLaFVjNnVHdmFUR1lpUWFjdV80YW9JVlljNk5uV19JS053b1HSAZgBQVVfeXFMTUFoVUFCcDNpa3ZBST",
-      "source": "fonearena.com",
+      "source": "FoneArena.com",
       "beat": "Adobe Firefly",
       "publishedDate": "2026-06-19T07:00:00.000Z",
       "category": "tools"
@@ -1971,11 +2001,11 @@
       "category": "tools"
     },
     {
-      "id": "9ac0045fe0c985be",
-      "title": "Adobe expands Firefly capabilities, extends agentic tools to Creative Cloud apps",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1JjVVVBcjQ3d2p6ZzNkNmZVaTQ0eEhnYzltSGlIYlpRRlVoQjJhVlUweVA2RnRGUDYzQ29oYUhCRkV5X3RQZHJYSDkxWlQxUWg2ZDN6NHh3bHZ0dF9IQ2RIQmZHa3RCVkpVWko3WGtxMWdtWHY2NDNPWmpia2x2Z19CZ3ZwY05oM3ZteTVjNWFaUmtHZEh4amtXajN0MG9hSkdGeTA1WThMcVZaYnZDTA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1JjVVVBcjQ3d2p6ZzNkNmZVaTQ0eEhnYzltSGlIYlpRRlVoQjJhVlUweVA2RnRGUDYzQ29oYUhCRkV5X3RQZHJYSDkxWlQxUWg2ZDN6NHh3bHZ0dF9IQ2RIQmZHa3RCVkpVWko3WGtxMWdtWHY2NDNPWmpia2x2Z19CZ3ZwY05oM3ZteTVjNWFaUmtHZEh4amtXajN0MG9hSkdGeTA1WThMcV",
-      "source": "9to5Mac",
+      "id": "8d9a1ca08d69eb9e",
+      "title": "Adobe Firefly AI Assistant Moves Into Premiere, Photoshop, and Illustrator",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa3UyVURvajdSWjcwbzNwXzI2NUM1eDl4NGgwMWhNZGhzXzNNX09FNWtpSVIyVmhnSVBPQU5jbW5nSURFcWhFVXpXcHppSC1wY0RxY3dWQ0pfNGdhc28wUS1XSUUxZ3BoTElJaWd0MHE2Z25DMTJQVW9mZFBsdE1hRFIycFgtR3EtLXfSAYoBQVVfeXFMTmt1MlVEb2o3Ulo3MG8zcF8yNjVDNXg5eDRoMDFoTWRoc18zTV9PRTVraUlSMlZoZ0lQT0FOY21uZ0lERXFoRVV6V3B6aUgtcGNEcWN3VkNKXzRnYXNvMFEtV0lFMWdwaExJSWlndDBxNmduQzEyUFVvZmRQbHRNYURSMnBYLUdxLS13?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOa3UyVURvajdSWjcwbzNwXzI2NUM1eDl4NGgwMWhNZGhzXzNNX09FNWtpSVIyVmhnSVBPQU5jbW5nSURFcWhFVXpXcHppSC1wY0RxY3dWQ0pfNGdhc28wUS1XSUUxZ3BoTElJaWd0MHE2Z25DMTJQVW9mZFBsdE1hRFIycFgtR3EtLXfSAYoBQVVfeXFMTmt1MlVEb2o3Ulo3MG8zcF8yNjVDNX",
+      "source": "Tech My Money",
       "beat": "Adobe Firefly",
       "publishedDate": "2026-06-18T07:00:00.000Z",
       "category": "tools"
@@ -1991,21 +2021,11 @@
       "category": "tools"
     },
     {
-      "id": "8d9a1ca08d69eb9e",
-      "title": "Adobe Firefly AI Assistant Moves Into Premiere, Photoshop, and Illustrator",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa3UyVURvajdSWjcwbzNwXzI2NUM1eDl4NGgwMWhNZGhzXzNNX09FNWtpSVIyVmhnSVBPQU5jbW5nSURFcWhFVXpXcHppSC1wY0RxY3dWQ0pfNGdhc28wUS1XSUUxZ3BoTElJaWd0MHE2Z25DMTJQVW9mZFBsdE1hRFIycFgtR3EtLXfSAYoBQVVfeXFMTmt1MlVEb2o3Ulo3MG8zcF8yNjVDNXg5eDRoMDFoTWRoc18zTV9PRTVraUlSMlZoZ0lQT0FOY21uZ0lERXFoRVV6V3B6aUgtcGNEcWN3VkNKXzRnYXNvMFEtV0lFMWdwaExJSWlndDBxNmduQzEyUFVvZmRQbHRNYURSMnBYLUdxLS13?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOa3UyVURvajdSWjcwbzNwXzI2NUM1eDl4NGgwMWhNZGhzXzNNX09FNWtpSVIyVmhnSVBPQU5jbW5nSURFcWhFVXpXcHppSC1wY0RxY3dWQ0pfNGdhc28wUS1XSUUxZ3BoTElJaWd0MHE2Z25DMTJQVW9mZFBsdE1hRFIycFgtR3EtLXfSAYoBQVVfeXFMTmt1MlVEb2o3Ulo3MG8zcF8yNjVDNX",
-      "source": "techmymoney.com",
-      "beat": "Adobe Firefly",
-      "publishedDate": "2026-06-18T07:00:00.000Z",
-      "category": "tools"
-    },
-    {
-      "id": "e07b5fc817e02a16",
-      "title": "Adobe solves one of AI's most maddening problems amongst a ton of other announcements",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmc1YktLMERTRS1UcU84UnhpZ3c5R2ZDZUlZM1U1Zkh6TnBNVlYzSnVpX2RlZUhuTm5lLVAzUV90NWV0b2pLczZyU29nMk5FR1hfRzBiR0RobWhWSzJLRUdzOERpaE81STBqbEFaLS1sQWxSM0FndFowRm55ZDBoZFpfd1hJWm1hQ2tmMlpNM3lQYlhqQ3JlbzBxbVRuRkhxMHNvWEJrR201dHhraUFpZGplZmVDcVU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmc1YktLMERTRS1UcU84UnhpZ3c5R2ZDZUlZM1U1Zkh6TnBNVlYzSnVpX2RlZUhuTm5lLVAzUV90NWV0b2pLczZyU29nMk5FR1hfRzBiR0RobWhWSzJLRUdzOERpaE81STBqbEFaLS1sQWxSM0FndFowRm55ZDBoZFpfd1hJWm1hQ2tmMlpNM3lQYlhqQ3JlbzBxbVRuRkhxMHNvWEJrR201dH",
-      "source": "Creative Bloq",
+      "id": "9ac0045fe0c985be",
+      "title": "Adobe expands Firefly capabilities, extends agentic tools to Creative Cloud apps",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1JjVVVBcjQ3d2p6ZzNkNmZVaTQ0eEhnYzltSGlIYlpRRlVoQjJhVlUweVA2RnRGUDYzQ29oYUhCRkV5X3RQZHJYSDkxWlQxUWg2ZDN6NHh3bHZ0dF9IQ2RIQmZHa3RCVkpVWko3WGtxMWdtWHY2NDNPWmpia2x2Z19CZ3ZwY05oM3ZteTVjNWFaUmtHZEh4amtXajN0MG9hSkdGeTA1WThMcVZaYnZDTA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1JjVVVBcjQ3d2p6ZzNkNmZVaTQ0eEhnYzltSGlIYlpRRlVoQjJhVlUweVA2RnRGUDYzQ29oYUhCRkV5X3RQZHJYSDkxWlQxUWg2ZDN6NHh3bHZ0dF9IQ2RIQmZHa3RCVkpVWko3WGtxMWdtWHY2NDNPWmpia2x2Z19CZ3ZwY05oM3ZteTVjNWFaUmtHZEh4amtXajN0MG9hSkdGeTA1WThMcV",
+      "source": "9to5Mac",
       "beat": "Adobe Firefly",
       "publishedDate": "2026-06-18T07:00:00.000Z",
       "category": "tools"
@@ -2021,11 +2041,11 @@
       "category": "tools"
     },
     {
-      "id": "1a97e8fee5d30286",
-      "title": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZjFrSVhtU3p2OFp6Z3V4dTY1SWxPQ3lnQXZEcXFnY3JKQ2J3MlNlWUtHLXNRMF9BYmdJclEyLXY0UXltTTFFNlhoeEJKV044SDNPVlVfeGd4dDBTR2xtREVrV0FHTWlQX1ZDU1lERUZ3MUNXd19DUFF5MGNDbDFWMURqVUtXQ1RPbzUtOEhVOTlmRXhCb21nbDNoczMyQ2M5LVkzNnctLXlCWGt4em90WEkzOXVPZTNHTnNQcjRJbWNPd3RoMjJDdlRtRm1fZHg3cmh3UXJBV2ppeDdOWXhENGc0ZTdKOFE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZjFrSVhtU3p2OFp6Z3V4dTY1SWxPQ3lnQXZEcXFnY3JKQ2J3MlNlWUtHLXNRMF9BYmdJclEyLXY0UXltTTFFNlhoeEJKV044SDNPVlVfeGd4dDBTR2xtREVrV0FHTWlQX1ZDU1lERUZ3MUNXd19DUFF5MGNDbDFWMURqVUtXQ1RPbzUtOEhVOTlmRXhCb21nbDNoczMyQ2M5LVkzNnctLXlCWG",
-      "source": "VentureBeat",
+      "id": "e07b5fc817e02a16",
+      "title": "Adobe solves one of AI's most maddening problems amongst a ton of other announcements",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmc1YktLMERTRS1UcU84UnhpZ3c5R2ZDZUlZM1U1Zkh6TnBNVlYzSnVpX2RlZUhuTm5lLVAzUV90NWV0b2pLczZyU29nMk5FR1hfRzBiR0RobWhWSzJLRUdzOERpaE81STBqbEFaLS1sQWxSM0FndFowRm55ZDBoZFpfd1hJWm1hQ2tmMlpNM3lQYlhqQ3JlbzBxbVRuRkhxMHNvWEJrR201dHhraUFpZGplZmVDcVU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmc1YktLMERTRS1UcU84UnhpZ3c5R2ZDZUlZM1U1Zkh6TnBNVlYzSnVpX2RlZUhuTm5lLVAzUV90NWV0b2pLczZyU29nMk5FR1hfRzBiR0RobWhWSzJLRUdzOERpaE81STBqbEFaLS1sQWxSM0FndFowRm55ZDBoZFpfd1hJWm1hQ2tmMlpNM3lQYlhqQ3JlbzBxbVRuRkhxMHNvWEJrR201dH",
+      "source": "Creative Bloq",
       "beat": "Adobe Firefly",
       "publishedDate": "2026-06-18T07:00:00.000Z",
       "category": "tools"
@@ -2041,11 +2061,11 @@
       "category": "tools"
     },
     {
-      "id": "eb291cbfab357fa8",
-      "title": "Adobe Announces Massive Expansion of Its Agentic AI Capabilities in Firefly and Apps like Premiere",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94SmQ2VU1YQm40LThvaDA5OEljSk12M1NmNEJWYnZTZ3E5eGhnTUJHVmw0LXRYZlRpa2w1bkdMSDhHM29ScXRQWXd2NVp5RHdlZXpBeFFOMk1CNTlP?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE94SmQ2VU1YQm40LThvaDA5OEljSk12M1NmNEJWYnZTZ3E5eGhnTUJHVmw0LXRYZlRpa2w1bkdMSDhHM29ScXRQWXd2NVp5RHdlZXpBeFFOMk1CNTlP?oc=5\" target=\"_blank\">Adobe Announces Massive Expansion of Its Agentic AI Capabilities in Firefly and App",
-      "source": "No Film School",
+      "id": "1a97e8fee5d30286",
+      "title": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZjFrSVhtU3p2OFp6Z3V4dTY1SWxPQ3lnQXZEcXFnY3JKQ2J3MlNlWUtHLXNRMF9BYmdJclEyLXY0UXltTTFFNlhoeEJKV044SDNPVlVfeGd4dDBTR2xtREVrV0FHTWlQX1ZDU1lERUZ3MUNXd19DUFF5MGNDbDFWMURqVUtXQ1RPbzUtOEhVOTlmRXhCb21nbDNoczMyQ2M5LVkzNnctLXlCWGt4em90WEkzOXVPZTNHTnNQcjRJbWNPd3RoMjJDdlRtRm1fZHg3cmh3UXJBV2ppeDdOWXhENGc0ZTdKOFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZjFrSVhtU3p2OFp6Z3V4dTY1SWxPQ3lnQXZEcXFnY3JKQ2J3MlNlWUtHLXNRMF9BYmdJclEyLXY0UXltTTFFNlhoeEJKV044SDNPVlVfeGd4dDBTR2xtREVrV0FHTWlQX1ZDU1lERUZ3MUNXd19DUFF5MGNDbDFWMURqVUtXQ1RPbzUtOEhVOTlmRXhCb21nbDNoczMyQ2M5LVkzNnctLXlCWG",
+      "source": "VentureBeat",
       "beat": "Adobe Firefly",
       "publishedDate": "2026-06-18T07:00:00.000Z",
       "category": "tools"
@@ -2056,6 +2076,16 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWm1leVJwcEZYcUs0RVpNNkdzcHoxYjFtYUV1NFFBS0pWVTVYRG81d3YyWG4xbEJMbnpGdGoxNkRQNFR5QXBFZGZpSks2VEUzUkpiUlg3T1ZuenhRUGFqREM1c1JQV09BRDhNRlVpV2xHeXkzTk5kS0Z6REU5a09LZkZoaWNZOWNxQnBjLWE2Q1gxX1hCODlzNkFMQ1g?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPWm1leVJwcEZYcUs0RVpNNkdzcHoxYjFtYUV1NFFBS0pWVTVYRG81d3YyWG4xbEJMbnpGdGoxNkRQNFR5QXBFZGZpSks2VEUzUkpiUlg3T1ZuenhRUGFqREM1c1JQV09BRDhNRlVpV2xHeXkzTk5kS0Z6REU5a09LZkZoaWNZOWNxQnBjLWE2Q1gxX1hCODlzNkFMQ1g?oc=5\" target=\"_bla",
       "source": "the-decoder.com",
+      "beat": "Adobe Firefly",
+      "publishedDate": "2026-06-18T07:00:00.000Z",
+      "category": "tools"
+    },
+    {
+      "id": "eb291cbfab357fa8",
+      "title": "Adobe Announces Massive Expansion of Its Agentic AI Capabilities in Firefly and Apps like Premiere",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94SmQ2VU1YQm40LThvaDA5OEljSk12M1NmNEJWYnZTZ3E5eGhnTUJHVmw0LXRYZlRpa2w1bkdMSDhHM29ScXRQWXd2NVp5RHdlZXpBeFFOMk1CNTlP?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE94SmQ2VU1YQm40LThvaDA5OEljSk12M1NmNEJWYnZTZ3E5eGhnTUJHVmw0LXRYZlRpa2w1bkdMSDhHM29ScXRQWXd2NVp5RHdlZXpBeFFOMk1CNTlP?oc=5\" target=\"_blank\">Adobe Announces Massive Expansion of Its Agentic AI Capabilities in Firefly and App",
+      "source": "No Film School",
       "beat": "Adobe Firefly",
       "publishedDate": "2026-06-18T07:00:00.000Z",
       "category": "tools"
@@ -2095,7 +2125,7 @@
       "title": "Midjourney Reveals Full-Body Medical Scanner, Expanding Beyond AI Image Generation",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3JZSFZxVEc1SXU0VGZISW9xNmdCcngwWHRtaXAwUXg2Vzd4QUJlYXM3NlZ6X0I1TXhLZlVkUnpKbVBORXBXbnJ4cWNpbVN1VHR6WkNmNmpWeFMtRXN3MHpfRkd0UDZmcjBZanNWXzlXcUh3aUx4VmlYQ1YwRl9tbGpmeEM1QW0zZDliWExkX0JxZTFSc2VwZEhKYmVfbjdVTlJTX3p2cWlkdw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3JZSFZxVEc1SXU0VGZISW9xNmdCcngwWHRtaXAwUXg2Vzd4QUJlYXM3NlZ6X0I1TXhLZlVkUnpKbVBORXBXbnJ4cWNpbVN1VHR6WkNmNmpWeFMtRXN3MHpfRkd0UDZmcjBZanNWXzlXcUh3aUx4VmlYQ1YwRl9tbGpmeEM1QW0zZDliWExkX0JxZTFSc2VwZEhKYmVfbjdVTlJTX3p2cWlkdw",
-      "source": "tekedia.com",
+      "source": "Tekedia",
       "beat": "Midjourney Design",
       "publishedDate": "2026-06-18T07:00:00.000Z",
       "category": "ux"
@@ -2125,7 +2155,7 @@
       "title": "Adobe Unveils Major Expansion of Creative Agent Across Firefly and Creative Cloud Apps Including Photoshop and Premiere",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iM1dHcDBrc01VNWxESDBlN08tZ2UwQ2lJdENLU0ljeDhnaVdkaGltdW4tT0p5ZEFVSkRjYXRLUFdORGk3UWx4Z2xrVUFPMTl1NFlIVFhCemRjTXdzRXFkYjdmQ2pTbDh0UHNpQ2l0Y3JTXzA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1iM1dHcDBrc01VNWxESDBlN08tZ2UwQ2lJdENLU0ljeDhnaVdkaGltdW4tT0p5ZEFVSkRjYXRLUFdORGk3UWx4Z2xrVUFPMTl1NFlIVFhCemRjTXdzRXFkYjdmQ2pTbDh0UHNpQ2l0Y3JTXzA?oc=5\" target=\"_blank\">Adobe Unveils Major Expansion of Creative Agent Acro",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "Creative AI",
       "publishedDate": "2026-06-18T07:00:00.000Z",
       "category": "tools"
@@ -2155,7 +2185,7 @@
       "title": "Adobe partners with Disney Imagineering to enhance theme park design with Firefly Foundry AI",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdUFoQUd0cTc3bHVGSS0xS214cGNiTldtRFhLXzdxSXJQOEd3RFNLc3k2dVVXYmJVZThpODZPdkNhN3RVdnIyNjFQRVNmanJ1aGhzeEpJc0RuaTlTeE5Qd2JrNGlDeHkxb19RdDFhVW5xQTB2OEtJYkdYMVlXUnV5N1RyWkdLNHhDUi1pVHBEVWZTa3VyeFlCeW96OHhrVzJKY0NLbHpvZ03SAa4BQVVfeXFMTUZlMzVwcXVTRERoRldfZ2pMMm92WmRJS3BaQ1d4cnliem90ZzNmQ2RPbVpxME9xWm94MVJMNFFDSlRVQm9GX0Y1VDltSDB0MHdOZjdrZ0JxWHhPbHhFRHdhVjIyaHZJLS1fbDVjSm00UGFfdEs2eEZiVW9VMWs4TXlvbFh5dDdzMUpYMFh5dXhOR002Y0VnM19ISldlV0ExUTByb2JxZ2RhZF9nQmNn?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdUFoQUd0cTc3bHVGSS0xS214cGNiTldtRFhLXzdxSXJQOEd3RFNLc3k2dVVXYmJVZThpODZPdkNhN3RVdnIyNjFQRVNmanJ1aGhzeEpJc0RuaTlTeE5Qd2JrNGlDeHkxb19RdDFhVW5xQTB2OEtJYkdYMVlXUnV5N1RyWkdLNHhDUi1pVHBEVWZTa3VyeFlCeW96OHhrVzJKY0NLbHpvZ03SAa",
-      "source": "fonearena.com",
+      "source": "FoneArena.com",
       "beat": "Adobe Stitch",
       "publishedDate": "2026-06-17T07:00:00.000Z",
       "category": "tools"
@@ -2219,6 +2249,16 @@
       "beat": "AI Branding",
       "publishedDate": "2026-06-17T07:00:00.000Z",
       "category": "ux"
+    },
+    {
+      "id": "6f4f4d42b64c7525",
+      "title": "AWS Security Agent adds threat modeling, Kiro power and Claude Code plugin, and more",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZF9EV2hkd0VwbXNVbWtLSWdKNjhJV19acmVvbXFfWHZxWXhMM3gyc2Rnbm45dzJ3V1VwdkFkc3FtY1BUTDJDMFBfRmhUYmtRQS16S1JRdVRvS3ZwQTNtQmFJbHFTTkQ4YVowUlg3NUhoSlQxVFl2SzFOQnR5Tmp2ZFBwR0JpZ0FxOWtJXzZraFBSRkFuckZ6MVphZS15WVBxbVVETWVRWWh5RkliVm1aR05RLTlRUTg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQZF9EV2hkd0VwbXNVbWtLSWdKNjhJV19acmVvbXFfWHZxWXhMM3gyc2Rnbm45dzJ3V1VwdkFkc3FtY1BUTDJDMFBfRmhUYmtRQS16S1JRdVRvS3ZwQTNtQmFJbHFTTkQ4YVowUlg3NUhoSlQxVFl2SzFOQnR5Tmp2ZFBwR0JpZ0FxOWtJXzZraFBSRkFuckZ6MVphZS15WVBxbVVETWVRWWh5Rk",
+      "source": "Amazon Web Services (AWS)",
+      "beat": "AI Design Feedback",
+      "publishedDate": "2026-06-17T07:00:00.000Z",
+      "category": "tools"
     },
     {
       "id": "2cfc386137076803",
@@ -2391,16 +2431,6 @@
       "category": "ux"
     },
     {
-      "id": "e47a12fa2ae060b8",
-      "title": "Exploring inclusive AI in education: perceptions of neurodivergent and neurotypical students",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVEwwYU1nTVBCUjJZVmNJbmhwM0w4SlI2TFNJYVN0YTlONXlpQ1RYbVo5STY0UHdvOXUyamxRWHJrU2tjcVFLMVB4NTZ4dHpKb2VzNXhMSGxfUlNlUklVRzBDWHJZblk4ZlBVcDJORGJIekJqMlEwZWdYZWhrSXlSLTgtUlgzRW00bkVjOFNYQXd1azhRbUU5TUpR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNVEwwYU1nTVBCUjJZVmNJbmhwM0w4SlI2TFNJYVN0YTlONXlpQ1RYbVo5STY0UHdvOXUyamxRWHJrU2tjcVFLMVB4NTZ4dHpKb2VzNXhMSGxfUlNlUklVRzBDWHJZblk4ZlBVcDJORGJIekJqMlEwZWdYZWhrSXlSLTgtUlgzRW00bkVjOFNYQXd1azhRbUU5TUpR?oc=5\" target=\"_blank\"",
-      "source": "Frontiers",
-      "beat": "AI Design Feedback",
-      "publishedDate": "2026-06-12T14:27:09.000Z",
-      "category": "ux"
-    },
-    {
       "id": "ed78220762a4de78",
       "title": "Ideogram AI Review: Key Features I Actually Tested",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BcVVFTGtFekM5MUJqOUZFUFBPM0lQQXFnWW1UNjA1dTZHRENGN3FlSlA4NjVSZlZUQjBJN3VKSmxnZ2RTVDl6T19CM25xR3QxUDJpMlBkTGZBTEVpOWQ4NFdjZGQ?oc=5",
@@ -2479,16 +2509,6 @@
       "beat": "AI Marketing Design",
       "publishedDate": "2026-06-11T07:00:00.000Z",
       "category": "ux"
-    },
-    {
-      "id": "f28119ce05365cbf",
-      "title": "Top AI Presentation Makers in 2026: Ranked by Use Case After Hands-On Testing",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUWWF5Q0F0bi1VR0pZV0Q1VnJQTjF0S2ZQWnVwcnlhaWVLTzVIZUhmd1luUWtsNmtYZ19Xa2NaY1AzR0h2WGh6TnRoWDJzUUlRcG1JY253S3BCZFdPX1c5cGI0OTVDdTBBS1FTdnF2SG0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBUWWF5Q0F0bi1VR0pZV0Q1VnJQTjF0S2ZQWnVwcnlhaWVLTzVIZUhmd1luUWtsNmtYZ19Xa2NaY1AzR0h2WGh6TnRoWDJzUUlRcG1JY253S3BCZFdPX1c5cGI0OTVDdTBBS1FTdnF2SG0?oc=5\" target=\"_blank\">Top AI Presentation Makers in 2026: Ranked by Use Case A",
-      "source": "High On Films",
-      "beat": "AI Presentation",
-      "publishedDate": "2026-06-11T07:00:00.000Z",
-      "category": "ai-tools"
     },
     {
       "id": "aa1bb46cfec3a7db",
@@ -2615,7 +2635,7 @@
       "title": "10 Best Free AI Image Generators to Try in 2026",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EVTNoRkM3Z0k5TEpHOTVydWdOMXFjTXpheEtWVjNjS1FqV21oemxSU3M2NmliaHg4Mk1jVk8tQW4wdldhWnpZcDB5aXMtanFZRTl3TjgyLXdPdWxJZDlPVQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EVTNoRkM3Z0k5TEpHOTVydWdOMXFjTXpheEtWVjNjS1FqV21oemxSU3M2NmliaHg4Mk1jVk8tQW4wdldhWnpZcDB5aXMtanFZRTl3TjgyLXdPdWxJZDlPVQ?oc=5\" target=\"_blank\">10 Best Free AI Image Generators to Try in 2026</a>&nbsp;&nbsp;<font color=\"#",
-      "source": "Memeburn",
+      "source": "memeburn.com",
       "beat": "Stable Diffusion",
       "publishedDate": "2026-06-06T17:11:20.000Z",
       "category": "ui"
@@ -2715,7 +2735,7 @@
       "title": "Best AI Logo Generators in 2026: Tested, Ranked &amp; Compared for Every Budget",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LbXdHLTUxR2gwWlFtVy04X0o1RXpNRE9JZzBLUXVvMjl0bDllLU9OcHBQekdTUDA1MVBHazJPNmJBTk54NGdTeEhEYzVjRHU5U1I0TjJYUQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LbXdHLTUxR2gwWlFtVy04X0o1RXpNRE9JZzBLUXVvMjl0bDllLU9OcHBQekdTUDA1MVBHazJPNmJBTk54NGdTeEhEYzVjRHU5U1I0TjJYUQ?oc=5\" target=\"_blank\">Best AI Logo Generators in 2026: Tested, Ranked & Compared for Every Budget</a>&nbsp;&nbs",
-      "source": "Memeburn",
+      "source": "memeburn.com",
       "beat": "Ideogram AI",
       "publishedDate": "2026-06-03T19:35:55.000Z",
       "category": "ux"
@@ -2725,7 +2745,7 @@
       "title": "12 Best AI Website Builders in 2026: Which Ones Win?",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wLWRhRElRRzRLcXFHUVFnUjFrM3RwaEZuODh4clhnWlBPXzM0a1czeFljaVVVOEdGc1RycVFyY1NscUJ0SnNtNzBQeW84VFFoOEZQQlZ4b3B6Zw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wLWRhRElRRzRLcXFHUVFnUjFrM3RwaEZuODh4clhnWlBPXzM0a1czeFljaVVVOEdGc1RycVFyY1NscUJ0SnNtNzBQeW84VFFoOEZQQlZ4b3B6Zw?oc=5\" target=\"_blank\">12 Best AI Website Builders in 2026: Which Ones Win?</a>&nbsp;&nbsp;<font color=\"#6f6",
-      "source": "Memeburn",
+      "source": "memeburn.com",
       "beat": "Framer AI",
       "publishedDate": "2026-06-03T09:27:07.000Z",
       "category": "tools"
@@ -2751,20 +2771,20 @@
       "category": "tools"
     },
     {
-      "id": "dbd63c4e76a9a37e",
-      "title": "Reve 2.0 shows image generation is still open for startups",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV3h3UUJCRDFCY3FVQ2J2eVJPS2lPWnRyLU9MMkthT3pILXdrTnpzcnJKN2YxRTFKTkJYYlhPYXdBMVhnb2I0b0NSY2dwMy12dy1fNmN4U1g4SVltMDNZckk3dzRhU0JKbTNrMUJuOGtTcHQwZkgzUnVfa3ZwZXh4THhSZElQZDNMNDRfNFBn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPV3h3UUJCRDFCY3FVQ2J2eVJPS2lPWnRyLU9MMkthT3pILXdrTnpzcnJKN2YxRTFKTkJYYlhPYXdBMVhnb2I0b0NSY2dwMy12dy1fNmN4U1g4SVltMDNZckk3dzRhU0JKbTNrMUJuOGtTcHQwZkgzUnVfa3ZwZXh4THhSZElQZDNMNDRfNFBn?oc=5\" target=\"_blank\">Reve 2.0 shows ",
+      "id": "2472cccf26de14d4",
+      "title": "Ideogram 4.0 turns open weights into a startup weapon",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMFRwcFN3T2wyQmgzYmRCNDJqWnJWdzF1cVF1V1FpNk5KNVE4dGx5bFBEXzBhVDBkWW1OUVMzVlFRd0xhUGlRdzdYbFV4RThwWmkwRmp1UEl4enJpaW9yWWJHQmp2V1FKMVFGSVpTU29JMl8xc3plQlBrb3VKX1M0d0hZR1dfbzQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNMFRwcFN3T2wyQmgzYmRCNDJqWnJWdzF1cVF1V1FpNk5KNVE4dGx5bFBEXzBhVDBkWW1OUVMzVlFRd0xhUGlRdzdYbFV4RThwWmkwRmp1UEl4enJpaW9yWWJHQmp2V1FKMVFGSVpTU29JMl8xc3plQlBrb3VKX1M0d0hZR1dfbzQ?oc=5\" target=\"_blank\">Ideogram 4.0 turns open ",
       "source": "Startup Fortune",
       "beat": "Ideogram AI",
       "publishedDate": "2026-06-03T07:00:00.000Z",
       "category": "ux"
     },
     {
-      "id": "2472cccf26de14d4",
-      "title": "Ideogram 4.0 turns open weights into a startup weapon",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMFRwcFN3T2wyQmgzYmRCNDJqWnJWdzF1cVF1V1FpNk5KNVE4dGx5bFBEXzBhVDBkWW1OUVMzVlFRd0xhUGlRdzdYbFV4RThwWmkwRmp1UEl4enJpaW9yWWJHQmp2V1FKMVFGSVpTU29JMl8xc3plQlBrb3VKX1M0d0hZR1dfbzQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNMFRwcFN3T2wyQmgzYmRCNDJqWnJWdzF1cVF1V1FpNk5KNVE4dGx5bFBEXzBhVDBkWW1OUVMzVlFRd0xhUGlRdzdYbFV4RThwWmkwRmp1UEl4enJpaW9yWWJHQmp2V1FKMVFGSVpTU29JMl8xc3plQlBrb3VKX1M0d0hZR1dfbzQ?oc=5\" target=\"_blank\">Ideogram 4.0 turns open ",
+      "id": "dbd63c4e76a9a37e",
+      "title": "Reve 2.0 shows image generation is still open for startups",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV3h3UUJCRDFCY3FVQ2J2eVJPS2lPWnRyLU9MMkthT3pILXdrTnpzcnJKN2YxRTFKTkJYYlhPYXdBMVhnb2I0b0NSY2dwMy12dy1fNmN4U1g4SVltMDNZckk3dzRhU0JKbTNrMUJuOGtTcHQwZkgzUnVfa3ZwZXh4THhSZElQZDNMNDRfNFBn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPV3h3UUJCRDFCY3FVQ2J2eVJPS2lPWnRyLU9MMkthT3pILXdrTnpzcnJKN2YxRTFKTkJYYlhPYXdBMVhnb2I0b0NSY2dwMy12dy1fNmN4U1g4SVltMDNZckk3dzRhU0JKbTNrMUJuOGtTcHQwZkgzUnVfa3ZwZXh4THhSZElQZDNMNDRfNFBn?oc=5\" target=\"_blank\">Reve 2.0 shows ",
       "source": "Startup Fortune",
       "beat": "Ideogram AI",
       "publishedDate": "2026-06-03T07:00:00.000Z",
@@ -2889,6 +2909,16 @@
       "beat": "Design + AI Tools",
       "publishedDate": "2026-06-02T07:00:00.000Z",
       "category": "ux"
+    },
+    {
+      "id": "6fbb2799fd880a69",
+      "title": "Identity and access management",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wWWZzTDNJWUFldHVMOU9IejNCb29fQ3g0Y3FzdEk1U3lmdTFqeUxZellrcmQyN0NVbGhiM19nZFlpdGZZMmo3N0dfdXRpNzZpRFZqbGZfbUtNbTlvNkZwZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wWWZzTDNJWUFldHVMOU9IejNCb29fQ3g0Y3FzdEk1U3lmdTFqeUxZellrcmQyN0NVbGhiM19nZFlpdGZZMmo3N0dfdXRpNzZpRFZqbGZfbUtNbTlvNkZwZw?oc=5\" target=\"_blank\">Identity and access management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National ",
+      "source": "National Institute of Standards and Technology (.gov)",
+      "beat": "AI Style Guide",
+      "publishedDate": "2026-06-01T21:43:15.000Z",
+      "category": "tools"
     },
     {
       "id": "d17603fb990971d1",
@@ -3315,7 +3345,7 @@
       "title": "Adobe for creativity connector expands AI creative workflows to Gemini",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdHRxajlBVnpZSWlGQkVQNVZLcGoyclZkcUllQ2hOX1JrcHY1d2NkZVltVXUxaFh0VVpUaUlCazZFS1FTS1g2WVpidlp1eFNWUUZpNENaTk9TZUlRUmxQNUlCUXExanc4ZWEydnN3a3A0VHU1QXVBeV9nV083dGhYdkpBY9IBiAFBVV95cUxQMUxGT004SV9sTDhmUHU0V0MyeDBNMzhjeWF1NjRPSDVaUTRjbGRfMm1qQndoVVhIWDBuRldBSW9XNHNIdmZHSC00UDVMT0IwdU9RSzNQMkdnS0Rlc0ZQUDJvcTJIN2pRMnd1czJYUXNhTWxxSmo3NTdyTzZhUTlTVFVFYXAyTmtP?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPdHRxajlBVnpZSWlGQkVQNVZLcGoyclZkcUllQ2hOX1JrcHY1d2NkZVltVXUxaFh0VVpUaUlCazZFS1FTS1g2WVpidlp1eFNWUUZpNENaTk9TZUlRUmxQNUlCUXExanc4ZWEydnN3a3A0VHU1QXVBeV9nV083dGhYdkpBY9IBiAFBVV95cUxQMUxGT004SV9sTDhmUHU0V0MyeDBNMzhjeWF1Nj",
-      "source": "fonearena.com",
+      "source": "FoneArena.com",
       "beat": "Adobe Firefly",
       "publishedDate": "2026-05-21T07:00:00.000Z",
       "category": "tools"
@@ -3525,7 +3555,7 @@
       "title": "23 Best Free AI Tools in 2026: Tested, Ranked &amp; Compared by Category",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RSlEtRDVqVFROTHFTNDk0LTFGT3ViME1HcmRQTnBxSDRja1ZraE9ydkpUbEdPOEp2QUNPY2ozWHRScGxwY0VwR0JFYzNUbGxRMVE?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RSlEtRDVqVFROTHFTNDk0LTFGT3ViME1HcmRQTnBxSDRja1ZraE9ydkpUbEdPOEp2QUNPY2ozWHRScGxwY0VwR0JFYzNUbGxRMVE?oc=5\" target=\"_blank\">23 Best Free AI Tools in 2026: Tested, Ranked & Compared by Category</a>&nbsp;&nbsp;<font color=",
-      "source": "Memeburn",
+      "source": "memeburn.com",
       "beat": "Ideogram AI",
       "publishedDate": "2026-05-20T03:44:16.000Z",
       "category": "ui"
@@ -3615,7 +3645,7 @@
       "title": "AI Can Plan Your Life. You’re Better Off Doing It Yourself.",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5abXB5VkVoM1BVYjZiMnY4MW8tejQ5TURINjZBcy13NHk5cGh2bEJQc2N3RlNlejhlNWxxVXJlcTBnWFZ2NC1NOVdmdEN5cGdMVmJoLWgzZjlBTlp3UU5hRGZOMHhodW11R3JYWW9ZT0xLNnB3R0E?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5abXB5VkVoM1BVYjZiMnY4MW8tejQ5TURINjZBcy13NHk5cGh2bEJQc2N3RlNlejhlNWxxVXJlcTBnWFZ2NC1NOVdmdEN5cGdMVmJoLWgzZjlBTlp3UU5hRGZOMHhodW11R3JYWW9ZT0xLNnB3R0E?oc=5\" target=\"_blank\">AI Can Plan Your Life. You’re Better Off Doing I",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "beat": "Notion AI Design",
       "publishedDate": "2026-05-18T07:00:00.000Z",
       "category": "ai-tools"
@@ -3781,6 +3811,16 @@
       "category": "ux"
     },
     {
+      "id": "c09ce3f985389d20",
+      "title": "Analysis reveals AI’s impact on research, journals",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMk9CME44amFfY0F3Rzl2WEZZenQxQ3lXSXM0ZkRuNnhnUEgzT1VObFBlVXdZdFZQWWc3aTBESDE5SGxRQlZYcGx0SVBpZC1GWkpiZTRWd28xTV9fMEJuS3dLcnczS2QtTFBlb3RaT09wUW1jLTZWUGlFNDNyWkVITm5SbExKcjhNd0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMk9CME44amFfY0F3Rzl2WEZZenQxQ3lXSXM0ZkRuNnhnUEgzT1VObFBlVXdZdFZQWWc3aTBESDE5SGxRQlZYcGx0SVBpZC1GWkpiZTRWd28xTV9fMEJuS3dLcnczS2QtTFBlb3RaT09wUW1jLTZWUGlFNDNyWkVITm5SbExKcjhNd0E?oc=5\" target=\"_blank\">Analysis reveals AI’",
+      "source": "WashU",
+      "beat": "AI Design Feedback",
+      "publishedDate": "2026-05-12T07:00:00.000Z",
+      "category": "ux"
+    },
+    {
       "id": "11e79adfa74a7f91",
       "title": "Former Wiz and Team8 executives raise $50 million for cyber startup Frame",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsdDgxWmtJYWR5aXZFaUdnWGoxdnQ3alNhVHFSOUlrLTZ6ZWo0UG5qMVphWm50YndVS1hPRWZqRXJOVkx5VEpkWjRhS1lBbWtWWTg0ZTZfa3hlaXVLbXZrMDgtT0JISkU3?oc=5",
@@ -3821,16 +3861,6 @@
       "category": "ux"
     },
     {
-      "id": "615a2230fe655c87",
-      "title": "Prompt engineering for designers: Examples and tips",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pWm40VERBbXRzYk5FMVluMXUtX2t0V2hJQURPR0NwcUlmMVBEWElYeXBVcjRlOFdMUVdxVUpCNERiRkVmTDdIWnZSalM1c1dUamRTTTlXWWVPOXdHSmhpeEhkU2Z4ZUZSS2ZWVDUwelVWUktGUFViakRaZ04?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9pWm40VERBbXRzYk5FMVluMXUtX2t0V2hJQURPR0NwcUlmMVBEWElYeXBVcjRlOFdMUVdxVUpCNERiRkVmTDdIWnZSalM1c1dUamRTTTlXWWVPOXdHSmhpeEhkU2Z4ZUZSS2ZWVDUwelVWUktGUFViakRaZ04?oc=5\" target=\"_blank\">Prompt engineering for designers: Exampl",
-      "source": "Hostinger",
-      "beat": "AI Style Guide",
-      "publishedDate": "2026-05-10T07:00:00.000Z",
-      "category": "tools"
-    },
-    {
       "id": "f5cc494d46448200",
       "title": "Claude Design Vs Adobe Creative Cloud Pro: Which Creative Tool Wins In 2026?",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQUhmaG4tTTFfbGhMU05NNWZacWhJSVJCektXUmt6eEdZZWlEWGx3ZjZZejZJbVA3Mkt0Unk1ODRHTjlmb0Vac0U3QS1GbW0tOExpZXpzMFhFSGV0ZW1hV05uRDNKVm1KTGJPci1KRjlCU0JPR2Q3VkQzLVJHdld2d05xcFg0YUkyWlIzZ2dSRXEtVklqVmdBaUtjM1lrbHpFaEpOQ1VB?oc=5",
@@ -3855,7 +3885,7 @@
       "title": "I vibe coded a Rust frontend for FFmpeg and I’m never touching the command line again",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HNDI5cUt4THA2SkNEbEhKUllSY1FOZVFRZUtNeUFRUktaNWZqclpCYzlZaHZUbUtDaGd3aDZ1NllweXQ3UVhpbmhZdnR3MUZsWjJ6UFN1c2xBbVNHUWJqQWh4eGNSR3l4X1E?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9HNDI5cUt4THA2SkNEbEhKUllSY1FOZVFRZUtNeUFRUktaNWZqclpCYzlZaHZUbUtDaGd3aDZ1NllweXQ3UVhpbmhZdnR3MUZsWjJ6UFN1c2xBbVNHUWJqQWh4eGNSR3l4X1E?oc=5\" target=\"_blank\">I vibe coded a Rust frontend for FFmpeg and I’m never touching t",
-      "source": "howtogeek.com",
+      "source": "How-To Geek",
       "beat": "Claude AI Design",
       "publishedDate": "2026-05-08T07:00:00.000Z",
       "category": "ui"
@@ -3875,7 +3905,7 @@
       "title": "Best UI/UX Design Tools for Freelancers in 2026: Figma to Framer",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUjhpS09yYUptdlFPenlsdUFaQ0lEdXFvZUpyYk4wYnBMME0xcWM3NUpDNDBRb1lUZWg4S2hJYWxyY0xTU25reTN0ck1FMTA5eGFhTnpWUXZpS0IzSUh0T3dWRjdKZFo1emtEdTdWZzc5WWt6R3JSQ0dnekdDMGZ4NW9aeWhSVzRZc1VvRXRwYnZWamtVckIyZk01N1RSZVJGUlNn0gGwAUFVX3lxTFA2dm56LVRIRkdpWGpQX0xpUmhVVFk1d3NUZlFMQm9ZeExya1c5bUZWNG9nZVdvOGxITENDSHhjd3BzM2xzRnRJUEh3clVzYnpROEFRa3hWZnFjWVVJdmo5TjRQVDNxYjREbzFNanZxSVFGVlBUYzFqV01zX0tqOXl1N0Q0TVFCOGRBYXBQSjBpN19RN184Mk9RQVRqZWVIUUZncHVTNDR5MnBHRDFEVk85?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPUjhpS09yYUptdlFPenlsdUFaQ0lEdXFvZUpyYk4wYnBMME0xcWM3NUpDNDBRb1lUZWg4S2hJYWxyY0xTU25reTN0ck1FMTA5eGFhTnpWUXZpS0IzSUh0T3dWRjdKZFo1emtEdTdWZzc5WWt6R3JSQ0dnekdDMGZ4NW9aeWhSVzRZc1VvRXRwYnZWamtVckIyZk01N1RSZVJGUlNn0gGwAUFVX3",
-      "source": "analyticsinsight.net",
+      "source": "Analytics Insight",
       "beat": "AI Prototyping",
       "publishedDate": "2026-05-08T07:00:00.000Z",
       "category": "tools"
@@ -3891,6 +3921,16 @@
       "category": "tools"
     },
     {
+      "id": "9173f58e62c48d45",
+      "title": "Best AI Wallpaper Apps for Phone and Desktop",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcllWdkc5ZHRYQ08wZ0U3RVh6ZE9MZHhOQlBGbXNqQmJiZmwzai12S0ZSU2ZaZVk5X0pXZGJRS09wOVdJUkN5c2JPNGZTNkJzRFhBZjBYemQyMUVUc0g0NWVIUi1QVHF0Z3JiMWNMLVBJMURkRDlGN3NaRU1YYzI3dHlHaU1sTlRWWWJUZQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNcllWdkc5ZHRYQ08wZ0U3RVh6ZE9MZHhOQlBGbXNqQmJiZmwzai12S0ZSU2ZaZVk5X0pXZGJRS09wOVdJUkN5c2JPNGZTNkJzRFhBZjBYemQyMUVUc0g0NWVIUi1QVHF0Z3JiMWNMLVBJMURkRDlGN3NaRU1YYzI3dHlHaU1sTlRWWWJUZQ?oc=5\" target=\"_blank\">Best AI Wallpaper",
+      "source": "OCNJ Daily",
+      "beat": "AI Color Design",
+      "publishedDate": "2026-05-07T07:00:00.000Z",
+      "category": "ux"
+    },
+    {
       "id": "71e407f6397f4ff1",
       "title": "I Vibe-Coded a Complex Data Visualization and Analysis Dashboard. Here’s What I Learned.",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLUp4NVA5Tm9oQUU2S3l3RzExTTlia01DZzExMFp5M0YxLUg1TDBleC1waWtVaWNubFQ0TVVpR19ac3dZSjA5dFRtbmg4SnNLZ3EtaFlMa21fLVhZZmRJSS1pblZPUnI1QjhUTlJpYW5nV1hocWVzc3MtNFlVbkxkNWhsSkJwTHRMVE40bU1qVWZsN0lzMEl5ZFNWcHZQQndKam1WTnpSYXREcjlRXzdLTFNfLXBMdE14TmxnRFR6QU9aa1dGUmJveWEyd1NBdw?oc=5",
@@ -3901,14 +3941,14 @@
       "category": "ux"
     },
     {
-      "id": "8c5fb24716b20b21",
+      "id": "cb6dfca19c0c0204",
       "title": "How to use an AI image generator to create images for your website",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00ZzZ4SU12eGJ4NkIxX210aTByR3Z0X2JLU0ZnVk9Xd0ticXNublJlSXl1cThhc2RDaGhRZG1tTkxWNFVEcG1KZ2RoSTI2RnI2eGduT213ejZTNEhOa2hDUmM0X255bHp4VldBSkc1U2FPSWN3V2p5Rw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE00ZzZ4SU12eGJ4NkIxX210aTByR3Z0X2JLU0ZnVk9Xd0ticXNublJlSXl1cThhc2RDaGhRZG1tTkxWNFVEcG1KZ2RoSTI2RnI2eGduT213ejZTNEhOa2hDUmM0X255bHp4VldBSkc1U2FPSWN3V2p5Rw?oc=5\" target=\"_blank\">How to use an AI image generator to create im",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QVll2YU80ZlA3SWtPY0xIcmtaeE9UdTdaX2swSUZrVERKeWh3V1FQd0hJTmd3a19YejJCczVGdXRfcDI1eU9Za1FURHk3Q0l1enZoNDdadjRmNFNpX0lXYWc2REdFUXBLbklBUV9NdUs3TnUz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5QVll2YU80ZlA3SWtPY0xIcmtaeE9UdTdaX2swSUZrVERKeWh3V1FQd0hJTmd3a19YejJCczVGdXRfcDI1eU9Za1FURHk3Q0l1enZoNDdadjRmNFNpX0lXYWc2REdFUXBLbklBUV9NdUs3TnUz?oc=5\" target=\"_blank\">How to use an AI image generator to create images f",
       "source": "Hostinger",
       "beat": "AI Web Design",
       "publishedDate": "2026-05-05T07:00:00.000Z",
-      "category": "ai-tools"
+      "category": "ux"
     },
     {
       "id": "8804171b615eb079",
@@ -3949,16 +3989,6 @@
       "beat": "Adobe Firefly",
       "publishedDate": "2026-05-04T07:00:00.000Z",
       "category": "tools"
-    },
-    {
-      "id": "143f9a1684a67b0c",
-      "title": "5 Best AI Spec Review Tools for Development Teams (2026)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcWhJNjl0YUdQT3BDTTdHelpqeTNtdjFoMVlyWTNnS0xyWTl6RHpPajFBTlN2N1VXVUlwQkVLZ1I3ZF9TcEFtcXlob0t3MXpfRzhrb3dMNU1Wd2dmcGJOaTloTHNTakFXTTluTmRvYnlHaklrQ3ZfaWdhQVp3TERmZ2Vhai1IZ29L?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcWhJNjl0YUdQT3BDTTdHelpqeTNtdjFoMVlyWTNnS0xyWTl6RHpPajFBTlN2N1VXVUlwQkVLZ1I3ZF9TcEFtcXlob0t3MXpfRzhrb3dMNU1Wd2dmcGJOaTloTHNTakFXTTluTmRvYnlHaklrQ3ZfaWdhQVp3TERmZ2Vhai1IZ29L?oc=5\" target=\"_blank\">5 Best AI Spec Review T",
-      "source": "Augment Code",
-      "beat": "AI Design Feedback",
-      "publishedDate": "2026-05-03T07:00:00.000Z",
-      "category": "ux"
     },
     {
       "id": "86319eb4edc0d124",
@@ -4015,7 +4045,7 @@
       "title": "AI Tools: How Claude Design industrializes visual creation",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORHdYWmFwaS05WHZia2paZ0tteFI4d2gyZ2ZmS3ZRY2FNQnZfVHp3bXUxRkZkd1pDQmg2TXIzMDBWSW5aNUQxS2RFdjZJTUhlMXJzeDR4TFhSRkhGNml0TkpLYUpTa04tYW9UOU9MMFhxUi0wZVU3SXhYbVRsYkppaFZLdEI3TXBZaEZqRk05ZXUxUm8zYkhVU1ZHYnFEdGR2anNrWA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxORHdYWmFwaS05WHZia2paZ0tteFI4d2gyZ2ZmS3ZRY2FNQnZfVHp3bXUxRkZkd1pDQmg2TXIzMDBWSW5aNUQxS2RFdjZJTUhlMXJzeDR4TFhSRkhGNml0TkpLYUpTa04tYW9UOU9MMFhxUi0wZVU3SXhYbVRsYkppaFZLdEI3TXBZaEZqRk05ZXUxUm8zYkhVU1ZHYnFEdGR2anNrWA?oc=5\" t",
-      "source": "telquel.ma",
+      "source": "Telquel.ma",
       "beat": "AI Style Guide",
       "publishedDate": "2026-04-30T07:00:00.000Z",
       "category": "tools"
@@ -4125,7 +4155,7 @@
       "title": "Adobe Firefly AI Assistant now available in public beta globally",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NQ0d5b25TVS1mN2pBbUt0cW01c2RvTDhwZzVQc2VvQWV6VjJQb1hkMndLa1JCc2hlTFBiWjczSk95Mk5nTVJoMDFlbWh2QzlLX3UwRi01Z01JUnFZWjJUNmFxT0JEQmtlRDN0LWRkOEk5RnpPSUtscm9yekRGTHPSAYQBQVVfeXFMTnZIRFMwOGV4bmxYSENQc3BxdjB1QTA0LUd1VG1meHF3RHMtNlZMdTA1MHhoVzc1c1RGS1lTQXdPZkh4SlhyQ2dJN1lqZnhKUmNfWnpIQzIwZDlfTUxFc1BHaEMzQjRIZEhUTXJYSHEySDl6c3pNQTJTNkQ1SXJNN3NvOWpB?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5NQ0d5b25TVS1mN2pBbUt0cW01c2RvTDhwZzVQc2VvQWV6VjJQb1hkMndLa1JCc2hlTFBiWjczSk95Mk5nTVJoMDFlbWh2QzlLX3UwRi01Z01JUnFZWjJUNmFxT0JEQmtlRDN0LWRkOEk5RnpPSUtscm9yekRGTHPSAYQBQVVfeXFMTnZIRFMwOGV4bmxYSENQc3BxdjB1QTA0LUd1VG1meHF3RH",
-      "source": "fonearena.com",
+      "source": "FoneArena.com",
       "beat": "Adobe Firefly",
       "publishedDate": "2026-04-28T07:00:00.000Z",
       "category": "tools"
@@ -4275,7 +4305,7 @@
       "title": "Top 10 AI Tools for Web Development for Enterprises in 2026",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWHlieDRnc0VHWjRkWTRxT2JuenN0ZGpON0UwRWhHbldSZTlzbUZSVHpqeGFsV0M0NklKV2dURHYxcEMtVF9RTmE0THNNdGt2ZGtwQWhWejE0aU1TeWxBZm5QM0ZUSy1zUFFFOW1tMFZVekNETGdSazFKTEFVUUp0dUxoZUxKbUZYVzZ1YTlvejB2dkh0Tlc2dV9PS0JWTTVwWlFhcWkxTGdFcHJuWVVDdmEzZmJtYlXSAbwBQVVfeXFMT0I3bGhqWndqZFNwZWowdmFMUkpmUHBlX1puemNaMHhqcjZHM1BqR042cURWaXNOSnY5OUF3bVJTRzZ6eDFFM0JzOWlMVXVRajA0dTExV1c2V0NYYmF4LVFuX25HaFNCSUtLUkd0WHRqaXBKQVJkNEVteWVsaVRuUnA3bmZhQVRXNTBRdE1FRkxxaThCTUgxeW5haGszbnVqV1lpUUduN0l0Mi1TOHlNMUdSc25BTWo4Rlk1YUE?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOWHlieDRnc0VHWjRkWTRxT2JuenN0ZGpON0UwRWhHbldSZTlzbUZSVHpqeGFsV0M0NklKV2dURHYxcEMtVF9RTmE0THNNdGt2ZGtwQWhWejE0aU1TeWxBZm5QM0ZUSy1zUFFFOW1tMFZVekNETGdSazFKTEFVUUp0dUxoZUxKbUZYVzZ1YTlvejB2dkh0Tlc2dV9PS0JWTTVwWlFhcWkxTGdFcH",
-      "source": "cio.economictimes.indiatimes.com",
+      "source": "ET CIO",
       "beat": "Adobe Stitch",
       "publishedDate": "2026-04-26T07:00:00.000Z",
       "category": "tools"
@@ -4705,7 +4735,7 @@
       "title": "NAB 2026: Blackmagic Design Announces DaVinci Resolve 21",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTGpzZjBRel9MU3FEWVNIdDNJMDJZQXlmS0ZKZnVvdmNXU0lIdzJiUl95YjBpaHp1Mmp0eXhGNU94UnlXWnltOFQ5NGhjYzlfdy1XT1JDQU1DMzhPOWVmYndXdGZCV1A4bjl2MkZQc2dpamEtc0lxODhJZmsxTWhnZjNYZUx2QlhWOUdhOXhtYjE2TDFLZnFaV3VSaw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQTGpzZjBRel9MU3FEWVNIdDNJMDJZQXlmS0ZKZnVvdmNXU0lIdzJiUl95YjBpaHp1Mmp0eXhGNU94UnlXWnltOFQ5NGhjYzlfdy1XT1JDQU1DMzhPOWVmYndXdGZCV1A4bjl2MkZQc2dpamEtc0lxODhJZmsxTWhnZjNYZUx2QlhWOUdhOXhtYjE2TDFLZnFaV3VSaw?oc=5\" target=\"_blan",
-      "source": "sportsvideo.org",
+      "source": "Sports Video Group",
       "beat": "Lottie AI",
       "publishedDate": "2026-04-18T07:00:00.000Z",
       "category": "ux"
@@ -4729,6 +4759,16 @@
       "beat": "Notion AI Design",
       "publishedDate": "2026-04-18T07:00:00.000Z",
       "category": "tools"
+    },
+    {
+      "id": "41519d7cf358fb67",
+      "title": "Anthropic launches Claude Design for AI-powered visual content creation",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNHQxLUpTVUJBb1JhcG5CQWtJUjh5YWFyOWZXbXF6RVZJM2JvZHNISXJsZGJSYTlBcE95MmZ5aVZneTREQVluYnFCcG14ek92eFdmUGU2cFdsTEkxdVhGT2Zrb05uU2VBbjFBOVp0LTJXSHdFMkdHbnR0M2xUZVRlOVZ5bWRRQkFaSEUyTnZaVGNzMlRkeHlvaHc5UVY2RlI2d1NESEk1VWtHWFduUGpFWENOUUVqUnlDRVZlcUItRlAyVWpDa3JpVVpXQnNfS0NCNXNNXzAtdzEwZUlvQTdCUnQxUHhWT05GZmNQbNIB8gFBVV95cUxPYnRRektsankzYUxWOUJaRmJJc1FPTlRxRlNHT3RxMDByOW5qZTA2Rk1CRVI3UmlsUmtUek52cDgtOUl1S3ZEVzFMYVdsQndCaThiQjNGdFhpbjdleTlhOHU1V1dEWlppMkxzTFV0SnV2UDB1RkYwazRndGNyVkhiQlNSVXZkLWt1RUV3TXIzOUM1b3Y5UEs2YmptQ1o3dHc3VXFXQzBNTjdKVnlZOHJGa1lXRmZ1ZVQ3SDlUXzlEUjNENGNpcWFQelAxRmJCQ0Mxd0RYMHF0ZkhRTHpNel95WXpCSGRkTk5MRlk3ZWZpTkh6UQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNHQxLUpTVUJBb1JhcG5CQWtJUjh5YWFyOWZXbXF6RVZJM2JvZHNISXJsZGJSYTlBcE95MmZ5aVZneTREQVluYnFCcG14ek92eFdmUGU2cFdsTEkxdVhGT2Zrb05uU2VBbjFBOVp0LTJXSHdFMkdHbnR0M2xUZVRlOVZ5bWRRQkFaSEUyTnZaVGNzMlRkeHlvaHc5UVY2RlI2d1NESEk1VWtHWF",
+      "source": "ET Enterprise AI",
+      "beat": "AI Prototyping",
+      "publishedDate": "2026-04-18T07:00:00.000Z",
+      "category": "ux"
     },
     {
       "id": "e765db956d25a1b6",
@@ -4785,7 +4825,7 @@
       "title": "Amazfit Cheetah 2 Pro with titanium frame, dual-band GPS, up to 20 days battery life announced",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcUZ5Q2NVR3J0U2FIM3lObXBVMnFQekc0Y1hJOXY3Y1pxRU5qdXlES2VoRWVXekhhVlRuSEVqdHVUYUpjd3MxaV9maEF4cDVNREhyblluTzBxa19uUVB6d1k5WHA2SnVNSHhlLWlDYUxEb1BWWG91UWpfa1FfMzFkWFRTa1N2Z9IBiwFBVV95cUxPMVJ3MUpadlFPZVFUWjZ4a3lRQ0h0a2NFVmY1SGVFYzlFLTBVMUJkMFg3Z0dsb2lmVHktbkZTRHN5TC04TGFZVDQzVFNFVFdXMXVFUURYTW9jdU9Na0xRSVpnZWZtaTY0WVJjR25lblJ4Umlxd2kzbC1rM2tTWngwNmwxbUFPMXZtUXJj?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNcUZ5Q2NVR3J0U2FIM3lObXBVMnFQekc0Y1hJOXY3Y1pxRU5qdXlES2VoRWVXekhhVlRuSEVqdHVUYUpjd3MxaV9maEF4cDVNREhyblluTzBxa19uUVB6d1k5WHA2SnVNSHhlLWlDYUxEb1BWWG91UWpfa1FfMzFkWFRTa1N2Z9IBiwFBVV95cUxPMVJ3MUpadlFPZVFUWjZ4a3lRQ0h0a2NFVm",
-      "source": "fonearena.com",
+      "source": "FoneArena.com",
       "beat": "Framer AI",
       "publishedDate": "2026-04-17T07:00:00.000Z",
       "category": "tools"
@@ -4875,7 +4915,7 @@
       "title": "Canva’s AI 2.0 push turns design tool into workplace rival",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZHc3RzVVNlE1eXVxVVY5bnVLZUUySFJBanVYei1ISDh3U2NrLU55U1ZyUXllUFRmZFo5NUJiT1pUVGxjZzJ4MEt0V21Yd2IyU3MxWjdILVJ3b3JUaEVCMHQzY1p0cWhoSHRSTDE1dGRLdFJDWEt1eUl0a243R3lLQXdmdXcyZ3VablE?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPZHc3RzVVNlE1eXVxVVY5bnVLZUUySFJBanVYei1ISDh3U2NrLU55U1ZyUXllUFRmZFo5NUJiT1pUVGxjZzJ4MEt0V21Yd2IyU3MxWjdILVJ3b3JUaEVCMHQzY1p0cWhoSHRSTDE1dGRLdFJDWEt1eUl0a243R3lLQXdmdXcyZ3VablE?oc=5\" target=\"_blank\">Canva’s AI 2.0 push ",
-      "source": "mediaweek.com.au",
+      "source": "Mediaweek",
       "beat": "Notion AI Design",
       "publishedDate": "2026-04-17T07:00:00.000Z",
       "category": "tools"
@@ -4925,7 +4965,7 @@
       "title": "I tried Claude Design for half an hour. I’m already locked out for a week",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQnYza2ZleTZ4aTA3XzlfVFZ0OF81N3BESGFjdEVDV0Zsd280S045UzNIS2NGck93YThWbU85S1JVeVZlLUUtWVlmVkhITmVDTnJUWkNEZjhwQ1hlVWZLN3dWanhwbnRmWUdqT0RkU3JkRXFudkE0YkxYenBBQU5tUzFxbk1leGx6dTNQS3FhQjJ5NE9wUTN2bjlFZkRsMEZWUFk2MUNSMFNIOWtnWWdScGFHRlZ3NDA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPQnYza2ZleTZ4aTA3XzlfVFZ0OF81N3BESGFjdEVDV0Zsd280S045UzNIS2NGck93YThWbU85S1JVeVZlLUUtWVlmVkhITmVDTnJUWkNEZjhwQ1hlVWZLN3dWanhwbnRmWUdqT0RkU3JkRXFudkE0YkxYenBBQU5tUzFxbk1leGx6dTNQS3FhQjJ5NE9wUTN2bjlFZkRsMEZWUFk2MUNSMFNIOW",
-      "source": "PCWorld",
+      "source": "pcworld.com",
       "beat": "AI Prototyping",
       "publishedDate": "2026-04-17T07:00:00.000Z",
       "category": "ux"
@@ -4985,7 +5025,7 @@
       "title": "Adobe rolls out Firefly AI Assistant with creative agent for multi-step workflows",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdTRycDFsTkVRa2hSd3lVNmNzTjhNTTU4S08weXFrMGFWcm9UNjhmVXFYVVhlYXNFUEVacVRVT3lBYTRkMVF2SWJsQnJjaTU1U3BWTjBpLUpId1ZMTHJxTU5IOVI1bHVabjdHS2FIbUVhbURRSTlFM1JFYnNPZ0ZGNThPQznSAYoBQVVfeXFMT0hBR0J6TWp1ekt6enlDWnNtNXROaGNuMzJqdnZpTS1hbGY0bGM3SElYNjdCRlF0YlZfNnRHQzR2bFREbUhpbWhhaDlIMEdndGZBTjB5aDlKdll4NnpGTE5ieExNSTN6MGpyNi1CQnpaODBfdG8yUFJRb3g5Q2JTaTYyX3B2MFhSUm1n?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPdTRycDFsTkVRa2hSd3lVNmNzTjhNTTU4S08weXFrMGFWcm9UNjhmVXFYVVhlYXNFUEVacVRVT3lBYTRkMVF2SWJsQnJjaTU1U3BWTjBpLUpId1ZMTHJxTU5IOVI1bHVabjdHS2FIbUVhbURRSTlFM1JFYnNPZ0ZGNThPQznSAYoBQVVfeXFMT0hBR0J6TWp1ekt6enlDWnNtNXROaGNuMzJqdn",
-      "source": "fonearena.com",
+      "source": "FoneArena.com",
       "beat": "Adobe Firefly",
       "publishedDate": "2026-04-16T07:00:00.000Z",
       "category": "tools"
@@ -5145,7 +5185,7 @@
       "title": "Adobe Ushers in a New Era of Creativity with New Creative Agent and Generative AI Innovations in Adobe Firefly",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80c05UN3kzakZiSkJpMG50elRnV1AzeVE1THRRcDR0cnpMWnJiekFuNll5LXU3T29UMzgzcERWMjVVTEE2SVg3TWtVVlJ5V0U2bHJrYjNUMGVoN3RHNVRUbWtWdUw1RGFocWZ2WQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE80c05UN3kzakZiSkJpMG50elRnV1AzeVE1THRRcDR0cnpMWnJiekFuNll5LXU3T29UMzgzcERWMjVVTEE2SVg3TWtVVlJ5V0U2bHJrYjNUMGVoN3RHNVRUbWtWdUw1RGFocWZ2WQ?oc=5\" target=\"_blank\">Adobe Ushers in a New Era of Creativity with New Creative Age",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "Adobe Firefly",
       "publishedDate": "2026-04-15T07:00:00.000Z",
       "category": "tools"
@@ -5156,16 +5196,6 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdnZGS0dHUEk4T2dmejEtOTlmYzBPX2RpWi1TSTNTVGVJbEJhZUZWNDNPakxNTlBqVXZUTzFXcFo5S1RqWUNZeXgzNUlwNWx5bjFaSmNDTUZlc1ZBQmhhTVRKdUp2bGJTTTZSRVg0UllxNTBIeFlrelJZdmVXeWxOU2FXRi1vaV9SX3pZOHZRRmh4b19RM2RCbGRiamJuYWg4M3dreUM1aXNiUlVtRTk1UFBpdGo5dWZPMHQ5Q2hYVlBkVXc3LVdmeQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdnZGS0dHUEk4T2dmejEtOTlmYzBPX2RpWi1TSTNTVGVJbEJhZUZWNDNPakxNTlBqVXZUTzFXcFo5S1RqWUNZeXgzNUlwNWx5bjFaSmNDTUZlc1ZBQmhhTVRKdUp2bGJTTTZSRVg0UllxNTBIeFlrelJZdmVXeWxOU2FXRi1vaV9SX3pZOHZRRmh4b19RM2RCbGRiamJuYWg4M3dreUM1aXNiUl",
       "source": "Reuters",
-      "beat": "Adobe Firefly",
-      "publishedDate": "2026-04-15T07:00:00.000Z",
-      "category": "tools"
-    },
-    {
-      "id": "54ab31cf8a994419",
-      "title": "Adobe takes Creative Cloud into Claude Code-esque territory",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcHc0MGw4dkdmN0hsVmtOM3VTYmVGRWRzU1l3c2p6MWtxa1hITDlCZUc1ZVY0NzRLdnBNS2pWUFVVYmVZWTBEQnltREpaazJMTi1Da2JLdUdJZkJyTFE4SGwyc1gzeWxYTkhyX0hpcW1CVkpzS2pBRVlfejAyOVFpTEdFRk12MlJxWU9ad2Jpckt5VVgzU1F1cFRpTQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPcHc0MGw4dkdmN0hsVmtOM3VTYmVGRWRzU1l3c2p6MWtxa1hITDlCZUc1ZVY0NzRLdnBNS2pWUFVVYmVZWTBEQnltREpaazJMTi1Da2JLdUdJZkJyTFE4SGwyc1gzeWxYTkhyX0hpcW1CVkpzS2pBRVlfejAyOVFpTEdFRk12MlJxWU9ad2Jpckt5VVgzU1F1cFRpTQ?oc=5\" target=\"_blan",
-      "source": "Ars Technica",
       "beat": "Adobe Firefly",
       "publishedDate": "2026-04-15T07:00:00.000Z",
       "category": "tools"
@@ -5191,11 +5221,21 @@
       "category": "tools"
     },
     {
-      "id": "19ed998e99bc5c27",
-      "title": "Adobe’s new Firefly AI Assistant will handle multi-step tasks across Creative Cloud apps",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdkpaeDl6aVdGdTVOWEZjbUtBeEpReFRqSENqQXVQM2hmT3JZbzFTSDVodWZDQXRzYmNGUUp6UlZQMENCXzh6dHFLQUtvUFNTS2tqcmF5Y1RXOXlUXzR0LUpIQkpqRV9tNGlsbm9qVVBHWV9yQ3BldDNURGQtWFNPdUM3MEI2NW90NDNhRTJrZElaamZBRHNUellqaHFKeGdyLS1VdzYtYlVXVWRFWTVaWWliOXR5NHB6ZjVF?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdkpaeDl6aVdGdTVOWEZjbUtBeEpReFRqSENqQXVQM2hmT3JZbzFTSDVodWZDQXRzYmNGUUp6UlZQMENCXzh6dHFLQUtvUFNTS2tqcmF5Y1RXOXlUXzR0LUpIQkpqRV9tNGlsbm9qVVBHWV9yQ3BldDNURGQtWFNPdUM3MEI2NW90NDNhRTJrZElaamZBRHNUellqaHFKeGdyLS1VdzYtYlVXVW",
-      "source": "9to5Mac",
+      "id": "54ab31cf8a994419",
+      "title": "Adobe takes Creative Cloud into Claude Code-esque territory",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcHc0MGw4dkdmN0hsVmtOM3VTYmVGRWRzU1l3c2p6MWtxa1hITDlCZUc1ZVY0NzRLdnBNS2pWUFVVYmVZWTBEQnltREpaazJMTi1Da2JLdUdJZkJyTFE4SGwyc1gzeWxYTkhyX0hpcW1CVkpzS2pBRVlfejAyOVFpTEdFRk12MlJxWU9ad2Jpckt5VVgzU1F1cFRpTQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPcHc0MGw4dkdmN0hsVmtOM3VTYmVGRWRzU1l3c2p6MWtxa1hITDlCZUc1ZVY0NzRLdnBNS2pWUFVVYmVZWTBEQnltREpaazJMTi1Da2JLdUdJZkJyTFE4SGwyc1gzeWxYTkhyX0hpcW1CVkpzS2pBRVlfejAyOVFpTEdFRk12MlJxWU9ad2Jpckt5VVgzU1F1cFRpTQ?oc=5\" target=\"_blan",
+      "source": "Ars Technica",
+      "beat": "Adobe Firefly",
+      "publishedDate": "2026-04-15T07:00:00.000Z",
+      "category": "tools"
+    },
+    {
+      "id": "da0a701f8ba5afb1",
+      "title": "Adobe Firefly goes agentic: New AI Assistant orchestrates your entire creative workflow",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPSnpHRTRPbnYzbU4yLXNiVXRkQVBBZXpwemlzdHRJVWdGOWtGcGtYY0RvWnlOZ2lrZzdyZURrNXRwRmRyNjhESXdNRXJvcDZra0hrMEh4cWdrRF9xdkZ6VDcxN09mUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPSnpHRTRPbnYzbU4yLXNiVXRkQVBBZXpwemlzdHRJVWdGOWtGcGtYY0RvWnlOZ2lrZzdyZURrNXRwRmRyNjhESXdNRXJvcDZra0hrMEh4cWdrRF9xdkZ6VDcxN09mUQ?oc=5\" target=\"_blank\">Adobe Firefly goes agentic: New AI Assistant orchestrates your entire",
+      "source": "The Shortcut | Matt Swider",
       "beat": "Adobe Firefly",
       "publishedDate": "2026-04-15T07:00:00.000Z",
       "category": "tools"
@@ -5211,11 +5251,11 @@
       "category": "tools"
     },
     {
-      "id": "da0a701f8ba5afb1",
-      "title": "Adobe Firefly goes agentic: New AI Assistant orchestrates your entire creative workflow",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPSnpHRTRPbnYzbU4yLXNiVXRkQVBBZXpwemlzdHRJVWdGOWtGcGtYY0RvWnlOZ2lrZzdyZURrNXRwRmRyNjhESXdNRXJvcDZra0hrMEh4cWdrRF9xdkZ6VDcxN09mUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPSnpHRTRPbnYzbU4yLXNiVXRkQVBBZXpwemlzdHRJVWdGOWtGcGtYY0RvWnlOZ2lrZzdyZURrNXRwRmRyNjhESXdNRXJvcDZra0hrMEh4cWdrRF9xdkZ6VDcxN09mUQ?oc=5\" target=\"_blank\">Adobe Firefly goes agentic: New AI Assistant orchestrates your entire",
-      "source": "The Shortcut | Matt Swider",
+      "id": "19ed998e99bc5c27",
+      "title": "Adobe’s new Firefly AI Assistant will handle multi-step tasks across Creative Cloud apps",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdkpaeDl6aVdGdTVOWEZjbUtBeEpReFRqSENqQXVQM2hmT3JZbzFTSDVodWZDQXRzYmNGUUp6UlZQMENCXzh6dHFLQUtvUFNTS2tqcmF5Y1RXOXlUXzR0LUpIQkpqRV9tNGlsbm9qVVBHWV9yQ3BldDNURGQtWFNPdUM3MEI2NW90NDNhRTJrZElaamZBRHNUellqaHFKeGdyLS1VdzYtYlVXVWRFWTVaWWliOXR5NHB6ZjVF?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdkpaeDl6aVdGdTVOWEZjbUtBeEpReFRqSENqQXVQM2hmT3JZbzFTSDVodWZDQXRzYmNGUUp6UlZQMENCXzh6dHFLQUtvUFNTS2tqcmF5Y1RXOXlUXzR0LUpIQkpqRV9tNGlsbm9qVVBHWV9yQ3BldDNURGQtWFNPdUM3MEI2NW90NDNhRTJrZElaamZBRHNUellqaHFKeGdyLS1VdzYtYlVXVW",
+      "source": "9to5Mac",
       "beat": "Adobe Firefly",
       "publishedDate": "2026-04-15T07:00:00.000Z",
       "category": "tools"
@@ -5245,7 +5285,7 @@
       "title": "Claude Opus 4.7 is coming sooner than expected, already crashing Adobe and Figma stocks",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNN2llR1AxTGVoczZzUnJLMDBkcnlTZnMyNzNfS0JrdTMwNlRLaUE5d2t2ME9vazhsc0NLcGVHdk5TVVoxNHlGRGRHSWQtdkQ5bFRscHNvbHhWT2tIRDM2S3BxcWpySkNGYm5pbmEwMlNIZVpROXFQVzN4RkVNNGJuaFBjN3ZYdHIzcU1fU0lCMDlwSExqVmtxTVRQSENuenAzbDBLN2pJN3JibmJCc0V2LWQ3VmJ1Q190c0JxQmp2MlJDOExFWnVrNmk0Tl9IVHFFbW45YV9tQTEzRTFFMmJnSGtiajlIWFXSAewBQVVfeXFMTmRSSE9hZ24zMGxUek1IMElVT3hwTnl6UVJlbmcwWmVVbkkzNlFCdU9iV2VYdy04N2RxZEFlUVhycFQtNFBNQ1RTRS10ZWxHYUpfT1pTYXdkd2NzZlg0alQxSFVkYVY1UWt1NzkzRVJfNjJBdmRucUJVbEd3N3JsRFBWSWdZQWozRkN2anNST1hyb0xPeWRpNDBPQXZWNmdtWUZJN1o1VEVjQWlQdDBwWXo4eThCdFoyWVpUQW9EWTVVNlRQUjdkVjZiZVNkenNITzRodENZcTJ0QlFkem8zQVAzakJnQWdqcldrdUI?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNN2llR1AxTGVoczZzUnJLMDBkcnlTZnMyNzNfS0JrdTMwNlRLaUE5d2t2ME9vazhsc0NLcGVHdk5TVVoxNHlGRGRHSWQtdkQ5bFRscHNvbHhWT2tIRDM2S3BxcWpySkNGYm5pbmEwMlNIZVpROXFQVzN4RkVNNGJuaFBjN3ZYdHIzcU1fU0lCMDlwSExqVmtxTVRQSENuenAzbDBLN2pJN3Jibm",
-      "source": "indiatoday.in",
+      "source": "India Today",
       "beat": "Adobe Stitch",
       "publishedDate": "2026-04-15T07:00:00.000Z",
       "category": "tools"
@@ -5311,16 +5351,6 @@
       "category": "tools"
     },
     {
-      "id": "248756d0dd10f770",
-      "title": "AI Turns Online Product Reviews into Packaging Design, Consumer Behavior Data",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZ3VBa1pjUFdRSG82cFpGX1hCaG54RGt3Yk84ajBWS3JpVmtwLTdfUXBmcVFsTTI0eVlZRWpicG5ESkhVc204eFB4NEZoUXRCWENqaGVWVGt6UmNXS2REYkRybDBZYWt1MXZleVFhcHBnWFkxb0VBTFhRT1JTekhTUTlsSGFuUmRzTlJscW9yX25xVGY5T1VRTUZxQzRDSVJ0ajUybG9KYVo2QjEwOC1WeXctRlAxbEkzVndBcm9aUlUyMVlRTGxXeUIySWFyZlRscDZnb1ZrQVc3QWlJTUZhSg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZ3VBa1pjUFdRSG82cFpGX1hCaG54RGt3Yk84ajBWS3JpVmtwLTdfUXBmcVFsTTI0eVlZRWpicG5ESkhVc204eFB4NEZoUXRCWENqaGVWVGt6UmNXS2REYkRybDBZYWt1MXZleVFhcHBnWFkxb0VBTFhRT1JTekhTUTlsSGFuUmRzTlJscW9yX25xVGY5T1VRTUZxQzRDSVJ0ajUybG9KYVo2Qj",
-      "source": "Packaging World",
-      "beat": "AI Design Feedback",
-      "publishedDate": "2026-04-15T07:00:00.000Z",
-      "category": "ux"
-    },
-    {
       "id": "282537c00f375bb6",
       "title": "Anthropic's Rumored AI Design Tool Sends Figma, Adobe, and Wix Shares Tumbling",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLdDNfd242M3pFRHNKZUxmV2NSaEp2VFh6NGtkeEdBVk56RzFPMURBV3lfaGtSemxvdVhNM2tYQlRZR1M2QnNDN1RoV2dub0hhbmRaTW0ta24yM1plS1RhRg?oc=5",
@@ -5345,7 +5375,7 @@
       "title": "Exclusive: Anthropic Preps Opus 4.7 Model, AI Design Tool",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaG56TjVzd0xKVDhSa0d6b0Q5OGpRSW5XLVdGMVNWSWhjcjZvZGhXSEpQNUk2Tjg5YklDbzBDWmlRaVJfNFREOHRTV01NLU1VY0JrU1I5emtnM1NlOVpBRDEzMldmM2RfbHliUTBYdVcxZkJOWWdhUWNkUEtiQndjNGpmbmpuRkhYWm96RzY1WDhWVWhJOHNfNHE5SlI?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNaG56TjVzd0xKVDhSa0d6b0Q5OGpRSW5XLVdGMVNWSWhjcjZvZGhXSEpQNUk2Tjg5YklDbzBDWmlRaVJfNFREOHRTV01NLU1VY0JrU1I5emtnM1NlOVpBRDEzMldmM2RfbHliUTBYdVcxZkJOWWdhUWNkUEtiQndjNGpmbmpuRkhYWm96RzY1WDhWVWhJOHNfNHE5SlI?oc=5\" target=\"_bla",
-      "source": "The Information",
+      "source": "theinformation.com",
       "beat": "Adobe Stitch",
       "publishedDate": "2026-04-14T07:00:00.000Z",
       "category": "tools"
@@ -5475,7 +5505,7 @@
       "title": "Discover Your Perfect Interior Color Scheme With These Online Tools",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wdEJGUEtqdUJ0N3NXeERQX3JhUXNVY1p3ZXhQZzNrVmtSZXE5X0tYbElzbC1va1k2Q1BCNVNpLWwzZTlIcUZmSXJ3SHpLMUI3NXZLeDdiaXBza1NBTGVhZGZPRV96Q193VUF6NlloU18waU9MSTA5ODJuTQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5wdEJGUEtqdUJ0N3NXeERQX3JhUXNVY1p3ZXhQZzNrVmtSZXE5X0tYbElzbC1va1k2Q1BCNVNpLWwzZTlIcUZmSXJ3SHpLMUI3NXZLeDdiaXBza1NBTGVhZGZPRV96Q193VUF6NlloU18waU9MSTA5ODJuTQ?oc=5\" target=\"_blank\">Discover Your Perfect Interior Color Sche",
-      "source": "thespruce.com",
+      "source": "The Spruce",
       "beat": "AI Color Design",
       "publishedDate": "2026-04-11T07:00:00.000Z",
       "category": "ux"
@@ -5625,7 +5655,7 @@
       "title": "Top AI Green Screen Removal Tools in 2026",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV1h5QVktcG5WMm9UV0Q1dS1ueld2MmRTeXBFZkJzaS1RMklyQnpBRi0tMmxpRmpuSEZiUEJMeFhwMjNmU2RtSk5JYlRtVFhGSDNxa3B3TlZBRFdMQnRnaWM0OUFtMnJjeEJxUWhIS1kzYVVXSE1hYVdabEk2S0xmN0l6elo4dmlVV1JxdDNzVHVTR2FmTWZma1NKTXJROTDSAawBQVVfeXFMT3QyUmhsY2NZQW4teEtpNU5zU3phUGZvVWVWUy1QSFV2U0xZNlNIMkN2ejBXbFNFTlg5cGRBcDFpS1ZTU3dEU2FHSjZFcFU4M2NYcXd3LWxvUUFHNXhha0U0VnF5SGFYcmZLdDFjYUdHUUIzRmx3NEhNX3dsSFczdkpyVU5CeS1oOTlhVFRKWnBrakNOaXRpNkdEUG05ZUFKbzJ2RFFWSzg3TzcxVw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOV1h5QVktcG5WMm9UV0Q1dS1ueld2MmRTeXBFZkJzaS1RMklyQnpBRi0tMmxpRmpuSEZiUEJMeFhwMjNmU2RtSk5JYlRtVFhGSDNxa3B3TlZBRFdMQnRnaWM0OUFtMnJjeEJxUWhIS1kzYVVXSE1hYVdabEk2S0xmN0l6elo4dmlVV1JxdDNzVHVTR2FmTWZma1NKTXJROTDSAawBQVVfeXFMT3",
-      "source": "analyticsinsight.net",
+      "source": "Analytics Insight",
       "beat": "Runway ML",
       "publishedDate": "2026-04-07T07:00:00.000Z",
       "category": "ux"
@@ -5715,7 +5745,7 @@
       "title": "Leading Infographic Generators In 2026: Top 6 Ranked",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX2FsblZ4cWV6ZmNtUXlDbmt6cmJRMTBwR1ZkcXhMdnVIbjNlWC1JcDFTTURHVHRnczFxSV9PRVJlLWtTVGpyRnFmZjVvZEFGbG5Ma3gyTnY3SVlzVFJlblIzbmlPV3FDYVJpMktpamd3Mmd1TWpZTXN3b3FGOGJvdTFVN0s5OWMwN3BCcHhMSHlQS1IyUk1RaVhR0gGnAUFVX3lxTFBxMkxkeG9RN29SUjM5aUd3M2RnRzE4N1R6MF9Ta0duOGVuX2J1UVdsblhBV0hLXzJOZmk1dGllN3FqbkNwMGdpNS15SFpibV90cmYtdVBhaVJFZWVoOE5MNmdtaWZybks5a3ZaUWJGNHM3YlVzQktid3BxM0hYUUxFM0FsU0hDUE5jRTJpLWNlYlFQRk1iaDNqWDFwbjBFdDhzU1NJY013?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNX2FsblZ4cWV6ZmNtUXlDbmt6cmJRMTBwR1ZkcXhMdnVIbjNlWC1JcDFTTURHVHRnczFxSV9PRVJlLWtTVGpyRnFmZjVvZEFGbG5Ma3gyTnY3SVlzVFJlblIzbmlPV3FDYVJpMktpamd3Mmd1TWpZTXN3b3FGOGJvdTFVN0s5OWMwN3BCcHhMSHlQS1IyUk1RaVhR0gGnAUFVX3lxTFBxMkxkeG",
-      "source": "analyticsinsight.net",
+      "source": "Analytics Insight",
       "beat": "AI Data Viz",
       "publishedDate": "2026-04-03T07:00:00.000Z",
       "category": "ux"
@@ -5835,7 +5865,7 @@
       "title": "NVIDIA App Update Adds DLSS 4.5 Dynamic Multi Frame Generation, Intelligently Balancing Frame Rates, Image Quality &amp; Responsiveness",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOenFVaVBFenpjY0ZiSDlrNTJBRUVzTXd3dC15UU5aUm5MOHdrS1o5LVNtM0ItYThsdTJSdW40SjRuV3RscEZpTzZURFJDWGJtUVpDeUNMelFfWkJ6bFhlLTlWZm44VDc4aVF2d1J0ZnJRcERwX1llUmZqVzdULTdaNHpEeDJPTTZlVU5abmxSeEFYT3BKT2FJX05LSWhuZUFILTlZbnhDUXNKS1k?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOenFVaVBFenpjY0ZiSDlrNTJBRUVzTXd3dC15UU5aUm5MOHdrS1o5LVNtM0ItYThsdTJSdW40SjRuV3RscEZpTzZURFJDWGJtUVpDeUNMelFfWkJ6bFhlLTlWZm44VDc4aVF2d1J0ZnJRcERwX1llUmZqVzdULTdaNHpEeDJPTTZlVU5abmxSeEFYT3BKT2FJX05LSWhuZUFILTlZbnhDUXNKS1",
-      "source": "NVIDIA",
+      "source": "nvidia.com",
       "beat": "Framer AI",
       "publishedDate": "2026-03-31T07:00:00.000Z",
       "category": "tools"
@@ -5926,7 +5956,7 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Yb3RsTFlaUWZJUW9qc0hiQmtGQU13LWlyNk1nenQzYV9abUg0T09PRF9KZVRDME00Z2xRVUlqZks1dDhaQ0x3X2tTVEdXS29sa1dkbENjT3VmaUhPSXVFaG1aOVRuYXZkY3VDZTl3eF9HNzhnT3NOSGF1dzQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9Yb3RsTFlaUWZJUW9qc0hiQmtGQU13LWlyNk1nenQzYV9abUg0T09PRF9KZVRDME00Z2xRVUlqZks1dDhaQ0x3X2tTVEdXS29sa1dkbENjT3VmaUhPSXVFaG1aOVRuYXZkY3VDZTl3eF9HNzhnT3NOSGF1dzQ?oc=5\" target=\"_blank\">Google Stitch AI: Vibe Design and 5-Scre",
       "source": "tech-insider.org",
-      "beat": "Figma Make",
+      "beat": "Figma AI",
       "publishedDate": "2026-03-26T07:00:00.000Z",
       "category": "tools"
     },
@@ -6465,7 +6495,7 @@
       "title": "What is Seedance? ByteDance's New AI Video Generator",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DTTZnRXVKLWtka2JFVmZ4c3J4ZlVnYXhSLTFVNzhPc0FBaC1fMUVYV3pUUm5mdlVjb1JaLXhWYktKSzlLdndVdzkyXzI0bXI5NTlub2dCbzhkNDZrYUNfLWJZUy13ZUtsSXFXTzhYcUZqM0JjcGc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1DTTZnRXVKLWtka2JFVmZ4c3J4ZlVnYXhSLTFVNzhPc0FBaC1fMUVYV3pUUm5mdlVjb1JaLXhWYktKSzlLdndVdzkyXzI0bXI5NTlub2dCbzhkNDZrYUNfLWJZUy13ZUtsSXFXTzhYcUZqM0JjcGc?oc=5\" target=\"_blank\">What is Seedance? ByteDance's New AI Video Gener",
-      "source": "Metricool",
+      "source": "metricool.com",
       "beat": "AI Video Design",
       "publishedDate": "2026-03-18T07:00:00.000Z",
       "category": "ai-tools"
@@ -6735,7 +6765,7 @@
       "title": "How Uber Built an Agentic System to Automate Design Specs in Minutes",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFb0pMdVZGRFdfcndPTE9xeGd3ZGZYcVNrX2pPSVdwTXY5T0dtRm0wRk9FLWNxV0F0SU1tT0VnSUUtRHZOdmRLRUQxQ2diUTc5dTRIaEVhV0FxYi16a29BNWhraGI?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFb0pMdVZGRFdfcndPTE9xeGd3ZGZYcVNrX2pPSVdwTXY5T0dtRm0wRk9FLWNxV0F0SU1tT0VnSUUtRHZOdmRLRUQxQ2diUTc5dTRIaEVhV0FxYi16a29BNWhraGI?oc=5\" target=\"_blank\">How Uber Built an Agentic System to Automate Design Specs in Minutes</a>",
-      "source": "uber.com",
+      "source": "Uber",
       "beat": "Figma Make",
       "publishedDate": "2026-03-10T07:00:00.000Z",
       "category": "tools"
@@ -6871,16 +6901,6 @@
       "category": "ux"
     },
     {
-      "id": "589b08baa6f6ed84",
-      "title": "Bias in AI: Examples and 6 Ways to Fix it in 2026",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBBQ3N2UFFqZms5c0NxdXl5VUo1cDhuUkZuSWllcnZuMHRmcXcxNkxmU0JieTBVbVZhbWphVUJXajR4QjZD?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTFBBQ3N2UFFqZms5c0NxdXl5VUo1cDhuUkZuSWllcnZuMHRmcXcxNkxmU0JieTBVbVZhbWphVUJXajR4QjZD?oc=5\" target=\"_blank\">Bias in AI: Examples and 6 Ways to Fix it in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AIMultiple</font>",
-      "source": "AIMultiple",
-      "beat": "AI Design Feedback",
-      "publishedDate": "2026-03-07T00:37:54.000Z",
-      "category": "ui"
-    },
-    {
       "id": "ea6cbed0cfc3bfc6",
       "title": "Figma's AI Strategy: Is it the Key Driver of Future Expansion?",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeUU3cXB1VEhvbmM1VzI1bGpqcG9JamxhVks1OUFOOTJ4ZHBrc240TzAzcnlmRUozVlFUa002c3hRSlRPRGg0cWtwR2R0aXdQUnk5cDByXzR6OTVWZ1g5dmVwNFNDX00teGZ4RzhaOW5GOXRzd2NuYUJDUEJSbEZHMngwVkZJbEIycjVLQWJFQ2RzUWtGVURTaDZRbWxzWVJOWlMtYVRfb0Y5UkxDTzFkeVNad25Jazg?oc=5",
@@ -6919,6 +6939,16 @@
       "beat": "AI Video Design",
       "publishedDate": "2026-03-06T08:00:00.000Z",
       "category": "ux"
+    },
+    {
+      "id": "cfc11a38dd48e315",
+      "title": "What Is AI Art? How It Works and How to Create It",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZNUVPZFNubHhKYVFETS1OWXp5Smx3WjRqT1o2dS15a1pSeFBORndXRlpwQjA1TENYbEpBRW4tajUyRXUwSEtEZmtBOUwxZm02eFNJVVZ1SWh3d25l?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZNUVPZFNubHhKYVFETS1OWXp5Smx3WjRqT1o2dS15a1pSeFBORndXRlpwQjA1TENYbEpBRW4tajUyRXUwSEtEZmtBOUwxZm02eFNJVVZ1SWh3d25l?oc=5\" target=\"_blank\">What Is AI Art? How It Works and How to Create It</a>&nbsp;&nbsp;<font color=\"#6f6f",
+      "source": "coursera.org",
+      "beat": "AI Illustration",
+      "publishedDate": "2026-03-06T08:00:00.000Z",
+      "category": "ui"
     },
     {
       "id": "104b415207b66945",
@@ -7201,16 +7231,6 @@
       "category": "tools"
     },
     {
-      "id": "3de480806b909589",
-      "title": "Exploring of the impact of AI feedback on college students' critical thinking: a intervention experiment based on design discipline",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORVE5cEF3MGJsS0FJNVpHUE9GLTlvUktRdnNpb2szTkdkZFA5a2k1eVFJaVh0TWJidHlRVlViTnlqRWp3N3oySDlvVWdjZFlPYUxLTjd1V3hOVFFaamFqTTZqenBhUW5DaFFnZnFMQ1dxRWFnNXZ4XzNWQzNCaC1Tcl9PUXZiUzdHNENvM3lOTXBPQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxORVE5cEF3MGJsS0FJNVpHUE9GLTlvUktRdnNpb2szTkdkZFA5a2k1eVFJaVh0TWJidHlRVlViTnlqRWp3N3oySDlvVWdjZFlPYUxLTjd1V3hOVFFaamFqTTZqenBhUW5DaFFnZnFMQ1dxRWFnNXZ4XzNWQzNCaC1Tcl9PUXZiUzdHNENvM3lOTXBPQQ?oc=5\" target=\"_blank\">Exploring",
-      "source": "Frontiers",
-      "beat": "AI Design Feedback",
-      "publishedDate": "2026-02-25T09:44:10.000Z",
-      "category": "ux"
-    },
-    {
       "id": "bcfca38498b30238",
       "title": "Accessibility Needs Heroes, and Lucy Greco Brings a Paralympian’s Heart to the Digital Field",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSkwtNk81SDdvV2NCOU1vOUIzdHd2NEs3elBXYkpELWxla2JMYlcwYXZKOXR2UXpDYko2a2RtYXpQR1hmLWYxN1FLNWE3MGVod3g2SzFYOEluQk42UFhQTVhxa3VuSHljVzlvcHltTHpfZzVMT29KSHJ1YVdlYUx5VlJIdGozVFZHdXpoNUxHTllkN2lEalBTMXNFb3UyOXZ1NEFoNXQtbUhMSThWcW4xM3V3?oc=5",
@@ -7431,13 +7451,13 @@
       "category": "ui"
     },
     {
-      "id": "794740d6b999ccf2",
-      "title": "AI-Powered Presentation Tools | Gamma, Beautiful.ai, Canva &amp; More",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80RHA4YWFJWWpac3dlZnpEVHEzcE5Ld1JJaGJXTFVnVUM2ODNodFl5T2hKdVUyaTNLT25hMGNTcFEtbG1rSjNYYm9ZRW5fcVh3bnRGMjFQOHJnYTl1UF93T3FtOHN2VTA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80RHA4YWFJWWpac3dlZnpEVHEzcE5Ld1JJaGJXTFVnVUM2ODNodFl5T2hKdVUyaTNLT25hMGNTcFEtbG1rSjNYYm9ZRW5fcVh3bnRGMjFQOHJnYTl1UF93T3FtOHN2VTA?oc=5\" target=\"_blank\">AI-Powered Presentation Tools | Gamma, Beautiful.ai, Canva & More</a",
-      "source": "UnivDatos",
-      "beat": "AI Presentation",
-      "publishedDate": "2026-02-18T11:22:05.000Z",
+      "id": "94f8c2b0ec95800f",
+      "title": "Figma investors cheer 40% growth, ties to Anthropic and OpenAI—but concerns remain about letting the 'fox into the hen house'",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yQ2lHUmtzRFFLSWljS2tVYzE5LUJaUVR1LVpDZ1U5bW9JZi1aTV9iX09Hbm0yNTZXMTRfMTJnN21zblUtblhNRHZZZGNVUkQxZmt4MFlEVHJjVkFrS3hXdG9JQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yQ2lHUmtzRFFLSWljS2tVYzE5LUJaUVR1LVpDZ1U5bW9JZi1aTV9iX09Hbm0yNTZXMTRfMTJnN21zblUtblhNRHZZZGNVUkQxZmt4MFlEVHJjVkFrS3hXdG9JQQ?oc=5\" target=\"_blank\">Figma investors cheer 40% growth, ties to Anthropic and OpenAI—but concer",
+      "source": "fortune.com",
+      "beat": "Figma AI",
+      "publishedDate": "2026-02-18T08:00:00.000Z",
       "category": "tools"
     },
     {
@@ -7519,6 +7539,16 @@
       "beat": "AI Motion Design",
       "publishedDate": "2026-02-16T08:00:00.000Z",
       "category": "tools"
+    },
+    {
+      "id": "d6e2d0ab5d0bf6f1",
+      "title": "Sora: Creating video from text",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBsZjJVejJMam9TZEZWVUFOR1NhaWhhZXBFakV1cFlTenMzWkYwdDY2XzBMZkRCWmVsRmlfTEZvbFNKMDdm?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTFBsZjJVejJMam9TZEZWVUFOR1NhaWhhZXBFakV1cFlTenMzWkYwdDY2XzBMZkRCWmVsRmlfTEZvbFNKMDdm?oc=5\" target=\"_blank\">Sora: Creating video from text</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+      "source": "OpenAI",
+      "beat": "AI Web Design",
+      "publishedDate": "2026-02-15T08:00:00.000Z",
+      "category": "ui"
     },
     {
       "id": "dec1d7a714e62077",
@@ -8005,7 +8035,7 @@
       "title": "Looking for a spot to eat or drink in Houston? Ask our AI-powered concierge tool.",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZd2R2NnlvMWhYSVY0cWk2YVg3UTRkQXZXMU1HeEUtd0hGTGhoc1R3MW1yazZsbUIxY3NWZW9fRG1iNklhSGt4RlkwUE9aNkpIOFJheG53Z1phNVJUV1EyOFFXUWJ4SkluODRTRDdlOEdZTnE2ZW8ycGs5cw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBZd2R2NnlvMWhYSVY0cWk2YVg3UTRkQXZXMU1HeEUtd0hGTGhoc1R3MW1yazZsbUIxY3NWZW9fRG1iNklhSGt4RlkwUE9aNkpIOFJheG53Z1phNVJUV1EyOFFXUWJ4SkluODRTRDdlOEdZTnE2ZW8ycGs5cw?oc=5\" target=\"_blank\">Looking for a spot to eat or drink in Hou",
-      "source": "Houston Chronicle",
+      "source": "houstonchronicle.com",
       "beat": "AI Design Feedback",
       "publishedDate": "2026-01-27T16:06:24.000Z",
       "category": "ai-tools"
@@ -8037,6 +8067,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQODRhWXdKRVpqWGJWTFM0SEg5alRwVHhiLUZ1T1dKc3piaDZ1aWEtMXRZNTN3UE5ZeWVhbnRQLU9pSnBhNVhWQlp4NDF4REFrcUtVVUlUbUNsbnJ6TjhEY3h1QzFXcnpCZkRMcEdxeDhoNWN2dGhjVjNIM2w0NHh5ZkxZOTlNdGpYMmVOUWZRZkVxclBCRHV6Z2NTWjItbS1TSDNlblRzSkZCZm",
       "source": "Creative Bloq",
       "beat": "AI Illustration",
+      "publishedDate": "2026-01-27T08:00:00.000Z",
+      "category": "ux"
+    },
+    {
+      "id": "9c6aad4d3daa71bf",
+      "title": "What the research shows about generative AI in tutoring",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcFA1bG5xeDlqX2JwUFpsRzZSVGV2a1VSMkN2Q1NjajZWVTFZQ3U2QnRyc0Q2aEZ4QUtLTVhFM0JKVEotd1RqbGlDN0tZZEcwSllIMFU3eldCOVk5RW5nNHpieEdYdXlJZy1Td2czMTZpbjJwQmh0QmUxRmx2NUxUbVBYT1c1Q2doQVFmNmNkVWxHcGdUaGc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPcFA1bG5xeDlqX2JwUFpsRzZSVGV2a1VSMkN2Q1NjajZWVTFZQ3U2QnRyc0Q2aEZ4QUtLTVhFM0JKVEotd1RqbGlDN0tZZEcwSllIMFU3eldCOVk5RW5nNHpieEdYdXlJZy1Td2czMTZpbjJwQmh0QmUxRmx2NUxUbVBYT1c1Q2doQVFmNmNkVWxHcGdUaGc?oc=5\" target=\"_blank\">What",
+      "source": "Brookings",
+      "beat": "AI Design Feedback",
       "publishedDate": "2026-01-27T08:00:00.000Z",
       "category": "ux"
     },
@@ -8225,7 +8265,7 @@
       "title": "Generative AI stack for small teams: Unlock 4x productivity",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83Z0NZQWNQMnF1eUhEU2ZYQi1jZndiTXRRZFJ4ZmFkUHhtNGk0NTVRWWI4NEd5U2Zva3NfdTVkcGhmd0hzeTZOQjVqTkNxT2N0R05EV3BCVmt5STdjaEJSU1ZIUXFaVVdrdkdaWlJValBIM2JzZ0NNMGJ5VnJSYUk?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE83Z0NZQWNQMnF1eUhEU2ZYQi1jZndiTXRRZFJ4ZmFkUHhtNGk0NTVRWWI4NEd5U2Zva3NfdTVkcGhmd0hzeTZOQjVqTkNxT2N0R05EV3BCVmt5STdjaEJSU1ZIUXFaVVdrdkdaWlJValBIM2JzZ0NNMGJ5VnJSYUk?oc=5\" target=\"_blank\">Generative AI stack for small teams:",
-      "source": "yourstory.com",
+      "source": "YourStory.com",
       "beat": "Notion AI Design",
       "publishedDate": "2026-01-22T08:00:00.000Z",
       "category": "ux"
@@ -8335,7 +8375,7 @@
       "title": "85% of Sundance Filmmakers Choose Adobe as Company Releases New AI Video Innovations and $10M in Creator Grants",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mZDhmLTkzMjhOcHBpa0Jsa3NzdUdoOWxvNGFNcHhnOTAxTnIzTnJHeklPTC15a3N2a3FBYXZIaHBIQWpaZDMwc0VnQnFxU25La2pDUV9lQ0dNN01zZGVndXBua3NMQ2k3dFpBWGItZjh4a3ZPajA4?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5mZDhmLTkzMjhOcHBpa0Jsa3NzdUdoOWxvNGFNcHhnOTAxTnIzTnJHeklPTC15a3N2a3FBYXZIaHBIQWpaZDMwc0VnQnFxU25La2pDUV9lQ0dNN01zZGVndXBua3NMQ2k3dFpBWGItZjh4a3ZPajA4?oc=5\" target=\"_blank\">85% of Sundance Filmmakers Choose Adobe as Comp",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "AI Video Design",
       "publishedDate": "2026-01-20T08:00:00.000Z",
       "category": "tools"
@@ -8345,7 +8385,7 @@
       "title": "Stanley \"Artgerm\" Lau Having To Prove He's Not A.I.",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa1JvYmtmRmhMamhWZ0s1YnNVVHJzWDdPRDVjUWZlLWZhLXlKVENYRDdzOXA2a1B6R0l1Qks3NjBaUXdLMXVvUHRXcHk2dndEOElvcmV5cGFsdE1hTUl3bFhiRER2amp5MWtOakI3dDY2QS10R2NFRkFEZGNRRmdsVDkyUU93NmM?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPa1JvYmtmRmhMamhWZ0s1YnNVVHJzWDdPRDVjUWZlLWZhLXlKVENYRDdzOXA2a1B6R0l1Qks3NjBaUXdLMXVvUHRXcHk2dndEOElvcmV5cGFsdE1hTUl3bFhiRER2amp5MWtOakI3dDY2QS10R2NFRkFEZGNRRmdsVDkyUU93NmM?oc=5\" target=\"_blank\">Stanley \"Artgerm\" Lau Ha",
-      "source": "Bleeding Cool News",
+      "source": "bleedingcool.com",
       "beat": "AI Illustration",
       "publishedDate": "2026-01-20T08:00:00.000Z",
       "category": "ux"
@@ -8455,7 +8495,7 @@
       "title": "The 10 Best AI Image Generators in 2026",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zSFM1dWFnOXR5Rm5WTGFUNEtaNU1wSEpDbmtSeTRqWHpJeDZydnA3bXhmVE1IQ0tfVmMxOHBfVHJiUThxcjczZTRXekd1R2J5X3dBSmpn0gFbQVVfeXFMTk1waTNkc1hjTU1VLUhxcTdDbnUwelVqU3NlRTRoanBXbkFQaTRoRmZBZ0d1Wk40YXFKeWk2bkVJazZod280SjJjRENYcEV0WVNjdFJCTEZZTzZXTQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zSFM1dWFnOXR5Rm5WTGFUNEtaNU1wSEpDbmtSeTRqWHpJeDZydnA3bXhmVE1IQ0tfVmMxOHBfVHJiUThxcjczZTRXekd1R2J5X3dBSmpn0gFbQVVfeXFMTk1waTNkc1hjTU1VLUhxcTdDbnUwelVqU3NlRTRoanBXbkFQaTRoRmZBZ0d1Wk40YXFKeWk2bkVJazZod280SjJjRENYcEV0WVNjdF",
-      "source": "beebom.com",
+      "source": "Beebom",
       "beat": "Midjourney Design",
       "publishedDate": "2026-01-14T08:00:00.000Z",
       "category": "ux"
@@ -8531,6 +8571,16 @@
       "category": "branding"
     },
     {
+      "id": "24a4ca83452771e6",
+      "title": "AI-supported data analysis boosts student motivation and reduces stress in physics education",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT0RLQlZDQi1xUEhOWTd0M0ExMlRTd3ZxVzl6QjVBemRmZDJsYkVqQVh6VnY1Mmo4MXpwMTdabE9nOVdiTDhDWjRYbm45SXV6RHhBTXcwUFpXMkhUMnFINnVaUnZhcUFnMFFqWEV4dTVhR2dCRVl4d3RsNFNxNWh1QUNnc2NyVmNwYjZRV2FUWV8?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNT0RLQlZDQi1xUEhOWTd0M0ExMlRTd3ZxVzl6QjVBemRmZDJsYkVqQVh6VnY1Mmo4MXpwMTdabE9nOVdiTDhDWjRYbm45SXV6RHhBTXcwUFpXMkhUMnFINnVaUnZhcUFnMFFqWEV4dTVhR2dCRVl4d3RsNFNxNWh1QUNnc2NyVmNwYjZRV2FUWV8?oc=5\" target=\"_blank\">AI-supported",
+      "source": "Frontiers",
+      "beat": "AI Design Feedback",
+      "publishedDate": "2026-01-12T17:02:51.000Z",
+      "category": "ux"
+    },
+    {
       "id": "dc45e9054a826508",
       "title": "Adobe Firefly gets GPT-Image 1.5 support, limited-time free images",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnFZbllsNUZtX0hvNExGUzBFZ09DNVNZc2o2aTRwRlQwQlk0QjFLTFhIRG1lTVEzbWxJUTQ5LUpGQ19ZRTQzVXNFR0RtNlhQWTF5RFhYV0FWZTJOd3VwNC10WUhYWTNJcG1rWGhhcmNmWVlsWE9uMkJZMmhUSjlhWDM0YURubVlMNGZINzRUa293bnN0eWxBRldXUHVQc3E3Qm1DTld4RlhmeFhpOWZ2eXZkVQ?oc=5",
@@ -8569,6 +8619,16 @@
       "beat": "Webflow AI",
       "publishedDate": "2026-01-11T08:00:00.000Z",
       "category": "ai-tools"
+    },
+    {
+      "id": "464cbf32ba27795b",
+      "title": "AI use in academic research: Examining the mediating effect of user experience and the moderating effect of disciplinary context on perceived integrity",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRU0xRWFVa19SOWhTZ3VsV2c5NVdmZ3J2d1AzNHhwWTV0TlBpQU5wZlo4bW9sc1lFWV8xOUFNQUVQcXZlcXFKY18xTXlIbmMxUnY3OFFiSWdXSUE3UDAweE5tejJPRWFLUnM1VVdmVHJUcXFsWXFaS2FyWDY3MVFUdDVHWWJ6b3I0SmNVYkxFVnk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPRU0xRWFVa19SOWhTZ3VsV2c5NVdmZ3J2d1AzNHhwWTV0TlBpQU5wZlo4bW9sc1lFWV8xOUFNQUVQcXZlcXFKY18xTXlIbmMxUnY3OFFiSWdXSUE3UDAweE5tejJPRWFLUnM1VVdmVHJUcXFsWXFaS2FyWDY3MVFUdDVHWWJ6b3I0SmNVYkxFVnk?oc=5\" target=\"_blank\">AI use in ac",
+      "source": "Frontiers",
+      "beat": "AI UX Design",
+      "publishedDate": "2026-01-11T08:00:00.000Z",
+      "category": "ux"
     },
     {
       "id": "fb59a816cb619476",
@@ -8755,7 +8815,7 @@
       "title": "Best AI Tools for Website Design: Specialized &amp; Pro Picks",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZWE5QlpUMzZQMUFidUZoUDQ3Y05GRjNmQTcxcXZrcHVIY1dHWXZsemc3dGk4d2o4YUR6aklzNVdER2RQcGh4czhYR2RFeURjMjJXdmRUMGpPbFVCMHVfal93SV9HMUdpcnZnRUlOWGlleUpFVm9ieW5oMHRWc3JnMjFmb05aeUJwaXVJLVd6OXVzNEJDYlNyWUoyTi1pWmtxVkMyNll3b1BObFFrRmlzOWR3NDNMak1TYkNGdmM3d9IBvwFBVV95cUxQZWE5QlpUMzZQMUFidUZoUDQ3Y05GRjNmQTcxcXZrcHVIY1dHWXZsemc3dGk4d2o4YUR6aklzNVdER2RQcGh4czhYR2RFeURjMjJXdmRUMGpPbFVCMHVfal93SV9HMUdpcnZnRUlOWGlleUpFVm9ieW5oMHRWc3JnMjFmb05aeUJwaXVJLVd6OXVzNEJDYlNyWUoyTi1pWmtxVkMyNll3b1BObFFrRmlzOWR3NDNMak1TYkNGdmM3dw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQZWE5QlpUMzZQMUFidUZoUDQ3Y05GRjNmQTcxcXZrcHVIY1dHWXZsemc3dGk4d2o4YUR6aklzNVdER2RQcGh4czhYR2RFeURjMjJXdmRUMGpPbFVCMHVfal93SV9HMUdpcnZnRUlOWGlleUpFVm9ieW5oMHRWc3JnMjFmb05aeUJwaXVJLVd6OXVzNEJDYlNyWUoyTi1pWmtxVkMyNll3b1BObF",
-      "source": "analyticsinsight.net",
+      "source": "Analytics Insight",
       "beat": "Framer AI",
       "publishedDate": "2026-01-02T12:12:19.000Z",
       "category": "tools"
@@ -8767,6 +8827,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQRW52cUtuRGN1c0dRVVdGdWtDRDh3blR2UHBkRDQwX29qX3drWGRxWkJJVW1CVmJnai1uM1B3cGQyMmQzWVZPd0EtRkEyVURzMHI1YkZaYm84dFRIN00wdkRlRFFuLVNQQ3d3NkRwckhEMi1iblFxSWM1UXF6VlNRbjZRWG04MTEwOG5pSHdhZm9ybWpIZS00NzVRVHNUU2NkTU4xbQ?oc=5\" t",
       "source": "Creative Bloq",
       "beat": "Adobe Firefly",
+      "publishedDate": "2026-01-02T08:00:00.000Z",
+      "category": "tools"
+    },
+    {
+      "id": "87c01c1038a74c62",
+      "title": "I Evaluated 8 Best Free Web Design Software In 2026",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tMlBhallaWkNuX2NTVXJTNVFLempudnZDbjVjaWFCVjY5Y0YtakpUcUtaZmNCQlZ3dEJ2RHBVRFg1NlA1bVNoX1V4amhQQkhJbUpwZDkzQUg0YW0wS1pv0gFvQVVfeXFMTlZ4N1JCUVRYLWtnMGpCLWw5TXJidGtZQUU1Z2VtaXNnTGVKandjVENTdHBYWWdyZFRWcEhlM091dlRUcVVKLXFPT0VQenVBQ180cUkwZWF0c3o5WktnWENUdTF0dXBMNFduRWJ1YW9Z?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tMlBhallaWkNuX2NTVXJTNVFLempudnZDbjVjaWFCVjY5Y0YtakpUcUtaZmNCQlZ3dEJ2RHBVRFg1NlA1bVNoX1V4amhQQkhJbUpwZDkzQUg0YW0wS1pv0gFvQVVfeXFMTlZ4N1JCUVRYLWtnMGpCLWw5TXJidGtZQUU1Z2VtaXNnTGVKandjVENTdHBYWWdyZFRWcEhlM091dlRUcVVKLXFPT0",
+      "source": "G2 Learning Hub",
+      "beat": "Framer AI",
       "publishedDate": "2026-01-02T08:00:00.000Z",
       "category": "tools"
     },
@@ -8791,16 +8861,6 @@
       "category": "tools"
     },
     {
-      "id": "d3a15492d7ac650b",
-      "title": "AI Tools for Engineers: AutoReview",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMFpXNlU3R1pXTFBBQ1hIRk4zTU56RzlGNEFGQlg4cU10SnBoal9PdmRNWk1GbUp6aEdHdkFRRmRGUVFLR25RWUdyZ2tmelR1NE5NM1o2bWl3Z0txM3ItV00zbmdtZ2Q1WmJfakdZNnVWODdzU21rR2FvR0VmVWo5emZxT1RmNGYwMDJ3Mg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPMFpXNlU3R1pXTFBBQ1hIRk4zTU56RzlGNEFGQlg4cU10SnBoal9PdmRNWk1GbUp6aEdHdkFRRmRGUVFLR25RWUdyZ2tmelR1NE5NM1o2bWl3Z0txM3ItV00zbmdtZ2Q1WmJfakdZNnVWODdzU21rR2FvR0VmVWo5emZxT1RmNGYwMDJ3Mg?oc=5\" target=\"_blank\">AI Tools for Engi",
-      "source": "Design News",
-      "beat": "AI Design Feedback",
-      "publishedDate": "2026-01-01T08:00:00.000Z",
-      "category": "ux"
-    },
-    {
       "id": "48af9122de92179a",
       "title": "AI chatbots and digital companions are reshaping emotional connection",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQlNSVC0wNVh2b1NkSXhOdTBLc3JYZnpmOVVxQWtlSmthcTB6WlJDUzZuTXdualg1YmhLRWNOOTZTYmI4Q2J3TUF0cWNPWDB4a0E1a2VYY3ZqcUJ0QnlvMnZqUk4zcHZOMkRicTNWNGZJdXExVFpxejdhRDM3NW1pZVFjaEwxMl9JRFI1TVptbzRxTUxTU0E?oc=5",
@@ -8815,7 +8875,7 @@
       "title": "I Tested the 8 Best AI Website Builders That Actually Work",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ESHhmc1BKOS00SldXZzJLemNVWWZYT2E0R1BMZDU0QTlrTjN4WEsyNC1ISi1reFNYdjN3SVlpNFQ5R2FpUzFEOVRORWJ4TWdKMWQ0N3Rn0gFbQVVfeXFMT2N3MXZSUHdfQWdlbVdVUnRfMEJ3UjFZbDZldVVCTnkxQ0Iwc2RQWXhpRUl1NEJIRUdWZU1sb21kVi1OemIwcFI2eGdBdTZ3NnVRNXUycFN6ZU9zbw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ESHhmc1BKOS00SldXZzJLemNVWWZYT2E0R1BMZDU0QTlrTjN4WEsyNC1ISi1reFNYdjN3SVlpNFQ5R2FpUzFEOVRORWJ4TWdKMWQ0N3Rn0gFbQVVfeXFMT2N3MXZSUHdfQWdlbVdVUnRfMEJ3UjFZbDZldVVCTnkxQ0Iwc2RQWXhpRUl1NEJIRUdWZU1sb21kVi1OemIwcFI2eGdBdTZ3NnVRNX",
-      "source": "beebom.com",
+      "source": "Beebom",
       "beat": "Wix AI",
       "publishedDate": "2025-12-31T08:00:00.000Z",
       "category": "ai-tools"
@@ -8941,16 +9001,6 @@
       "category": "ux"
     },
     {
-      "id": "55da40f0874159a3",
-      "title": "Top 7 AI Color Analysis Tools to Find Your Best Palette in 2026",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOUlnekgwQzh6TUcxWmJtelR1NU5scnNGNUJvMmlRa2gtR290S1g0UmNrYWtmd1dpVEhkWC1aMXl1bDVBQmUzN2JFaEI1UmVfSjA1bjJ4emxBcWhxTGZTTFh0OTFSY2VqS0FDS0lMQ2JzdHpyd2VjaVh4V3J4TENxalBNMmF4Y0l3QVVtLUotdC1vemlPWnBlbWlkTQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOOUlnekgwQzh6TUcxWmJtelR1NU5scnNGNUJvMmlRa2gtR290S1g0UmNrYWtmd1dpVEhkWC1aMXl1bDVBQmUzN2JFaEI1UmVfSjA1bjJ4emxBcWhxTGZTTFh0OTFSY2VqS0FDS0lMQ2JzdHpyd2VjaVh4V3J4TENxalBNMmF4Y0l3QVVtLUotdC1vemlPWnBlbWlkTQ?oc=5\" target=\"_blan",
-      "source": "nerdbot",
-      "beat": "AI Color Design",
-      "publishedDate": "2025-12-24T08:00:00.000Z",
-      "category": "ux"
-    },
-    {
       "id": "7499cd5fca5f7ed7",
       "title": "What Are the Best Microsoft 365 Copilot Alternatives?",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRm5GSUtlakloSUFIOWtNUW1sbDAtUlplNFI1OGhJd3lnT0FMcE1KTzgzNFZLdWEwcUpxZGlyejgxNHgtRVRwaWNlRGZXT1d1QlRZaUJ2cDhCLXRLdkhmU1AybzBNN1Nla3BsYlpPNjMtT3FwcmZZNUE3c1ZuZ0JoaXllQXJ4MTFtQXdHYWNDYw?oc=5",
@@ -9025,7 +9075,7 @@
       "title": "I Tested the Best AI Logo Generators, and Here are the Top 8",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xQktqdE1mSHBSQ3JYRkFUR1E3VUdVaS1Lb3djVGZRSnQ4SHRrR0ExUzl4THJsTDRBdGI5OXpMdjl4Mml4RlptUVZVNVV3Q0RFVHBJRUZR0gFbQVVfeXFMT1dYanJhb2hXY0tNeTJZUkNhemMzR0RNQ25oVk1JNFpqdUgtMTZ0YWJvaDB3VlZ4TGF0dnNJczh2T0xRY2Y3VGk2MldJd1FmdTZXUkxwWWJqaENhOA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xQktqdE1mSHBSQ3JYRkFUR1E3VUdVaS1Lb3djVGZRSnQ4SHRrR0ExUzl4THJsTDRBdGI5OXpMdjl4Mml4RlptUVZVNVV3Q0RFVHBJRUZR0gFbQVVfeXFMT1dYanJhb2hXY0tNeTJZUkNhemMzR0RNQ25oVk1JNFpqdUgtMTZ0YWJvaDB3VlZ4TGF0dnNJczh2T0xRY2Y3VGk2MldJd1FmdTZXUk",
-      "source": "beebom.com",
+      "source": "Beebom",
       "beat": "AI Color Design",
       "publishedDate": "2025-12-22T08:00:00.000Z",
       "category": "ui"
@@ -9165,7 +9215,7 @@
       "title": "Adobe and Runway Partner to Deliver the Next Generation of AI Video for Creators, Studios and Brands",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qRnJlbkFLWVJiZGpJdzBRcFo5b0RFZXI3ZWw0am1PLWZBcEJ3cnBwdXVMcFRTdGRkN3hxVTFfRmxTa2pTNjUwSFlaVHB6Yy1sN3c1NGtsQVAzaEZoT2xSLW56bnJnMnlHZ3Zyag?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9qRnJlbkFLWVJiZGpJdzBRcFo5b0RFZXI3ZWw0am1PLWZBcEJ3cnBwdXVMcFRTdGRkN3hxVTFfRmxTa2pTNjUwSFlaVHB6Yy1sN3c1NGtsQVAzaEZoT2xSLW56bnJnMnlHZ3Zyag?oc=5\" target=\"_blank\">Adobe and Runway Partner to Deliver the Next Generation of AI",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "Runway ML",
       "publishedDate": "2025-12-18T08:00:00.000Z",
       "category": "tools"
@@ -9421,16 +9471,6 @@
       "category": "ux"
     },
     {
-      "id": "b61ce79cdd471d68",
-      "title": "11 AI-Powered Tools With Student Discounts",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XaFFGVkRfZFJ5MF9Qck1pakpnTzZSVDVmT3FGODZMTV9FY0o1cXJOX1RaeWcxeHJWa0tQbnBfNks4UlJjajF1Q05VZlhGYXRsY0Y0UzBtUWxRcUZGdG1Sckt1T1VLejZEZ3dhUXJ3SFJfMFg0WjJqSERB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1XaFFGVkRfZFJ5MF9Qck1pakpnTzZSVDVmT3FGODZMTV9FY0o1cXJOX1RaeWcxeHJWa0tQbnBfNks4UlJjajF1Q05VZlhGYXRsY0Y0UzBtUWxRcUZGdG1Sckt1T1VLejZEZ3dhUXJ3SFJfMFg0WjJqSERB?oc=5\" target=\"_blank\">11 AI-Powered Tools With Student Discounts<",
-      "source": "techpp.com",
-      "beat": "Notion AI Design",
-      "publishedDate": "2025-12-11T08:00:00.000Z",
-      "category": "ux"
-    },
-    {
       "id": "8a820a50781ea5fb",
       "title": "We benchmarked 7 AI code review tools on large open-source projects. Here are the results.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOamVOUjRtbGRDNzRrcmlKcWNVU1JKZVdxczlOdWVwbWFqTnBrY1B1UXp3MFdEREhZVUc3U2VreTZaTXkwTXJ5M0dTcFFNRkwzTndHMjFPYWR1WHFoZ2tUcV9PZUxjSXVlMW1VZk9XMnNPQkVMMFlBMEFXMmVsWVdsY1RIUXB1dHdjOVptRHZrOFpDZkh5N3JrUEUzRXdTVEVHN2lvbVQ0T2hCZk0wV3c?oc=5",
@@ -9461,16 +9501,6 @@
       "category": "ux"
     },
     {
-      "id": "7097c70bcd4b8860",
-      "title": "Teaching with intelligence: Elevating human value in the age of AI",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVldFS1RCZXZaaHFXcEVpYnpKUms4clo3VVBQZzF6cWhUa2NEVFM1SWpFYXN1MUtzRkVEczREZkVycVJtTl9EM01sM3lHMGpfRDU1bXU4UlI4UzBSb19KT214ZkNjbS0wZ3EwZ3o3ME5YREd0a3prRHE4UnFtdXpud2EwZVVqODJHUnotRzB5NlExUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPVldFS1RCZXZaaHFXcEVpYnpKUms4clo3VVBQZzF6cWhUa2NEVFM1SWpFYXN1MUtzRkVEczREZkVycVJtTl9EM01sM3lHMGpfRDU1bXU4UlI4UzBSb19KT214ZkNjbS0wZ3EwZ3o3ME5YREd0a3prRHE4UnFtdXpud2EwZVVqODJHUnotRzB5NlExUQ?oc=5\" target=\"_blank\">Teaching ",
-      "source": "Arizona State University (ASU)",
-      "beat": "AI Design Feedback",
-      "publishedDate": "2025-12-10T08:00:00.000Z",
-      "category": "ux"
-    },
-    {
       "id": "475635adf3921a2c",
       "title": "The new Microsoft 365 Copilot mobile experience",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR0ktS0VtN1RFU3JzM1BPTjk2YkR6VEpjUGFSS2huWmk4MVFSZ3ZPSlJSV3YyaGpmSm5GMUk0VlBkWnNzbGZKLVdmeGlMRDVsWGtfSThUa3dkaXFqd1dmR0tfTFpkSWFrVmk5MG1YbkhrQlJEcXJfdDNLV0Z2cmxVdlBrTUh1Tzh4d2c?oc=5",
@@ -9495,7 +9525,7 @@
       "title": "How to Use AI Tools Like ChatGPT, Gemini &amp; Claude to Visualize Data Easily",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeDRBS0p2N3ctcXU2VUlicE96QVJ6V3U0VTYxbW83bU5sMlNfRW9ld3RIaloyRmZYZGlXdmk3R3pyX2U4NGU4bHNLNy10Slo0YmlPTktOZEV1Vmw3T1ZlUTJpNlIyNlNuN1ZtSU1JTV9fOEFLZDBBYmlmSS1pUTJkV0REX3BXZ3IyaXdsVVo5cjlnRWF1a2xqMDVnbE8tTFhQNEs1MW1vM0FtQzlXSEU2R09PQ2QzdC1Qa05fbFZQQnlyNkxFaWx2LWp3Sl9WaXFxYjFub2130gHWAUFVX3lxTFB4NEFLSnY3dy1xdTZVSWJwT3pBUnpXdTRVNjFtbzdtTmwyU19Fb2V3dEhqWjJGZlhkaVd2aTdHenJfZTg0ZThsc0s3LXRKWjRiaU9OS05kRXVWbDdPVmVRMmk2UjI2U243Vm1JTUlNX184QUtkMEFiaWZJLWlRMmRXRERfcFdncjJpd2xVWjlyOWdFYXVrbGowNWdsTy1MWFA0SzUxbW8zQW1DOVdIRTZHT09DZDN0LVBrTl9sVlBCeXI2TEVpbHYtandKX1ZpcXFiMW5vbXc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeDRBS0p2N3ctcXU2VUlicE96QVJ6V3U0VTYxbW83bU5sMlNfRW9ld3RIaloyRmZYZGlXdmk3R3pyX2U4NGU4bHNLNy10Slo0YmlPTktOZEV1Vmw3T1ZlUTJpNlIyNlNuN1ZtSU1JTV9fOEFLZDBBYmlmSS1pUTJkV0REX3BXZ3IyaXdsVVo5cjlnRWF1a2xqMDVnbE8tTFhQNEs1MW1vM0FtQz",
-      "source": "analyticsinsight.net",
+      "source": "Analytics Insight",
       "beat": "AI Data Viz",
       "publishedDate": "2025-12-08T10:46:44.000Z",
       "category": "ux"
@@ -9621,20 +9651,20 @@
       "category": "ai-tools"
     },
     {
-      "id": "9b999655dade08ca",
-      "title": "18 High-Income Skills to Learn in 2026",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HdW83Rk9uMHlKRE1kOHZQLXg3YTN1S3M0T2ozNTJvSUF0Qm5fX1ZRSy10VkM4XzIwLTZUTUpQWGFFaUdPZ3h0bGZUaThDNkN6eW82OGRZSzRScmJxVUFjQjd3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HdW83Rk9uMHlKRE1kOHZQLXg3YTN1S3M0T2ozNTJvSUF0Qm5fX1ZRSy10VkM4XzIwLTZUTUpQWGFFaUdPZ3h0bGZUaThDNkN6eW82OGRZSzRScmJxVUFjQjd3?oc=5\" target=\"_blank\">18 High-Income Skills to Learn in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
+      "id": "7318db2bcbcdeaba",
+      "title": "9 Essential Skills for UX Designers in 2026",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9od2swX2lyUjNPc3FuWlFDZEoyUURHOHFJVDFndVZBUjYxM0p1bEFMOXlaRGlNd3FHY2t6TDEtNVc5V3p5OENJaHlaSENOaGRVcDFqQXdsODBnNWdHWDFZdVFFWDllaDlYbTJJUVY4Q19HN0ZHblEtM0N3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9od2swX2lyUjNPc3FuWlFDZEoyUURHOHFJVDFndVZBUjYxM0p1bEFMOXlaRGlNd3FHY2t6TDEtNVc5V3p5OENJaHlaSENOaGRVcDFqQXdsODBnNWdHWDFZdVFFWDllaDlYbTJJUVY4Q19HN0ZHblEtM0N3?oc=5\" target=\"_blank\">9 Essential Skills for UX Designers in 2026",
       "source": "coursera.org",
       "beat": "AI UX Design",
       "publishedDate": "2025-12-04T08:00:00.000Z",
       "category": "ux"
     },
     {
-      "id": "7318db2bcbcdeaba",
-      "title": "9 Essential Skills for UX Designers in 2026",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9od2swX2lyUjNPc3FuWlFDZEoyUURHOHFJVDFndVZBUjYxM0p1bEFMOXlaRGlNd3FHY2t6TDEtNVc5V3p5OENJaHlaSENOaGRVcDFqQXdsODBnNWdHWDFZdVFFWDllaDlYbTJJUVY4Q19HN0ZHblEtM0N3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9od2swX2lyUjNPc3FuWlFDZEoyUURHOHFJVDFndVZBUjYxM0p1bEFMOXlaRGlNd3FHY2t6TDEtNVc5V3p5OENJaHlaSENOaGRVcDFqQXdsODBnNWdHWDFZdVFFWDllaDlYbTJJUVY4Q19HN0ZHblEtM0N3?oc=5\" target=\"_blank\">9 Essential Skills for UX Designers in 2026",
+      "id": "9b999655dade08ca",
+      "title": "18 High-Income Skills to Learn in 2026",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HdW83Rk9uMHlKRE1kOHZQLXg3YTN1S3M0T2ozNTJvSUF0Qm5fX1ZRSy10VkM4XzIwLTZUTUpQWGFFaUdPZ3h0bGZUaThDNkN6eW82OGRZSzRScmJxVUFjQjd3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HdW83Rk9uMHlKRE1kOHZQLXg3YTN1S3M0T2ozNTJvSUF0Qm5fX1ZRSy10VkM4XzIwLTZUTUpQWGFFaUdPZ3h0bGZUaThDNkN6eW82OGRZSzRScmJxVUFjQjd3?oc=5\" target=\"_blank\">18 High-Income Skills to Learn in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
       "source": "coursera.org",
       "beat": "AI UX Design",
       "publishedDate": "2025-12-04T08:00:00.000Z",
@@ -9787,16 +9817,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOZDZCaFFIWlhCN1N6MHk3cGItZF95bl9iUmN1TlRNWVhCSS1fTWMyX0pZYlZ3RldCNnJTOTNfeVBETnZ1Qnl6clZyNS1Ba0VPSjQxRy0yMmVvZVQzeFZuUjRsNmk5YVRUczhxSk95YTF1enV6aW5ldDUzT0JmamxvSzN5b3Vwd2ZBeU5HUTBUOHhUTHpSMzViTV9BOFF4WEJxcmpDR3dPWXZRR1",
       "source": "Accenture",
       "beat": "Design + AI Tools",
-      "publishedDate": "2025-12-01T08:00:00.000Z",
-      "category": "ux"
-    },
-    {
-      "id": "d7cbc837a619165f",
-      "title": "Use Google Antigravity to Plan, Build &amp; Test Faster : Tools for Teams &amp; Multiple Projects",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMUkVQMXVrZ3RpdWdXSTVhanpYU0NpTGZDa3hyZU1VZTZlcnVKaUlITUxiTzVLTUV5WHpZeHF3SVdNZ2VfUlNFVllhRzNkblFHamlMVUdnUjJ0bWZ2dnVIenZZZzhXRVprSXc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBMUkVQMXVrZ3RpdWdXSTVhanpYU0NpTGZDa3hyZU1VZTZlcnVKaUlITUxiTzVLTUV5WHpZeHF3SVdNZ2VfUlNFVllhRzNkblFHamlMVUdnUjJ0bWZ2dnVIenZZZzhXRVprSXc?oc=5\" target=\"_blank\">Use Google Antigravity to Plan, Build & Test Faster : Tools for ",
-      "source": "Geeky Gadgets",
-      "beat": "AI Design Feedback",
       "publishedDate": "2025-12-01T08:00:00.000Z",
       "category": "ux"
     },
@@ -10165,7 +10185,7 @@
       "title": "Generative UI: A rich, custom, visual interactive user experience for any prompt",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMDVpZzF2WkMycWIxMHZRczlKWmtCRUxnUFFkV2xzTmZTaXVDaGUyOUl4cmxUOGpyTGlISmI3QmdIeGc2NmxuYV9iSU5yTkdzaUlDUTFaZXFYSzU2bmxOV3ZmWlZuNFdHUW9EVlk2YzRkQWd6bkxla2tlcmIwZ2VOTmJIYVoyZGhPRk5MRm1fTUF4al9tbGZYbzlBN19PMUFPNkxLR3BTVmJqREU?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMDVpZzF2WkMycWIxMHZRczlKWmtCRUxnUFFkV2xzTmZTaXVDaGUyOUl4cmxUOGpyTGlISmI3QmdIeGc2NmxuYV9iSU5yTkdzaUlDUTFaZXFYSzU2bmxOV3ZmWlZuNFdHUW9EVlk2YzRkQWd6bkxla2tlcmIwZ2VOTmJIYVoyZGhPRk5MRm1fTUF4al9tbGZYbzlBN19PMUFPNkxLR3BTVmJqRE",
-      "source": "research.google",
+      "source": "Google Research",
       "beat": "AI UX Design",
       "publishedDate": "2025-11-18T08:00:00.000Z",
       "category": "ux"
@@ -10255,7 +10275,7 @@
       "title": "Wix Is the Best Way for Most People to Build a Website",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMF83aC1mNlUtcmhzTmVGd3lETmVrQ3cySjJwWjBZN2pSdTFhWUowc1dBQjhDV0NCQW9mTHp0OW5KRWNmVnhKa1pTSjItR3VHTklsczMzZlpkRnRHWmgwc1RsdUtZUUtvV04xaG1kMXdWb1RJTUpFdXBVVEY5VWhiaW9SRTNyQUU3Q05nUjBB?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNMF83aC1mNlUtcmhzTmVGd3lETmVrQ3cySjJwWjBZN2pSdTFhWUowc1dBQjhDV0NCQW9mTHp0OW5KRWNmVnhKa1pTSjItR3VHTklsczMzZlpkRnRHWmgwc1RsdUtZUUtvV04xaG1kMXdWb1RJTUpFdXBVVEY5VWhiaW9SRTNyQUU3Q05nUjBB?oc=5\" target=\"_blank\">Wix Is the Best",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "beat": "Wix AI",
       "publishedDate": "2025-11-13T08:00:00.000Z",
       "category": "ux"
@@ -10296,7 +10316,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YQjFtSW9TejZodnI4SE9EY1o5dlBydTY4cF85b2hnTkdjcE80UkxSLW1yY29OQ3prbmZadUYzZUExYXFTWlUxZEZWQkZadkhsMHR6ZjlnVEJHNUFGZlpXNDRlSjA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YQjFtSW9TejZodnI4SE9EY1o5dlBydTY4cF85b2hnTkdjcE80UkxSLW1yY29OQ3prbmZadUYzZUExYXFTWlUxZEZWQkZadkhsMHR6ZjlnVEJHNUFGZlpXNDRlSjA?oc=5\" target=\"_blank\">Google Stitch vs Figma : Will AI Design Replace Your UI Team?</a>&nbsp;&",
       "source": "Geeky Gadgets",
-      "beat": "Figma Make",
+      "beat": "Figma AI",
       "publishedDate": "2025-11-12T08:00:00.000Z",
       "category": "tools"
     },
@@ -10475,7 +10495,7 @@
       "title": "Leonardo.Ai launches Blueprints to streamline AI workflows",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORjNTRi1yUjBVUldqVjJrREZTR1ZVZ0xHaWxoZmVWQnRnd3I2TVBDc0RNY0dCcGszQ0szYjkyTWZpWkhfQWMyTldTTFNpV3FRNU11T1Z3NHlfM09JYmF3NHprd3c1QkdRS2xzakwtRUIwMFIyS0pZNXZSNU1mR08wcW9hZDlLb0xvTWgxWG9uRGdfbkZGOElOeld2SWI?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxORjNTRi1yUjBVUldqVjJrREZTR1ZVZ0xHaWxoZmVWQnRnd3I2TVBDc0RNY0dCcGszQ0szYjkyTWZpWkhfQWMyTldTTFNpV3FRNU11T1Z3NHlfM09JYmF3NHprd3c1QkdRS2xzakwtRUIwMFIyS0pZNXZSNU1mR08wcW9hZDlLb0xvTWgxWG9uRGdfbkZGOElOeld2SWI?oc=5\" target=\"_bla",
-      "source": "mediaweek.com.au",
+      "source": "Mediaweek",
       "beat": "Creative AI",
       "publishedDate": "2025-11-06T08:00:00.000Z",
       "category": "ux"
@@ -10551,16 +10571,6 @@
       "category": "ai-tools"
     },
     {
-      "id": "3c18bbd3ccf58069",
-      "title": "Can AI be truly creative?",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EYk9OUHBlRG1VdC1tbUZDREl6b2pINmQ2ZHQtSklKRWNLSVV3TWFFZUhCNFpBanIwc25FX0pCYm1wT21mMFZhX2Rhb25yTzNzVWZCeWx0NzVycnQ3NEJN?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EYk9OUHBlRG1VdC1tbUZDREl6b2pINmQ2ZHQtSklKRWNLSVV3TWFFZUhCNFpBanIwc25FX0pCYm1wT21mMFZhX2Rhb25yTzNzVWZCeWx0NzVycnQ3NEJN?oc=5\" target=\"_blank\">Can AI be truly creative?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
-      "source": "Nature",
-      "beat": "Generative Design",
-      "publishedDate": "2025-11-05T08:00:00.000Z",
-      "category": "ui"
-    },
-    {
       "id": "ecf9b9d353bb4cff",
       "title": "Coca-Cola's AI ad just ruined Christmas... again",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV0l2aTJaYTJYVHl2bXlUMlQwdXVod09MLWhiQjlEWUgtd3FjcnZ2ODBvOGxhaHpNMFhFQlU2VWtpUkI2cHJZcmtxbTdvRXFRRnAwNFc2NXhYVkxPOFdMX2hSTVVDYjdWVGJOUi1Sd2pEaWN4TWF1S3lWT3lPamVpVHQtYzVWSFJFb2FPRlRxN016QnlneDFFbmtKYjRacDdfRWQ5d3ZJeXcwZw?oc=5",
@@ -10585,7 +10595,7 @@
       "title": "Best Wireframe Tools in 2025",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSFhpdWRFazQ1b1U2WTI2NVpVWGRGV2VWWEdRcmZpaDVxT19LT2N5Q0NsNkN4ejNMdW1uSHFFSjdyYUs4SlVlYVRPcnAwVU9ORFd0U2NQOF9Gc2hZVFNZcXZ6YlNiX1dNMmdvLXNvT2lKb3hFYk9qMVgzZ9IBiAFBVV95cUxQbVZFcjVCSUd4cExpZXVOcXlOeHB1Q2I3Q3RBVVk0WEhXSGhvRE5PODJVZ0ZNNjJTUGowR0VYclIyRkpyTXJNLXdnN2dHSVhRdEloM2t5c1N1U01UeDllQy0zNGZSaUw5TTZEY0FGUnZ5MzdnRVFyNFlSWFlHX0o1dGo5UGl3QmQ3?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSFhpdWRFazQ1b1U2WTI2NVpVWGRGV2VWWEdRcmZpaDVxT19LT2N5Q0NsNkN4ejNMdW1uSHFFSjdyYUs4SlVlYVRPcnAwVU9ORFd0U2NQOF9Gc2hZVFNZcXZ6YlNiX1dNMmdvLXNvT2lKb3hFYk9qMVgzZ9IBiAFBVV95cUxQbVZFcjVCSUd4cExpZXVOcXlOeHB1Q2I3Q3RBVVk0WEhXSGhvRE",
-      "source": "analyticsinsight.net",
+      "source": "Analytics Insight",
       "beat": "Figma AI",
       "publishedDate": "2025-11-03T08:00:00.000Z",
       "category": "tools"
@@ -10825,7 +10835,7 @@
       "title": "Adobe adds myriad AI-powered features to Photoshop, Premiere, Illustrator, Lightroom, and Firefly at Adobe Max 2025",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUTRhZVl0eGNDY0g2QUJkTTNDNGNfODBUZUp5eE9JOGlaanJuVng3YWFKVHlLSjVudkV3dXVRNjF0RVhZNGRrb1laS1ViMm1XYk1BVG9URmhHTTJqdmY0bXRfaFhYRzJDamhIUkhNY012ZmFaU1hnbTFRbXlEWWQxVUctdjJjWFJ1ckFWSW5nRVdxVGlhalB0RDhTamRfUl9wX1BJM3h3M3FoZ3BCOTBWajMzSFFKSDVGZUVJMDg1ejdKYzNCWTRoQ1hIRmMzVjZFWFhQb2tYcjB0S2Y1N09BUWhEbTZ3ZGtYUm90Zw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUTRhZVl0eGNDY0g2QUJkTTNDNGNfODBUZUp5eE9JOGlaanJuVng3YWFKVHlLSjVudkV3dXVRNjF0RVhZNGRrb1laS1ViMm1XYk1BVG9URmhHTTJqdmY0bXRfaFhYRzJDamhIUkhNY012ZmFaU1hnbTFRbXlEWWQxVUctdjJjWFJ1ckFWSW5nRVdxVGlhalB0RDhTamRfUl9wX1BJM3h3M3FoZ3",
-      "source": "notebookcheck.net",
+      "source": "Notebookcheck",
       "beat": "Adobe Firefly",
       "publishedDate": "2025-10-29T07:00:00.000Z",
       "category": "tools"
@@ -10855,7 +10865,7 @@
       "title": "Adobe Delivers New AI Innovations, Assistants and Models Across Creative Cloud to Empower Creative Professionals",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzQkJmZExmTzNicW0xbkJyMUliQVE3TWQzOURubkxNWnI2amVfMkQxeUdBMm9DV0Z6YUI2MVhiZ2MwWW53bzNDVmhnZ21oTFMwakRUUzBoeGphZWlxaFFMLXJTb3dJMVdmSmIzZ3JWd2NhZHc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFAzQkJmZExmTzNicW0xbkJyMUliQVE3TWQzOURubkxNWnI2amVfMkQxeUdBMm9DV0Z6YUI2MVhiZ2MwWW53bzNDVmhnZ21oTFMwakRUUzBoeGphZWlxaFFMLXJTb3dJMVdmSmIzZ3JWd2NhZHc?oc=5\" target=\"_blank\">Adobe Delivers New AI Innovations, Assistants and Mo",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "Adobe Firefly",
       "publishedDate": "2025-10-28T07:00:00.000Z",
       "category": "tools"
@@ -10875,7 +10885,7 @@
       "title": "Adobe Firefly Delivers Groundbreaking AI Audio, Video and Imaging Innovations and New Models in All-In-One Creative AI Studio",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0NWMtVW5Ldm9NaWRrUlRJVFRJWHZOSk1VblRMLUxaWE9EQ21wazVUbHFrdTBnVVB4SHdMX24tS3BzdkhGMjg0cnFRVjU2bndsSVJUWU5HeWdKQTYtdWhwRUtUQ1QtOWFwa2c?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB0NWMtVW5Ldm9NaWRrUlRJVFRJWHZOSk1VblRMLUxaWE9EQ21wazVUbHFrdTBnVVB4SHdMX24tS3BzdkhGMjg0cnFRVjU2bndsSVJUWU5HeWdKQTYtdWhwRUtUQ1QtOWFwa2c?oc=5\" target=\"_blank\">Adobe Firefly Delivers Groundbreaking AI Audio, Video and Imagin",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "AI Video Design",
       "publishedDate": "2025-10-28T07:00:00.000Z",
       "category": "tools"
@@ -10885,7 +10895,7 @@
       "title": "Adobe Expands Creative Possibility with AI for Every Creator at Adobe MAX 2025",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZcjhaNUR5MUN5anBrVTJoam91RzlNR3BBazNvY1lCS0tVWExzbFl1RzllaXFtZm1YdVI2R2pFTFl2eDhUc29ocFlNYXZlY0lfVUM4TVVyM0xxSmdFdElsT0I2a3VuUQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZcjhaNUR5MUN5anBrVTJoam91RzlNR3BBazNvY1lCS0tVWExzbFl1RzllaXFtZm1YdVI2R2pFTFl2eDhUc29ocFlNYXZlY0lfVUM4TVVyM0xxSmdFdElsT0I2a3VuUQ?oc=5\" target=\"_blank\">Adobe Expands Creative Possibility with AI for Every Creator at Adobe",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "AI Video Design",
       "publishedDate": "2025-10-28T07:00:00.000Z",
       "category": "tools"
@@ -10895,7 +10905,7 @@
       "title": "Adobe GenStudio Introduces New Scaled Content Production Capabilities, Enhanced Model Customization with Adobe Firefly Foundry and a Growing Ecosystem of Ad Delivery Partners",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12U3Y3eFcwVW90eFlBN1lYOHJ6MkZXUFc0QVdzdWh6YjB3S0NZdHNPM2lseHYxU2ViVU5zYVY1Q2JXZThTZWpwVWUzWHpuTG1OQkhfZ3NQdklGc2ZvbTMzQnRUVVo2OFB5cVpTRw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE12U3Y3eFcwVW90eFlBN1lYOHJ6MkZXUFc0QVdzdWh6YjB3S0NZdHNPM2lseHYxU2ViVU5zYVY1Q2JXZThTZWpwVWUzWHpuTG1OQkhfZ3NQdklGc2ZvbTMzQnRUVVo2OFB5cVpTRw?oc=5\" target=\"_blank\">Adobe GenStudio Introduces New Scaled Content Production Capa",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "AI Video Design",
       "publishedDate": "2025-10-28T07:00:00.000Z",
       "category": "tools"
@@ -10955,7 +10965,7 @@
       "title": "Inaugural Adobe Creators' Toolkit Report: 86 Percent of Global Creators Use Creative Generative AI, See it Boosting Creator Economy",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03by16ODhYdTY2WEV1WEY2b3Z1V3ZwdU96TThJekFEQWtHWU13a0RPc1pxbkJ2cmV0TzhYSE5hbUFsWGRNQUI3ekl1T0xxSU10YXI5ZkpmOVc3Nl9feUdtUlhSZkx6Tkh4bXRCREJfektqMlpW?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE03by16ODhYdTY2WEV1WEY2b3Z1V3ZwdU96TThJekFEQWtHWU13a0RPc1pxbkJ2cmV0TzhYSE5hbUFsWGRNQUI3ekl1T0xxSU10YXI5ZkpmOVc3Nl9feUdtUlhSZkx6Tkh4bXRCREJfektqMlpW?oc=5\" target=\"_blank\">Inaugural Adobe Creators' Toolkit Report: 86 Percen",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "Generative Design",
       "publishedDate": "2025-10-28T07:00:00.000Z",
       "category": "tools"
@@ -10965,7 +10975,7 @@
       "title": "Adobe Firefly Foundry Delivers Proprietary and On-Brand Generative AI Models for Businesses",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTMjFNN0dJN0ROckw0c0l2dHNPbVFUVDQ5MU11aEUzdnY0RXhtc0haTzNia1Z5emhJOVlmMzBBTWJJS2lfUUx1WmZoWG8weVVwSlYwbG1paEVfcUlyQ0NiaXJFN3RWdGZRTjBYd001MW1sN21U?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBTMjFNN0dJN0ROckw0c0l2dHNPbVFUVDQ5MU11aEUzdnY0RXhtc0haTzNia1Z5emhJOVlmMzBBTWJJS2lfUUx1WmZoWG8weVVwSlYwbG1paEVfcUlyQ0NiaXJFN3RWdGZRTjBYd001MW1sN21U?oc=5\" target=\"_blank\">Adobe Firefly Foundry Delivers Proprietary and On-B",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "Generative Design",
       "publishedDate": "2025-10-28T07:00:00.000Z",
       "category": "tools"
@@ -11355,7 +11365,7 @@
       "title": "Samsung The Frame Pro: The Best Inventions of 2025",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVERoal9PNzJFUVpNMmxvY2pLeFRNQTVLTk1mZ04xMjdqUFh4QVJINjF2bTJBeVhQb241WENWd0x5T1R0WFBjVHpKWTlnTnhVUHNxUGQ3Q05oNjNyVnBvMVU4Um5yZnMyWnpQRGxqOXBqaTY5ZVkxQVlkNlBHX2dfeFd3?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNVERoal9PNzJFUVpNMmxvY2pLeFRNQTVLTk1mZ04xMjdqUFh4QVJINjF2bTJBeVhQb241WENWd0x5T1R0WFBjVHpKWTlnTnhVUHNxUGQ3Q05oNjNyVnBvMVU4Um5yZnMyWnpQRGxqOXBqaTY5ZVkxQVlkNlBHX2dfeFd3?oc=5\" target=\"_blank\">Samsung The Frame Pro: The Best",
-      "source": "Time Magazine",
+      "source": "time.com",
       "beat": "Framer AI",
       "publishedDate": "2025-10-09T07:00:00.000Z",
       "category": "tools"
@@ -11445,7 +11455,7 @@
       "title": "I’m a Writer and Creative, and These Are the AI Tools I Actually Use on PC",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZXpOVFlTTzI2WEM5ZTBWOWVpanpEUGhmZ1FTeHRGQ095ZFItd1p0VVdpNEZBcWNCcWhHVk8xMHZCNTN1ajR3YmdBZWFQVGhIWWtza3d2S3F5UzFBY2ZFSzUwaDBEWVc4NTBsd3lIY0Nob1E0a25Pb1FUeHdjUjdvblNTZVh4NmdOM2dGZjhBZk9QMzdfOWRTYnNaZjBuMlVm?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQZXpOVFlTTzI2WEM5ZTBWOWVpanpEUGhmZ1FTeHRGQ095ZFItd1p0VVdpNEZBcWNCcWhHVk8xMHZCNTN1ajR3YmdBZWFQVGhIWWtza3d2S3F5UzFBY2ZFSzUwaDBEWVc4NTBsd3lIY0Nob1E0a25Pb1FUeHdjUjdvblNTZVh4NmdOM2dGZjhBZk9QMzdfOWRTYnNaZjBuMlVm?oc=5\" target=",
-      "source": "howtogeek.com",
+      "source": "How-To Geek",
       "beat": "Creative AI",
       "publishedDate": "2025-10-07T07:00:00.000Z",
       "category": "ux"
@@ -11715,7 +11725,7 @@
       "title": "How to Create YouTube Content with AI: Best Tools, Practices &amp; Assistants",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94STJHakVuc2hRMDhPc3dPQkZsd2F3OXpOcHpMaFZJanpna0ttYnQ1VU4tdFhja1hTMmFHOW4xbDBzTkVORnFDYTREbXFFU0dUTXlIelh0dWJEUQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE94STJHakVuc2hRMDhPc3dPQkZsd2F3OXpOcHpMaFZJanpna0ttYnQ1VU4tdFhja1hTMmFHOW4xbDBzTkVORnFDYTREbXFFU0dUTXlIelh0dWJEUQ?oc=5\" target=\"_blank\">How to Create YouTube Content with AI: Best Tools, Practices & Assistants</a>&nbsp;&n",
-      "source": "Metricool",
+      "source": "metricool.com",
       "beat": "AI Video Design",
       "publishedDate": "2025-09-26T07:00:00.000Z",
       "category": "ai-tools"
@@ -11965,7 +11975,7 @@
       "title": "uBrand Launches AI Logo Generation Feature to Its AI Branding Platform, Delivering End-to-End Branding Solutions for Businesses",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQZ3EyeEJlNmlPY1c0ZjJoSjFCdHRsUzFMcl9UQ3RUWXZpdy1UdkNjUXN2SnZqSG1Demg3enNCVjRlWDVTdGdITHdqNWZTWDlGbGIwRU9YMjRYUnQxS2ZFWkktV243bXdfX0o4NWpta2ZocUdOM1lVSE1RV2xXWmFjMlphR1NuN0lPN1lMYmR2REx3MVNSbThVWW02TEZXb1JScURmb1A5WV92X2dMV0gyUEFnQTM0c3J5Uk42WUpfOEotX3UzY1NVOWZVSFdZR0g2T054LWRLRU5HQXExLXhGM1FrYUhfZWFRZXFGdzJEZUhrN0tnaTJ6RmxBOExDanhqVHRmYW93UEF6ZVZsTllzZlAwMTA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxQZ3EyeEJlNmlPY1c0ZjJoSjFCdHRsUzFMcl9UQ3RUWXZpdy1UdkNjUXN2SnZqSG1Demg3enNCVjRlWDVTdGdITHdqNWZTWDlGbGIwRU9YMjRYUnQxS2ZFWkktV243bXdfX0o4NWpta2ZocUdOM1lVSE1RV2xXWmFjMlphR1NuN0lPN1lMYmR2REx3MVNSbThVWW02TEZXb1JScURmb1A5WV92X2",
-      "source": "livingstondaily.com",
+      "source": "Livingston Daily",
       "beat": "AI Logo Design",
       "publishedDate": "2025-09-17T07:00:00.000Z",
       "category": "ux"
@@ -12275,7 +12285,7 @@
       "title": "AI Dubbing Opens Up New Languages with Adobe Firefly",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbWZ6TlZ0b2F0YXVwR3NZU08tU2RzMEMyWkNESElyRmFDYi02WDl5VkltcGFfbW1qbXViWFd3dHhfS0h2c1lBRVJjNWl2dkN0TkVCVUpTazlZQUFQYkhXNXZjaGJjS0hscGVhZjhmUm82VEJ5ckU2RmVNcnRjX3RFTDJWUGNWRDBKdE81blBGS1d1Zy12Qk9rNllxOExRUQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNbWZ6TlZ0b2F0YXVwR3NZU08tU2RzMEMyWkNESElyRmFDYi02WDl5VkltcGFfbW1qbXViWFd3dHhfS0h2c1lBRVJjNWl2dkN0TkVCVUpTazlZQUFQYkhXNXZjaGJjS0hscGVhZjhmUm82VEJ5ckU2RmVNcnRjX3RFTDJWUGNWRDBKdE81blBGS1d1Zy12Qk9rNllxOExRUQ?oc=5\" target=\"_",
-      "source": "PCWorld",
+      "source": "pcworld.com",
       "beat": "Adobe Firefly",
       "publishedDate": "2025-09-05T07:00:00.000Z",
       "category": "tools"
@@ -12299,6 +12309,16 @@
       "beat": "Runway ML",
       "publishedDate": "2025-09-04T10:10:10.000Z",
       "category": "ux"
+    },
+    {
+      "id": "e9f4455a0409df24",
+      "title": "AI Tools for Creating Mockups",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XQzhoOFBYYmZIVFlrWlZRWktlT0hreDVLaWRiYnJHRHU2OGo4YXR0cnI5OXhCeHpsQ1ZYbjRpRTE3cG5DUUM2aGpHSWV5Z1dXNkZWYXUzcXcxQkFabHBzMEh3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XQzhoOFBYYmZIVFlrWlZRWktlT0hreDVLaWRiYnJHRHU2OGo4YXR0cnI5OXhCeHpsQ1ZYbjRpRTE3cG5DUUM2aGpHSWV5Z1dXNkZWYXUzcXcxQkFabHBzMEh3?oc=5\" target=\"_blank\">AI Tools for Creating Mockups</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vocal</f",
+      "source": "Vocal",
+      "beat": "AI Web Design",
+      "publishedDate": "2025-09-04T07:53:37.000Z",
+      "category": "ui"
     },
     {
       "id": "c8426f82cf5040ac",
@@ -13201,10 +13221,10 @@
       "category": "ai-tools"
     },
     {
-      "id": "a699943847ccbf8b",
-      "title": "What’s the Best Website Builder for Artists? 8 Great Options (2026)",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQbGd3dHU3eVJsMG5kQkZLTm9obFJfRC1zRXZ6SG1ERVdPUUNUVXpuYXU5Vm9NMjJMSTNCRk43aTBDUkg0SzNmMndJR3FSSkRSZW5GM1B6WHExODhhTzUwLXVmQTA0WmZKaVc2c0hR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBQbGd3dHU3eVJsMG5kQkZLTm9obFJfRC1zRXZ6SG1ERVdPUUNUVXpuYXU5Vm9NMjJMSTNCRk43aTBDUkg0SzNmMndJR3FSSkRSZW5GM1B6WHExODhhTzUwLXVmQTA0WmZKaVc2c0hR?oc=5\" target=\"_blank\">What’s the Best Website Builder for Artists? 8 Great Option",
+      "id": "8bb0b4acb3ff3594",
+      "title": "What’s the Best Website Builder for Artists? 8 Great Options",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GN2szS1E3MVJ6NC1DWU1yLVBpY2VvVS1EYWZoeExGRmp2Y3cwUnd1bG5YQVBoRDJ0dmd0cFpSaThielJ2cFhWQWJoVERxZk5DZXpBVTcyLVZ5RGsxTXFwb3J3SDI3VHRhdi1mVGZjWlZOZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5GN2szS1E3MVJ6NC1DWU1yLVBpY2VvVS1EYWZoeExGRmp2Y3cwUnd1bG5YQVBoRDJ0dmd0cFpSaThielJ2cFhWQWJoVERxZk5DZXpBVTcyLVZ5RGsxTXFwb3J3SDI3VHRhdi1mVGZjWlZOZw?oc=5\" target=\"_blank\">What’s the Best Website Builder for Artists? 8 Great ",
       "source": "Shopify",
       "beat": "Webflow AI",
       "publishedDate": "2025-08-04T07:00:00.000Z",
@@ -13296,16 +13316,6 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmJWd1pPU09oQWJKOWdoSkcxc0JSNGtDN3VuSG9CTWhkYklhMHNFTzE1NmNURmQyb29GN0Jfd0pSWnNFZWxOSy1pYkF0Z0picTlGeThBNll3NDFLUFd0UGJaQndDajRiaVdVLTZHYnBNdkxkTWNJVXZpbHUxN3RTb0RLRThUS2JsaDIyZ3Q5aWM1bng2ODNpdy1JRlBWRTNvLWthNEh3YzlPM1RTMFNzV01uMA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmJWd1pPU09oQWJKOWdoSkcxc0JSNGtDN3VuSG9CTWhkYklhMHNFTzE1NmNURmQyb29GN0Jfd0pSWnNFZWxOSy1pYkF0Z0picTlGeThBNll3NDFLUFd0UGJaQndDajRiaVdVLTZHYnBNdkxkTWNJVXZpbHUxN3RTb0RLRThUS2JsaDIyZ3Q5aWM1bng2ODNpdy1JRlBWRTNvLWthNEh3YzlPM1",
       "source": "Reuters",
-      "beat": "Figma AI",
-      "publishedDate": "2025-07-31T07:00:00.000Z",
-      "category": "tools"
-    },
-    {
-      "id": "69b5bac6260adebe",
-      "title": "Figma’s Explosive IPO: A Design Software Giant Takes Wall Street by Storm with Figma Stock Soaring",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ1p3Qi11WE9abzJJTDY4SEhBWlpWRHhJZTJLTzdYdjdfYVRiNUtvTHpXX2JsT2stT1FPaVFhQkJiNzdjV2gyMWZiMnpMRDBhdmlOWnhzc2JxMGU1dmhDeXM5dzE0SV9PZTFteTJxZkplNms0MUJqTnFvRDVpeVNTbWZELVlwaXlvNmgtNC1KdTRCRExiMW51azhWM1FreFJwcFN0NVotZDFBcWFOUU9aeTcwYnZLVUQ4Wm9iZVhlaTNmTVpQOEluM2lka3U?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ1p3Qi11WE9abzJJTDY4SEhBWlpWRHhJZTJLTzdYdjdfYVRiNUtvTHpXX2JsT2stT1FPaVFhQkJiNzdjV2gyMWZiMnpMRDBhdmlOWnhzc2JxMGU1dmhDeXM5dzE0SV9PZTFteTJxZkplNms0MUJqTnFvRDVpeVNTbWZELVlwaXlvNmgtNC1KdTRCRExiMW51azhWM1FreFJwcFN0NVotZDFBcW",
-      "source": "BBN Times",
       "beat": "Figma AI",
       "publishedDate": "2025-07-31T07:00:00.000Z",
       "category": "tools"
@@ -13715,7 +13725,7 @@
       "title": "16 best free home design apps for decorating and planning",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDQ1QXlmOWp2cjgwcTBpM0h2RzNMTlZfdFpHZHN3NGc5S0htVVJ1Wi0yWS1udVA3YmZtdzQyUXRNT2FRMFFVWkxwX2hISk5Gek5DSXZIQWVOUEQwOEdqZXphSjZqYWVVSGFpc09NX0VkNVIwYWVqVk0tMzNCcldRcXhPVHRvNWlBMG9xSHJ6QXpqemc3RTE0dDAzUnNrZDB6bUdXM0xJRHp0dXdfYnNDeA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDQ1QXlmOWp2cjgwcTBpM0h2RzNMTlZfdFpHZHN3NGc5S0htVVJ1Wi0yWS1udVA3YmZtdzQyUXRNT2FRMFFVWkxwX2hISk5Gek5DSXZIQWVOUEQwOEdqZXphSjZqYWVVSGFpc09NX0VkNVIwYWVqVk0tMzNCcldRcXhPVHRvNWlBMG9xSHJ6QXpqemc3RTE0dDAzUnNrZDB6bUdXM0xJRHp0dX",
-      "source": "House Beautiful",
+      "source": "housebeautiful.com",
       "beat": "Sketch AI",
       "publishedDate": "2025-07-15T07:00:00.000Z",
       "category": "tools"
@@ -13795,7 +13805,7 @@
       "title": "Amazon targets vibe-coding chaos with new ‘Kiro’ AI software development tool",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTHM2NGJkcmlWSzRGRkhsZEtfMXF3YkRZZlBRVHl3T3B2ZkY5ZFNrZjV3dm43RzFQTW0tT1VPbjVzQjVvendSUkNQaGVveVdxdTBpcnpXTXUwOUNURUhRTkR5ZGN0WUt6S2NoODVGNlVvVTBsZW9LeUptN1FJRXVLWE4zNEk5dkZYM21UVVRfRnlGaDJ2b3hmSGNaeVFFMnhtc1ZxaE9vTUVkZw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTHM2NGJkcmlWSzRGRkhsZEtfMXF3YkRZZlBRVHl3T3B2ZkY5ZFNrZjV3dm43RzFQTW0tT1VPbjVzQjVvendSUkNQaGVveVdxdTBpcnpXTXUwOUNURUhRTkR5ZGN0WUt6S2NoODVGNlVvVTBsZW9LeUptN1FJRXVLWE4zNEk5dkZYM21UVVRfRnlGaDJ2b3hmSGNaeVFFMnhtc1ZxaE9vTUVkZw",
-      "source": "GeekWire",
+      "source": "geekwire.com",
       "beat": "Design + AI Tools",
       "publishedDate": "2025-07-14T07:00:00.000Z",
       "category": "ux"
@@ -14275,7 +14285,7 @@
       "title": "Adobe Firefly Revolutionizes Creative Ideation with New Mobile App, Multimedia Moodboarding and Expanded AI Models",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSUE1d0NiaWpSdG5QZXg3TzVEZnNrQ2ZVVk0wMkl4NFFqcVA2YkUwNVNqRnRZSGhVdTkzR2JMYzFBVTR0NlFNVUNhalpjNzlQUDRucDJ3b19GeTlTRUtjVkRqVXdHUEJkUVB6NnFMY2tKWXM4Y19iT2M1ME81ei0wSmpmQWphYmNQN3hYaDMzUElGNldPcTY3OU92SGdUQQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNSUE1d0NiaWpSdG5QZXg3TzVEZnNrQ2ZVVk0wMkl4NFFqcVA2YkUwNVNqRnRZSGhVdTkzR2JMYzFBVTR0NlFNVUNhalpjNzlQUDRucDJ3b19GeTlTRUtjVkRqVXdHUEJkUVB6NnFMY2tKWXM4Y19iT2M1ME81ei0wSmpmQWphYmNQN3hYaDMzUElGNldPcTY3OU92SGdUQQ?oc=5\" target=\"_",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "Adobe Firefly",
       "publishedDate": "2025-06-17T07:00:00.000Z",
       "category": "tools"
@@ -14345,7 +14355,7 @@
       "title": "Adobe Expands GenStudio with Suite of AI-Powered Innovations for Delivering Video and Display Ad Campaigns at Scale",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ2Y4cTZWQXRtXzIxUWNkbGp4ekdaeGdFQjh4emM3WHVaajhXS2I2Mks2R2ZSTDVjQ1M2bm83T0V1eTZGWGVZQTJQYmRXbzduQVRVclhQMkQtY0szbTlKVGVjU0I3aWpoR0lXa0ZoY0xQVGI5bWdReHA0SUVsRFBOb2ZkclZoVGdNQm1rcGc4cjRWNUZsRHFLdg?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ2Y4cTZWQXRtXzIxUWNkbGp4ekdaeGdFQjh4emM3WHVaajhXS2I2Mks2R2ZSTDVjQ1M2bm83T0V1eTZGWGVZQTJQYmRXbzduQVRVclhQMkQtY0szbTlKVGVjU0I3aWpoR0lXa0ZoY0xQVGI5bWdReHA0SUVsRFBOb2ZkclZoVGdNQm1rcGc4cjRWNUZsRHFLdg?oc=5\" target=\"_blank\">A",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "AI Marketing Design",
       "publishedDate": "2025-06-16T07:00:00.000Z",
       "category": "tools"
@@ -14365,7 +14375,7 @@
       "title": "Cannes Lions 2025: Adobe Unites Creativity, Marketing and AI to Accelerate Customer Experience Orchestration",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdnhIQTRnTXlGUHpJNDE4YVdUdm1NU3pPMEFRdXJYcXdNSEZIdFdETXNYdFQxMkUtOHdXdHlMOEpoMUVTVFAzVXhGWEZWdHlQU19HcGxaTzFHNmVIM04wRDhoY2ZRLU9tb1YtRkFCQ09GR1h2bHZrbm80NVlZMVRsU0g5QQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOdnhIQTRnTXlGUHpJNDE4YVdUdm1NU3pPMEFRdXJYcXdNSEZIdFdETXNYdFQxMkUtOHdXdHlMOEpoMUVTVFAzVXhGWEZWdHlQU19HcGxaTzFHNmVIM04wRDhoY2ZRLU9tb1YtRkFCQ09GR1h2bHZrbm80NVlZMVRsU0g5QQ?oc=5\" target=\"_blank\">Cannes Lions 2025: Adobe Unit",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "AI Marketing Design",
       "publishedDate": "2025-06-16T07:00:00.000Z",
       "category": "tools"
@@ -14711,6 +14721,16 @@
       "category": "tools"
     },
     {
+      "id": "8147115a77574090",
+      "title": "AI and assessment in higher education",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRFoxRy1VTDM2ZGhLSWtDamRfbWczS3RFMmcxRnNLZHc2VTRacjZrV0g5a253ekRBMG52TjloWXZmTUwtaGZiTlBCeldTZ3lpMHJFbnk3QllSUGI0UjVwMk40cDVPb1gzbmYxQ0VXaGJma0pqUG01YzN3SU04UTkwamR1OVk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNRFoxRy1VTDM2ZGhLSWtDamRfbWczS3RFMmcxRnNLZHc2VTRacjZrV0g5a253ekRBMG52TjloWXZmTUwtaGZiTlBCeldTZ3lpMHJFbnk3QllSUGI0UjVwMk40cDVPb1gzbmYxQ0VXaGJma0pqUG01YzN3SU04UTkwamR1OVk?oc=5\" target=\"_blank\">AI and assessment in higher ",
+      "source": "Times Higher Education",
+      "beat": "AI Design Feedback",
+      "publishedDate": "2025-05-23T10:04:56.000Z",
+      "category": "ux"
+    },
+    {
       "id": "1358f32991bac630",
       "title": "How to Build a Website With AI: Best Tools, Tips and Tricks",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iT1hjNFRuRy1IekJlMHZ1LUZ4SGp0UC1ZSkpFd1JUSWdDUHBseFYzT3dnWWs1Y1dmcDVYamM4cnF2MXJza2c2aWZoMDZWM3pfQURzN3pqdl9BbExzOE9vclg4VGNrYmhaMVo3clNJWEg?oc=5",
@@ -14785,7 +14805,7 @@
       "title": "Google’s New “Stitch” AI Can Turn Anyone Into a Professional UI Designer",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSlFpU19DbGhlYndVeUhqaVpGdmVTUUpqTV9BNGtfWjZ6eURkc0h2ajh4Wkhta0RtVEhLV29mRnN2NkIxNGlvMEJnck5BMkJlcFRCNXdWc2ppV3hodTVxY2NQbkZxaHZaVkRxdkJoWlZGWjd6eldfUDZnbkR2OU1VRkZiVFM5MWdrZF9sX9IBkgFBVV95cUxNRUJpeUhBQXNFRzFjQUlBQnM0V1RLTjg2X2E1RXpvd3FINVlmVjhRVzl0ZElZX0d2NGI1SEFrQzJ5QjRTZ1drLWlHWjJJNno1bzVIWEt2ekxacjY2ekJuR1AyTk5rQV9FRnZQcXdNS1FPX1lsNkpsNFBDX3VsMElHbk00dVdmbUVaMTlQa2tNWmdzZw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPSlFpU19DbGhlYndVeUhqaVpGdmVTUUpqTV9BNGtfWjZ6eURkc0h2ajh4Wkhta0RtVEhLV29mRnN2NkIxNGlvMEJnck5BMkJlcFRCNXdWc2ppV3hodTVxY2NQbkZxaHZaVkRxdkJoWlZGWjd6eldfUDZnbkR2OU1VRkZiVFM5MWdrZF9sX9IBkgFBVV95cUxNRUJpeUhBQXNFRzFjQUlBQnM0V1",
-      "source": "beebom.com",
+      "source": "Beebom",
       "beat": "Adobe Stitch",
       "publishedDate": "2025-05-21T07:00:00.000Z",
       "category": "tools"
@@ -14835,7 +14855,7 @@
       "title": "Google I/O 2025: Google reveals Stitch and Jules, AI tools that can do coding and UI designing",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYUJ2azQxVFI0RE9QNk9VUF93Q0pTYWhzTGRZdnFRd3FZeUhTZmVxRkhmVzctU2ZKOWZ1X2dBdlhPVlNoWVIzcTY0WmFPa2dyWjVOTUlkVkVvdEtLTDZBbEtFMEZNZXhTTUsyODV1N2hJakRlYkVrN0w5RGlrcFBKem5qeVBaMzRvNHRLVmk4emxHTnVhR2M5dEJOQWxYSzVOMmdJb0VleF9xbGdYeUpOcW5hMzBaVnFfNUxRdDg4cHBacUxYREQxY2NTMWVYX0EydzgtbmN6RjF3U0pQcmRyUFJRS2FjLTRmYnlKMUlpZ9IB9AFBVV95cUxOR2VSZ3pwZGNMdEc5cC1YOHA0QXFad3hpOTZqcnNmcDJ6TDFxc0g2OGc0RFdPOUtlNlR0STF0VktqWXltb0g4YTVyek1RaUcyNG51d24yNmhITVJXcFlIdjZ0NWJNcG9NbEFtSWZsVVhZbzF5cWk2X0R1TkpVWE04RERPV2pfWlpNeDc5VUkwZm5IRDR6OXdEQ19YZzZwaW1aeHY0RjA3bEF3eEVjUW44bmhlc09lcEdTWDdRWHhHaEtoRUZ4TU10ZkxCX2JuUnBVbW9SeV9Rc3AyMXROOXRpbEZORFctYUpOMmczMGlqdGliNHdM?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYUJ2azQxVFI0RE9QNk9VUF93Q0pTYWhzTGRZdnFRd3FZeUhTZmVxRkhmVzctU2ZKOWZ1X2dBdlhPVlNoWVIzcTY0WmFPa2dyWjVOTUlkVkVvdEtLTDZBbEtFMEZNZXhTTUsyODV1N2hJakRlYkVrN0w5RGlrcFBKem5qeVBaMzRvNHRLVmk4emxHTnVhR2M5dEJOQWxYSzVOMmdJb0VleF9xbG",
-      "source": "indiatoday.in",
+      "source": "India Today",
       "beat": "AI UX Design",
       "publishedDate": "2025-05-21T07:00:00.000Z",
       "category": "ux"
@@ -14955,7 +14975,7 @@
       "title": "GeForce RTX 5060 Out Now: DLSS 4 With Multi Frame Generation, Neural Rendering &amp; Blackwell Innovations For Every Gamer, Starting At $299",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WWlVxb2FGeV91NWF4cE94MVZwLTdWSWxnaDFPZThfbndyR3dkYnlGQTVlQWZRMUtGdm5xYjZKdmRiR2xGSU5URVZLNVJ6STFyVmZ2OUZlWWc5ZlQ4aXA4cFJFVGxtaVo4SFBV?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5WWlVxb2FGeV91NWF4cE94MVZwLTdWSWxnaDFPZThfbndyR3dkYnlGQTVlQWZRMUtGdm5xYjZKdmRiR2xGSU5URVZLNVJ6STFyVmZ2OUZlWWc5ZlQ4aXA4cFJFVGxtaVo4SFBV?oc=5\" target=\"_blank\">GeForce RTX 5060 Out Now: DLSS 4 With Multi Frame Generation, N",
-      "source": "NVIDIA",
+      "source": "nvidia.com",
       "beat": "Framer AI",
       "publishedDate": "2025-05-19T07:00:00.000Z",
       "category": "tools"
@@ -15025,7 +15045,7 @@
       "title": "On Global Accessibility Awareness Day 2025, India Takes a Step Towards Ensuring Digital Accessibility",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOaV9hZEl0RG9PWjB4RTN1R2dmazh3SDdxT19TODVzUHFVWlNKeXZ3TXpscGJyVmhMc3d1aHk2SVE5UnF5LUplOEdiSmNNNnZBeThTZU5XeS1nb1RuQVpSZFhPYTdXeHRja1N4ZlZBQUI2UHhRaDVOUVpEakdBeWVIWkNFSjBMOVFjVmpYcnZqRnBaNHVBdWVpcmQ5Rlppc0tMYTZmOXVuWGo0emtXQUhoUVlGRVpIWExvQUJWbTBadHVhUVdkS0ZJby1xaEZNOHh3Ynk1VWRCNTJuZ1dUZjQyRzBPeU4xdlV4MnBqZ2dMdDNfWDFBdDdaeHh2dlI5ckU0NURsNk8xQWx3WEFxZEHSAZMCQVVfeXFMTkpCWWJ4UFlTN0dyZ19UYlg1b2V4RHB3UkN3dVlpSWoxRU4zS2R3SVlFV1VyaHhjSmFMenVsVWZxdmVIMlpzV1NLVzBhUU4wSWhBNGtNUzhYYmRPYUoxTk9ER09wU1BmazRTMFhtMW1qa2JTZ3EwM1I3WEgyOFI0R3RfUFBZSVlvZGNvZmVRSjdjdjJXN0h2VnUtRFJEekgwcDBFZlpZcTM2M0Q3cWNGLWQ1QXkwQ3ZvVE9LMEEzQnZDbHhoeGMwcWIwUXVMYy1OWlFVY0lQTXRjZGZrUzc2dkpGWWxMdUZyT2lVUlUxbm5WeW9JMlBHV0NISFdhUXlYNWhESE9oWFVabVJ1c0tPTmxSOUk?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxOaV9hZEl0RG9PWjB4RTN1R2dmazh3SDdxT19TODVzUHFVWlNKeXZ3TXpscGJyVmhMc3d1aHk2SVE5UnF5LUplOEdiSmNNNnZBeThTZU5XeS1nb1RuQVpSZFhPYTdXeHRja1N4ZlZBQUI2UHhRaDVOUVpEakdBeWVIWkNFSjBMOVFjVmpYcnZqRnBaNHVBdWVpcmQ5Rlppc0tMYTZmOXVuWGo0em",
-      "source": "Business Standard",
+      "source": "business-standard.com",
       "beat": "AI Accessibility",
       "publishedDate": "2025-05-17T07:00:00.000Z",
       "category": "ux"
@@ -15125,7 +15145,7 @@
       "title": "4 Takeaways From Figma Config 2025",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEU095Y1BWdXp0MXF4SUpQSG13MXlHSUo4YWJKZklHU3BuY083N1FST2x5MzhpM0pINi1oMTNKZWRaUWNhS1BCN2lhZ2hMOHA2SjVNdGxQRVhNMkhtODhmdHFmME12WE11Ti04?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBEU095Y1BWdXp0MXF4SUpQSG13MXlHSUo4YWJKZklHU3BuY083N1FST2x5MzhpM0pINi1oMTNKZWRaUWNhS1BCN2lhZ2hMOHA2SjVNdGxQRVhNMkhtODhmdHFmME12WE11Ti04?oc=5\" target=\"_blank\">4 Takeaways From Figma Config 2025</a>&nbsp;&nbsp;<font color=\"",
-      "source": "techbullion.com",
+      "source": "TechBullion",
       "beat": "Figma Make",
       "publishedDate": "2025-05-14T07:00:00.000Z",
       "category": "tools"
@@ -15255,7 +15275,7 @@
       "title": "Figma rolls out AI features for site design, app prototyping, and branding",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NQllPRXBZQlowczY3c25GbXdpNE52Q0UtUXFwZHRQbGpQNFhrMkEyeWJQZUJTenRkNExPa2RPbWxKMUNQWHFwY25UOEk3TUxxT2JmOGVVUXFzN3hhY0RNWjNoaVJNRnNN?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NQllPRXBZQlowczY3c25GbXdpNE52Q0UtUXFwZHRQbGpQNFhrMkEyeWJQZUJTenRkNExPa2RPbWxKMUNQWHFwY25UOEk3TUxxT2JmOGVVUXFzN3hhY0RNWjNoaVJNRnNN?oc=5\" target=\"_blank\">Figma rolls out AI features for site design, app prototyping, and b",
-      "source": "yourstory.com",
+      "source": "YourStory.com",
       "beat": "Figma AI",
       "publishedDate": "2025-05-08T07:00:00.000Z",
       "category": "tools"
@@ -15276,16 +15296,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZDBZYjdNZU02akVSWWtwN3BCQjllejJuWlBuOU5Yc3gwMWdBT1lkRnZDbGZZQ3lXcXB1MXctb0JWSnpoOXFqdW54eG44YWZubVNkVDVJTS1pSTItZ1dWVXotVHFOQXFHTDMyaVJqdTE3OHdPMXlKMjdGb3AtMlZ3WWdydFN1eEppSjhveEhFVDloNjZnTklWdlpfSFFIUjZidjF6VUs4RU9jRUow0gGyAUFVX3lxTE1ldGxCS29JR0MyQXh0Q1FzbFBySjM2VVVEOG5RclEyWm5yMjFjWHdBQ2ZNQ1NzSDJmVmRueElRUkREd0h4MzFYbG9nRDBiMkx1UEgwRkxiNXdqU0lVcjcxUmUwUEV0RnZCMG9BamlDSDloNU4xekR0VXdaUkE0LTIzYnNmV1hKZnp1alE4cllDdFdVSGl2LVJrd1pGYXVueVphNHIyWVVWMTA5M3U2R213UVE?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOZDBZYjdNZU02akVSWWtwN3BCQjllejJuWlBuOU5Yc3gwMWdBT1lkRnZDbGZZQ3lXcXB1MXctb0JWSnpoOXFqdW54eG44YWZubVNkVDVJTS1pSTItZ1dWVXotVHFOQXFHTDMyaVJqdTE3OHdPMXlKMjdGb3AtMlZ3WWdydFN1eEppSjhveEhFVDloNjZnTklWdlpfSFFIUjZidjF6VUs4RU9jRU",
       "source": "Gadgets 360",
-      "beat": "Figma AI",
-      "publishedDate": "2025-05-08T07:00:00.000Z",
-      "category": "tools"
-    },
-    {
-      "id": "d1ff61b009c0111b",
-      "title": "Figma introduces major AI features to compete with Adobe, WordPress and Canva",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX0dCeXhhcS1CMUZOV0VlbGFMVWI1amU3ZFpwT0l2RHNzQUJ6Y2ZfZnlMMlJmeVkyak0zSG0zb18yY09ES2JsbGFlRjF2SVpOcGxYSXV1UlpVQ2lfcDFld2JYNFZxT2Y1SExvR3J2OEJtMVlmU2JvMEloUGtlQS04WVRjLVdfRXFfQkprQ29BZFRXX3ZnY04zaGFDSkZlcHJuakE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPX0dCeXhhcS1CMUZOV0VlbGFMVWI1amU3ZFpwT0l2RHNzQUJ6Y2ZfZnlMMlJmeVkyak0zSG0zb18yY09ES2JsbGFlRjF2SVpOcGxYSXV1UlpVQ2lfcDFld2JYNFZxT2Y1SExvR3J2OEJtMVlmU2JvMEloUGtlQS04WVRjLVdfRXFfQkprQ29BZFRXX3ZnY04zaGFDSkZlcHJuakE?oc=5\" targ",
-      "source": "Nerd's Chalk",
       "beat": "Figma AI",
       "publishedDate": "2025-05-08T07:00:00.000Z",
       "category": "tools"
@@ -15601,6 +15611,16 @@
       "category": "ux"
     },
     {
+      "id": "9bfd1a481c037d26",
+      "title": "Anthropic Economic Index: AI’s impact on software development",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KaktqbzZqWFZVVmtLMlFFQmlKVzR3bC16QXU5U0pRRWlnQzdoQjJYYmw3MmpOVEw3VFExUXdCRGE1amNheUNTUExSM1N3VXVOWTRQbDFiNDBWdWp5aWJnZmM2WWd3OE1DV1N1QVphMA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5KaktqbzZqWFZVVmtLMlFFQmlKVzR3bC16QXU5U0pRRWlnQzdoQjJYYmw3MmpOVEw3VFExUXdCRGE1amNheUNTUExSM1N3VXVOWTRQbDFiNDBWdWp5aWJnZmM2WWd3OE1DV1N1QVphMA?oc=5\" target=\"_blank\">Anthropic Economic Index: AI’s impact on software develop",
+      "source": "Anthropic",
+      "beat": "AI Design Feedback",
+      "publishedDate": "2025-04-28T07:00:00.000Z",
+      "category": "ux"
+    },
+    {
       "id": "3f2459afb4cfa5c9",
       "title": "The Design + Accessibility Summit 2025",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vbERnczlCQThjelM0RzRrMGlQQWNYUXBybjJscDZZWGVvZVRqN1dQS1J6YjdKanNwV01HTHViMnU1U3lrckRtV0ZiSkpOTGFjcUdaOUFseHVpWG5oeHRsSkd4MTE3a29xakkzNy14aDc?oc=5",
@@ -15655,7 +15675,7 @@
       "title": "Adobe Delivers Creative Pros Unparalleled Speed, Precision and Flexibility with New Creative Cloud Innovations and Firefly App",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdlZMWHlHMV9BdUhLdV9xSDc4NFFPOFFPVWNVVnJ5dUZfRWVFbUdYZ1kwWGFaZllOalpDcWFfR19meWFfS1pUS3NkaWFiZzZyRGVpWm85UVh1STVDcTNnWkZNQTloeTRmVjZlUVVuenJfTW5DdWhtNlU3aGtycjk4RGtPQV85MU9ZSmJtOEkydk9jSW9Nal9FV29taUJRSGoxa2VjVUlkRkc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdlZMWHlHMV9BdUhLdV9xSDc4NFFPOFFPVWNVVnJ5dUZfRWVFbUdYZ1kwWGFaZllOalpDcWFfR19meWFfS1pUS3NkaWFiZzZyRGVpWm85UVh1STVDcTNnWkZNQTloeTRmVjZlUVVuenJfTW5DdWhtNlU3aGtycjk4RGtPQV85MU9ZSmJtOEkydk9jSW9Nal9FV29taUJRSGoxa2VjVUlkRkc?oc",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "Adobe Firefly",
       "publishedDate": "2025-04-24T07:00:00.000Z",
       "category": "tools"
@@ -15675,7 +15695,7 @@
       "title": "Adobe Revolutionizes AI-Assisted Creativity with Firefly, the All-In-One Home for AI Content Creation, with New Partner and Firefly Models",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNejUyNUgwb1B4MnRKUFB6YXIzMDZIVWFMa08tNWdZNUljQUpyRnNUaG1TRVk1dzVZTm82VnRzbE5HU0xqSHpWN3I2Nm0wY2d2OVhTRGJhMWY1QThfR3RMQ3pfdzBqcnI4cUlTQ3VtZUUzRVNGbGFlYUY2NTRwMm0tVlpvanJIcWtlbEpVU1dWWXM?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNejUyNUgwb1B4MnRKUFB6YXIzMDZIVWFMa08tNWdZNUljQUpyRnNUaG1TRVk1dzVZTm82VnRzbE5HU0xqSHpWN3I2Nm0wY2d2OVhTRGJhMWY1QThfR3RMQ3pfdzBqcnI4cUlTQ3VtZUUzRVNGbGFlYUY2NTRwMm0tVlpvanJIcWtlbEpVU1dWWXM?oc=5\" target=\"_blank\">Adobe Revolu",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "AI Video Design",
       "publishedDate": "2025-04-24T07:00:00.000Z",
       "category": "tools"
@@ -15765,7 +15785,7 @@
       "title": "AI 3D Modeling Tools: Top Picks for 3D Artists in 2025",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlV4NFpfeWFWWnVuc1IzaldYcFBaZFNCemg2MkRTNl9yUDlnTzNFS3RNY1NPTGU4dEY0RmVKWUpIWnFHdTJKTHVEMmlWb18zNXZFcTMwX2swYzdBWjl0a1h2U0hwU2JjWXd5WUFMMXRER2JRMUc2N2NvbmNGV0FNRjVENnNpTlp3dmNBcGQxQzh4RjVTYTh30gGkAUFVX3lxTE9ncWJsNGJNMTZKSlhsT1Y4eWZhdVpqVllYejhsNGhUc3lMRHlDZzRKdzBXbTNqMkR3VURiWVpnWG1HNGEySXN3bEZlX2tldVpRVXlkcWZUTmVOakMzeGUyZWhQSDBNaWw5MVNlZGIzN3N0aHBacXZjUl9Vc1ZYRlZGbDEwU0NtbDJWcXNBVVNGTkMzc2tHVm5JRTl6dVhUX0xHOXAw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlV4NFpfeWFWWnVuc1IzaldYcFBaZFNCemg2MkRTNl9yUDlnTzNFS3RNY1NPTGU4dEY0RmVKWUpIWnFHdTJKTHVEMmlWb18zNXZFcTMwX2swYzdBWjl0a1h2U0hwU2JjWXd5WUFMMXRER2JRMUc2N2NvbmNGV0FNRjVENnNpTlp3dmNBcGQxQzh4RjVTYTh30gGkAUFVX3lxTE9ncWJsNGJNMT",
-      "source": "analyticsinsight.net",
+      "source": "Analytics Insight",
       "beat": "Spline 3D AI",
       "publishedDate": "2025-04-21T07:00:00.000Z",
       "category": "ux"
@@ -16131,16 +16151,6 @@
       "category": "ux"
     },
     {
-      "id": "2f5084127e4b6016",
-      "title": "New AI Innovation in Industry-Leading Adobe Premiere Pro Empowers Video Pros to Generate, Edit and Search Footage at Lightning Speed",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13NHh2Y2FlOXBNTEdCOGpTeE9uTEZaLXlzM3VvYlMwRUR1STVpUDNoU18xdVdSOEkyaTVmTV80YnRUX1ctTkJZd1lTdzdDMjZGVlgwVHV1blRvVHR5ZXNuOHpkSWtlZ2tnR1IyT3c5UjVCUTA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE13NHh2Y2FlOXBNTEdCOGpTeE9uTEZaLXlzM3VvYlMwRUR1STVpUDNoU18xdVdSOEkyaTVmTV80YnRUX1ctTkJZd1lTdzdDMjZGVlgwVHV1blRvVHR5ZXNuOHpkSWtlZ2tnR1IyT3c5UjVCUTA?oc=5\" target=\"_blank\">New AI Innovation in Industry-Leading Adobe Premiere",
-      "source": "news.adobe.com",
-      "beat": "Design + AI Tools",
-      "publishedDate": "2025-04-02T07:00:00.000Z",
-      "category": "tools"
-    },
-    {
       "id": "2fbb8fa852a3ca49",
       "title": "The Augmented Architect: Real-Time Enterprise Architecture In The Age Of AI",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLU10UmhRZzVkM3pibEdQVnRJVThxZ0xIYmtnbm95YWNnMG5GN3F1S0ZtdHMxUnNCMkUwYktLT2I1aHI4Y1BrbWZhMVFVRnYzT0x3bFF5SWo3NmJzMW0zeWdUblZxTG5lQlY5T3hrUExYc3BJcDBjZ3ExeFJkNkw2c1ZDakRLYjhvdGpiXzREQjl6eldOMGtGQWxxZGg3bmx6VkxCOUlwRVJ2VFk?oc=5",
@@ -16271,16 +16281,6 @@
       "category": "ux"
     },
     {
-      "id": "27eba9b2b006fabc",
-      "title": "Top UI Design Tools to Boost Your Workflow in 2025",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LU0lKemZkN0tNLTZYR0FUTTUtNFVJaWE2TC1JdThESlpjZGZfSFBTdmRNUjR1MnBOMENWeUVzWkFoSVI0RjlWZ0pGeEVOaTNzcWc2bG5Ddw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LU0lKemZkN0tNLTZYR0FUTTUtNFVJaWE2TC1JdThESlpjZGZfSFBTdmRNUjR1MnBOMENWeUVzWkFoSVI0RjlWZ0pGeEVOaTNzcWc2bG5Ddw?oc=5\" target=\"_blank\">Top UI Design Tools to Boost Your Workflow in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">N",
-      "source": "Netguru",
-      "beat": "Figma AI",
-      "publishedDate": "2025-03-26T07:00:00.000Z",
-      "category": "tools"
-    },
-    {
       "id": "307343e0db968621",
       "title": "Best AI tools for graphic designers",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UdFltajZKeWZjbGxnMFR4SGl4R3ZrTDFPcHVVdzI4M2s2ZXloMXA2UjNOdC15THlxTy1GNjA2cjB2bzBzVl8yOHpHOG1hOTFtMld3MHBPVldHbU9pTFJ2QWZlTmtlTV9hY0J2Yy15S3BYWF9fQ1E?oc=5",
@@ -16316,6 +16316,16 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QRGVtUTF5TmxObTRNYUdLZTdYYjV0MktEU3VFTDkzUGU3UG1QdHZFd1o3ejFvUTJ3S1JxcWhVbmR1Z2lheHMxU1MwbGhPOWZ1XzdwTWVEeTF6VDZaSUNVLUp4LW9jb1I3enRuNnJBSGZ6bzJfQVE?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9QRGVtUTF5TmxObTRNYUdLZTdYYjV0MktEU3VFTDkzUGU3UG1QdHZFd1o3ejFvUTJ3S1JxcWhVbmR1Z2lheHMxU1MwbGhPOWZ1XzdwTWVEeTF6VDZaSUNVLUp4LW9jb1I3enRuNnJBSGZ6bzJfQVE?oc=5\" target=\"_blank\">Design in 2025: Bold, Smart, and AI-Powered</a>&",
       "source": "Little Black Book | LBBOnline",
+      "beat": "AI UX Design",
+      "publishedDate": "2025-03-26T07:00:00.000Z",
+      "category": "ux"
+    },
+    {
+      "id": "27eba9b2b006fabc",
+      "title": "Top UI Design Tools to Boost Your Workflow in 2025",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LU0lKemZkN0tNLTZYR0FUTTUtNFVJaWE2TC1JdThESlpjZGZfSFBTdmRNUjR1MnBOMENWeUVzWkFoSVI0RjlWZ0pGeEVOaTNzcWc2bG5Ddw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LU0lKemZkN0tNLTZYR0FUTTUtNFVJaWE2TC1JdThESlpjZGZfSFBTdmRNUjR1MnBOMENWeUVzWkFoSVI0RjlWZ0pGeEVOaTNzcWc2bG5Ddw?oc=5\" target=\"_blank\">Top UI Design Tools to Boost Your Workflow in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">N",
+      "source": "Netguru",
       "beat": "AI UX Design",
       "publishedDate": "2025-03-26T07:00:00.000Z",
       "category": "ux"
@@ -16565,7 +16575,7 @@
       "title": "AI Factories Are Redefining Data Centers and Enabling the Next Era of AI",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83bjhKdUZWNEd1MEtrLVZkam11cmE4S0FFSENRSjVZR3RFNFFhTnNLWWhpZG5IT05pS3VaX2NxLXBWZGZBbDJ0MEVsOVYtbU9wWmkw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE83bjhKdUZWNEd1MEtrLVZkam11cmE4S0FFSENRSjVZR3RFNFFhTnNLWWhpZG5IT05pS3VaX2NxLXBWZGZBbDJ0MEVsOVYtbU9wWmkw?oc=5\" target=\"_blank\">AI Factories Are Redefining Data Centers and Enabling the Next Era of AI</a>&nbsp;&nbsp;<font c",
-      "source": "blogs.nvidia.com",
+      "source": "NVIDIA Blog",
       "beat": "AI Design Systems",
       "publishedDate": "2025-03-18T07:00:00.000Z",
       "category": "tools"
@@ -16585,7 +16595,7 @@
       "title": "Adobe Firefly Services and Custom Models Unlock On-Brand Content Production at Scale with New Capabilities",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR284dk5QSHFUMnJkRllnLW0wSDdaRk9ZcFZDLVNCV1dFdVdVRG1oVnNZVmx3Z3V3azdhSzUzTUdyd0ZIV3o5WVZkQ1dhSmFHLXRsb3pJZVd3MmM5REY0T2FYQXFFdG1CRGUwWDJJM2wwSmp6UU5qQXRUZkNtMnJKT2F0bzhvN1JYcjdPNk54a1IzVVBpOE9ldXRPbkVDcTdrRVdZdWx2ZnUxRXc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR284dk5QSHFUMnJkRllnLW0wSDdaRk9ZcFZDLVNCV1dFdVdVRG1oVnNZVmx3Z3V3azdhSzUzTUdyd0ZIV3o5WVZkQ1dhSmFHLXRsb3pJZVd3MmM5REY0T2FYQXFFdG1CRGUwWDJJM2wwSmp6UU5qQXRUZkNtMnJKT2F0bzhvN1JYcjdPNk54a1IzVVBpOE9ldXRPbkVDcTdrRVdZdWx2ZnUxRX",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "AI Marketing Design",
       "publishedDate": "2025-03-18T07:00:00.000Z",
       "category": "tools"
@@ -16646,7 +16656,7 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTc01JMTI4T0h4OE9tQ3NoOFpOQmFjelQ2YmlTOVRkS0lQZ1dpeE9zSTZ2ZjdjRHZhRmc2SmZnZDdDRTlwSDI2ZjBhZXZaUF9uaWp2b2VMNHRVR2JxTHZya0pXN2Rra2Fh?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTc01JMTI4T0h4OE9tQ3NoOFpOQmFjelQ2YmlTOVRkS0lQZ1dpeE9zSTZ2ZjdjRHZhRmc2SmZnZDdDRTlwSDI2ZjBhZXZaUF9uaWp2b2VMNHRVR2JxTHZya0pXN2Rra2Fh?oc=5\" target=\"_blank\">Does User-Driven Design Still Need User-Centered Design?</a>&nbsp;&",
       "source": "Jakob Nielsen on UX",
-      "beat": "AI UX Design",
+      "beat": "AI UX Research",
       "publishedDate": "2025-03-13T07:00:00.000Z",
       "category": "ux"
     },
@@ -16941,16 +16951,6 @@
       "category": "ux"
     },
     {
-      "id": "08a5b7949f0566b2",
-      "title": "In&amp;Valid, the start-up that uses AI to support disabled people and carers",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcWVQRHNJOVdabFVZbUNGZHJwT2xtem9HVWp6NlgydnRpSlAzX3h4dTFPaHZmOXU1Q0dyMVhhc1Z4bGdLX04yMkR4Q2tzNHRWQmYtNDBKZUxIdU1MaGZ1cmw1cGdHbGRJXy1PamJoSGRKa1RPemd1UlQ0WVdCUkRUaG1YRHBYTEx0a1AzRTg3Tzg2WUQzMUNUbWJGNDMxbGhPamlSeE0tbVJEUWZ5QV9pekw2VQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNcWVQRHNJOVdabFVZbUNGZHJwT2xtem9HVWp6NlgydnRpSlAzX3h4dTFPaHZmOXU1Q0dyMVhhc1Z4bGdLX04yMkR4Q2tzNHRWQmYtNDBKZUxIdU1MaGZ1cmw1cGdHbGRJXy1PamJoSGRKa1RPemd1UlQ0WVdCUkRUaG1YRHBYTEx0a1AzRTg3Tzg2WUQzMUNUbWJGNDMxbGhPamlSeE0tbVJEUW",
-      "source": "Startupbusiness.it",
-      "beat": "AI Accessibility",
-      "publishedDate": "2025-02-20T08:00:00.000Z",
-      "category": "ux"
-    },
-    {
       "id": "70cd4cd89e051888",
       "title": "Generate Your Own Fonts in Minutes with This Powerful AI Tool",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORU1DdnN2cEo1X004eDBjQnUtMHlQN1B5NjQ1N3pkeGNEaHdNTXZuRHRsZEJCTVZFUDB6OTQ4OFVjRzRHTW90VV85Q2pVdXZkaTUzcXFXLThURnBXcFdycW9HNUJpa2ZxMnB5SVlYMGpMU1J1eEdNQS1EVjZlTDVmbE5WYXRta3VITFRQZERmX2V5TzgtSlM5aFBJemw5Q2pTUWJj?oc=5",
@@ -17005,7 +17005,7 @@
       "title": "6 untapped online businesses to launch this February",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM05qU1d2QkZUS2p4SVJ0YXY3Y3Iybi1JR1ZYSzNULUNFSHU3MHYxclpieDdXVTdFWUM1TlJLbHFiWmpfM1FnVXRsQXU0bzl0ZTlBVFhobkthZDIwWUdfbU5wLW5XMXc1WHFlcE5tbFRhc20zZDQwUEhsaVNVdFJEdA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPM05qU1d2QkZUS2p4SVJ0YXY3Y3Iybi1JR1ZYSzNULUNFSHU3MHYxclpieDdXVTdFWUM1TlJLbHFiWmpfM1FnVXRsQXU0bzl0ZTlBVFhobkthZDIwWUdfbU5wLW5XMXc1WHFlcE5tbFRhc20zZDQwUEhsaVNVdFJEdA?oc=5\" target=\"_blank\">6 untapped online businesses to l",
-      "source": "yourstory.com",
+      "source": "YourStory.com",
       "beat": "AI Presentation",
       "publishedDate": "2025-02-16T08:00:00.000Z",
       "category": "ux"
@@ -17135,9 +17135,19 @@
       "title": "Top AI Tools for Graphic Designers in 2025",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVp1SEVtS2U4SGNseWN3QlhHaVZwM0tzV0FuY3p6b2dUYlJLYWZUUmJrb0I4T3FlcmpDbVo3VGhJMy1vaXY3allVaGlHSUV2cW9PaDFUZk5RWFE3VDZXWm5Uc1VPSk9BLWdSaVVjVUxWdnZBclFpbjRoaUxMWEppNDFlRndrbkZWaEFES3JMN3F0ak1COFNISTZGem5rY1dtZmpzc0wxelRoQ3RFMVo00gGvAUFVX3lxTE1pWnVIRW1LZThIY2x5Y3dCWEdpVnAzS3NXQW5jenpvZ1RiUkthZlRSYmtvQjhPcWVyakNtWjdUaEkzLW9pdjdqWVVoaUdJRXZxb09oMVRmTlFYUTdUNldablRzVU9KT0EtZ1JpVWNVTFZ2dkFyUWluNGhpTExYSmk0MWVGd2tuRlZoQURLckw3cXRqTUI4U0hJNkZ6bmtjV21manNzTDF6VGhDdEUxWjQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVp1SEVtS2U4SGNseWN3QlhHaVZwM0tzV0FuY3p6b2dUYlJLYWZUUmJrb0I4T3FlcmpDbVo3VGhJMy1vaXY3allVaGlHSUV2cW9PaDFUZk5RWFE3VDZXWm5Uc1VPSk9BLWdSaVVjVUxWdnZBclFpbjRoaUxMWEppNDFlRndrbkZWaEFES3JMN3F0ak1COFNISTZGem5rY1dtZmpzc0wxelRoQ3",
-      "source": "analyticsinsight.net",
+      "source": "Analytics Insight",
       "beat": "Runway ML",
       "publishedDate": "2025-02-10T05:53:33.000Z",
+      "category": "ux"
+    },
+    {
+      "id": "4de920a373c81ac8",
+      "title": "Apollo AI Review: Features, Pricing, and Why It Stands Out",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxMGx5NGZSVUxCZzJmOTFxdFBSR051Z2RDQXRPaWtYSkJGRmc5dVNETDQwaG11d0RPT1M3aGhvVllfWXVoZEV4X0NxWENKamdyVk00OFZrbFZOTjNY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxMGx5NGZSVUxCZzJmOTFxdFBSR051Z2RDQXRPaWtYSkJGRmc5dVNETDQwaG11d0RPT1M3aGhvVllfWXVoZEV4X0NxWENKamdyVk00OFZrbFZOTjNY?oc=5\" target=\"_blank\">Apollo AI Review: Features, Pricing, and Why It Stands Out</a>&nbsp;&nbsp;<font col",
+      "source": "Cybernews",
+      "beat": "AI Design Feedback",
+      "publishedDate": "2025-02-07T08:00:00.000Z",
       "category": "ux"
     },
     {
@@ -17225,7 +17235,7 @@
       "title": "Best UX/UI bootcamps of 2025",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Bb1pvcUNENWpsQXBuV3RKQUlPVEd6enAxdEJSMk9HdWhKd19OV05hQi1kbnVadnY0OUFGS1RaX3lIcjhKYmI0eFBlUmhrVzh3ak1BNHZMNzBwcnJrSm1NVzIyekJQWE9GdE1vYQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9Bb1pvcUNENWpsQXBuV3RKQUlPVEd6enAxdEJSMk9HdWhKd19OV05hQi1kbnVadnY0OUFGS1RaX3lIcjhKYmI0eFBlUmhrVzh3ak1BNHZMNzBwcnJrSm1NVzIyekJQWE9GdE1vYQ?oc=5\" target=\"_blank\">Best UX/UI bootcamps of 2025</a>&nbsp;&nbsp;<font color=\"#6f6",
-      "source": "Fortune",
+      "source": "fortune.com",
       "beat": "AI UX Design",
       "publishedDate": "2025-01-31T08:00:00.000Z",
       "category": "ux"
@@ -17391,16 +17401,6 @@
       "category": "tools"
     },
     {
-      "id": "5f8ad71656dd445f",
-      "title": "It's official: AI is coming for your graphic design job",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTC12dGxBRU92WkdBS1VHMUxpeVRWdzRSdHpUcVRyeXJvT2pGd3hPNUZHeGRWajNITUlmOE9ybTNsTmNNWTVqMG1pNk4tX0N1cjdNTjM2QVJNdTZNaDhvbVV2T2NjWGVNQWtfdlU5am9RcnExYUJIb1V5ekdxbjZ4Tlo2Uk5XS1lVN2J3OXVibnM3dw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOTC12dGxBRU92WkdBS1VHMUxpeVRWdzRSdHpUcVRyeXJvT2pGd3hPNUZHeGRWajNITUlmOE9ybTNsTmNNWTVqMG1pNk4tX0N1cjdNTjM2QVJNdTZNaDhvbVV2T2NjWGVNQWtfdlU5am9RcnExYUJIb1V5ekdxbjZ4Tlo2Uk5XS1lVN2J3OXVibnM3dw?oc=5\" target=\"_blank\">It's offi",
-      "source": "Creative Boom",
-      "beat": "AI Illustration",
-      "publishedDate": "2025-01-20T08:00:00.000Z",
-      "category": "ux"
-    },
-    {
       "id": "fac0fe43fff1f541",
       "title": "A multigrained preference analysis method for product iterative design incorporating AI-generated review detection",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByZ2ZWcXNDcVo3Z0lBaXFjRDQtajVEMXRZRTQ5cUs5OVpSTE1DbE5BZy04czZrWVhFa2RnNHN6enJyNVdDV3ZHQkY1dXFvQU1qV0RUamJxMlFXWEhKQ21J?oc=5",
@@ -17525,7 +17525,7 @@
       "title": "NVIDIA Reflex 2 With New Frame Warp Technology Reduces Latency In Games By Up To 75%",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc0tYb0hGeWd5Yl9wLXhNODc3TTFMQmhfTUNyYlA4WU01OEFRUGltRlY4NWRzaXZOTHg5b0JPQ29UTVhlSmd1OUplWWt1UE81X3NyMEpBdWJHOEU5WmNHQ2h1X2FUcklKaVVKaW8tdGdibkNHS3ZQMUdub2JXM0xRV1RVY2JMZFZRcGNsUmRPZUZCNm9GQXVWM0w2Zw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPc0tYb0hGeWd5Yl9wLXhNODc3TTFMQmhfTUNyYlA4WU01OEFRUGltRlY4NWRzaXZOTHg5b0JPQ29UTVhlSmd1OUplWWt1UE81X3NyMEpBdWJHOEU5WmNHQ2h1X2FUcklKaVVKaW8tdGdibkNHS3ZQMUdub2JXM0xRV1RVY2JMZFZRcGNsUmRPZUZCNm9GQXVWM0w2Zw?oc=5\" target=\"_blan",
-      "source": "NVIDIA",
+      "source": "nvidia.com",
       "beat": "Framer AI",
       "publishedDate": "2025-01-06T08:00:00.000Z",
       "category": "tools"
@@ -17681,11 +17681,21 @@
       "category": "ux"
     },
     {
+      "id": "a5bf7f62463144e0",
+      "title": "Looking forward: Examining the trends shaping design and make in 2025",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QZDkwLVNSbEJqVjVqVlNqYUhLZUU3d0gwaHJIY01MNk1GU0NYRUJWVV9oV1pSZ0FHV1NnMVhKMm9Lc1NaY3VkcVVuMzU0TC1RQmdVWUJjbWp4akxITnZRUXBRYTVnMHIySFhsOXJNdVpIeWNwbWxtVGdn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5QZDkwLVNSbEJqVjVqVlNqYUhLZUU3d0gwaHJIY01MNk1GU0NYRUJWVV9oV1pSZ0FHV1NnMVhKMm9Lc1NaY3VkcVVuMzU0TC1RQmdVWUJjbWp4akxITnZRUXBRYTVnMHIySFhsOXJNdVpIeWNwbWxtVGdn?oc=5\" target=\"_blank\">Looking forward: Examining the trends shapi",
+      "source": "Autodesk News",
+      "beat": "Generative Design",
+      "publishedDate": "2024-12-19T08:00:00.000Z",
+      "category": "ux"
+    },
+    {
       "id": "7da346c369f203ad",
       "title": "Monzo, Bunq and Caixabank: Creating a Domino Effect to Foster Greater Inclusivity in Fintech",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZDVucFlUc2Z0VlBDMTREYjNRM3J3d1R6WGo3Q29mR3VDeE9aZW15dUg0NldKdkxwaUtjNEJoaklMZmhZN1RRSEpmdmFkcm1lQkxVaHVNRG5xTnVMb3R5NlRRVGZIZ1dic011Qkp2d2xkeTNPMExuQUVfZFp1dnAzRXVoSXRHMTdaOVViaTRRRlJVdkNOYTdNdHZIb3U2cDdmdnU2VGVodHdXa3Z6QTh3RGNXVEc2Tm5KUks0?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZDVucFlUc2Z0VlBDMTREYjNRM3J3d1R6WGo3Q29mR3VDeE9aZW15dUg0NldKdkxwaUtjNEJoaklMZmhZN1RRSEpmdmFkcm1lQkxVaHVNRG5xTnVMb3R5NlRRVGZIZ1dic011Qkp2d2xkeTNPMExuQUVfZFp1dnAzRXVoSXRHMTdaOVViaTRRRlJVdkNOYTdNdHZIb3U2cDdmdnU2VGVodHdXa3",
-      "source": "thefintechtimes.com",
+      "source": "The Fintech Times",
       "beat": "AI Accessibility",
       "publishedDate": "2024-12-18T08:00:00.000Z",
       "category": "ux"
@@ -18215,7 +18225,7 @@
       "title": "AI Tools for Image Generation: Canva vs. DALL-E",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVJoaTkybm1UbElYOTBOTHk1d0MwbGY1RnJuSTdMUXFldVVIY2dpQ0x4ZkpybFhKN3BJbXItY21qb3E2UlJKTzZTdElxTjhidmNGSmlGZTlEaUUwUGxXRWxYcktCNW1EOGdLcFZNTWpUcWNrZHNGMVk1dGNzN2VncF9IaUVqZ29POFk1LTU5RUI3aDlYVVJ2dldVOG9WTnF0Y2tTMtIBsgFBVV95cUxPM0pUMUVqWkszeGRYbDdfVjNwLWEtWi1OYUI2czRTckNURlZVV2ZmTGswNW9NQUF0bDJIcTJoVnV5anN5VV9UekZDOTJYWW4yUkR5MXFiZDA4bkEwUzI1bDZiX3dTODNGU1dGU3BFaDdJbHA2MkpZVmNZYjFvYkhxQ2ptS0JGRjI1X1NRc3k2UUhOUXNLNFc2SnVHVC0ydC1UZDlDN3NzLTFZVHFUaFZuTFdB?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVJoaTkybm1UbElYOTBOTHk1d0MwbGY1RnJuSTdMUXFldVVIY2dpQ0x4ZkpybFhKN3BJbXItY21qb3E2UlJKTzZTdElxTjhidmNGSmlGZTlEaUUwUGxXRWxYcktCNW1EOGdLcFZNTWpUcWNrZHNGMVk1dGNzN2VncF9IaUVqZ29POFk1LTU5RUI3aDlYVVJ2dldVOG9WTnF0Y2tTMtIBsgFBVV",
-      "source": "analyticsinsight.net",
+      "source": "Analytics Insight",
       "beat": "DALL-E Design",
       "publishedDate": "2024-11-02T07:00:00.000Z",
       "category": "tools"
@@ -18345,7 +18355,7 @@
       "title": "Claude Artifact vs. ChatGPT Canvas: What's the Better Option?",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY2NUNExVanRpazJxNnVSUG1ybjdUV0xiTEJaelhtMEhVTXZwa2FWME1Yc0RpUnJQWmxFWlBwVlRpMnZsRHhveFhjcnZQLVQzTk5pYlBLRkktcmh2M1JGR2ctTVNPV1FWQms4TTZrOVJnbEhEQXZPUXVmcnN0QnBsRWV3enBBelBlUmhEOWlmNXF6X3BoTmxMWjVjU25YeE3SAawBQVVfeXFMUGtxc29aMXcxdFZUOFVnbE5kOHhLdmx5UzFSakgxenBKQjhtU1Q1V0VsbHQzYzNyX3JBZVZ2OGJxWVVWUjZraHhlVmVHd2dQMDAzcFVfSlRGVDlwdTVVVE1uaThtU3hSRi1yWHVXckI4ZVl3U2d6eWxWQm82ZXhXcTBmMWRaYWlINWFmV2VtcDlfLXZDSGZiUFZIWG84Zkd2MHdldVN5V0xvU1BQRw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOY2NUNExVanRpazJxNnVSUG1ybjdUV0xiTEJaelhtMEhVTXZwa2FWME1Yc0RpUnJQWmxFWlBwVlRpMnZsRHhveFhjcnZQLVQzTk5pYlBLRkktcmh2M1JGR2ctTVNPV1FWQms4TTZrOVJnbEhEQXZPUXVmcnN0QnBsRWV3enBBelBlUmhEOWlmNXF6X3BoTmxMWjVjU25YeE3SAawBQVVfeXFMUG",
-      "source": "analyticsinsight.net",
+      "source": "Analytics Insight",
       "beat": "Claude AI Design",
       "publishedDate": "2024-10-18T07:00:00.000Z",
       "category": "tools"
@@ -18385,7 +18395,7 @@
       "title": "Adobe Launches Firefly Video Model and Enhances Image, Vector and Design Models",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS21WdzVITmEzeTBManl5azQ3SmZvbFEtMmxMZk9MT0xmYVVjWFhxTVBkcV9fc3pyM3Y2eFhMdFBvZkdtTVowbmhQZldkeHBvd293eWdVaEdtUHBWSW1yUTBWeFoyZnFtR3JfaWpRTVBONkUyZngzbkFXQWdERF9tME9LNA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNS21WdzVITmEzeTBManl5azQ3SmZvbFEtMmxMZk9MT0xmYVVjWFhxTVBkcV9fc3pyM3Y2eFhMdFBvZkdtTVowbmhQZldkeHBvd293eWdVaEdtUHBWSW1yUTBWeFoyZnFtR3JfaWpRTVBONkUyZngzbkFXQWdERF9tME9LNA?oc=5\" target=\"_blank\">Adobe Launches Firefly Video ",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "Adobe Firefly",
       "publishedDate": "2024-10-14T07:00:00.000Z",
       "category": "tools"
@@ -18415,7 +18425,7 @@
       "title": "Adobe Launches GenStudio for Performance Marketing to Accelerate Campaigns for Marketing and Creative Teams with Generative AI and Deep Insights",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRkpOaElZd1Q5eVFNZHd6V2t0eEQwRWk4WXFPQ1VuV2QxMEdCSXFRNEQwOUpfRE5iemhsd29yOWdONk5mQ09NYXBmM19oeDVGN3NkT0JPcU1yNUNuWHRwTjFIbl9BQmRFRmtuMWFMdmxQYXk3blRSUmRoZEY4cHp4NUdfMk4?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPRkpOaElZd1Q5eVFNZHd6V2t0eEQwRWk4WXFPQ1VuV2QxMEdCSXFRNEQwOUpfRE5iemhsd29yOWdONk5mQ09NYXBmM19oeDVGN3NkT0JPcU1yNUNuWHRwTjFIbl9BQmRFRmtuMWFMdmxQYXk3blRSUmRoZEY4cHp4NUdfMk4?oc=5\" target=\"_blank\">Adobe Launches GenStudio for",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "AI Marketing Design",
       "publishedDate": "2024-10-14T07:00:00.000Z",
       "category": "tools"
@@ -18455,7 +18465,7 @@
       "title": "Would You Use AI To Develop a Website? It's Easier Than You Think",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaWRyeFNPcTdFX1hjVlNneFVmRnZNako0dExIZmZCZlpjb18zeTFfMk0yRWhCdWpUQ2RNQVIxZ2RfNXdxZGJhZ1lyWEdmbHhidTJoNDNZUDdtazNBYkhTalRHMERJZzNRVktWSW1BSlVrb2RCOGlPOS0xMm84WEhRbl9mMHNrU2otcFJnWlVsTWkzbTZx?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPaWRyeFNPcTdFX1hjVlNneFVmRnZNako0dExIZmZCZlpjb18zeTFfMk0yRWhCdWpUQ2RNQVIxZ2RfNXdxZGJhZ1lyWEdmbHhidTJoNDNZUDdtazNBYkhTalRHMERJZzNRVktWSW1BSlVrb2RCOGlPOS0xMm84WEhRbl9mMHNrU2otcFJnWlVsTWkzbTZx?oc=5\" target=\"_blank\">Would Y",
-      "source": "howtogeek.com",
+      "source": "How-To Geek",
       "beat": "Framer AI",
       "publishedDate": "2024-10-05T07:00:00.000Z",
       "category": "tools"
@@ -19065,7 +19075,7 @@
       "title": "️ 40 AI Social Media Prompts To 10x Your Content Creation",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wNmNpaUdPM201NFlXR2pRZnZxaE81U2Q3Q1RfU3F4R0tnWWlxV2VJTlNUOWV2VWV2YW1FUHhfYnBuX1JRTTdBN2xMMEYtQ3FweldoNDZB?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wNmNpaUdPM201NFlXR2pRZnZxaE81U2Q3Q1RfU3F4R0tnWWlxV2VJTlNUOWV2VWV2YW1FUHhfYnBuX1JRTTdBN2xMMEYtQ3FweldoNDZB?oc=5\" target=\"_blank\">️ 40 AI Social Media Prompts To 10x Your Content Creation</a>&nbsp;&nbsp;<font color=\"#6f6f",
-      "source": "Metricool",
+      "source": "metricool.com",
       "beat": "AI Style Guide",
       "publishedDate": "2024-08-01T10:17:16.000Z",
       "category": "tools"
@@ -19111,21 +19121,11 @@
       "category": "ux"
     },
     {
-      "id": "c2d1a0a4f27088c6",
-      "title": "GPTZero Partners with University of Virginia School of Education",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVk14VV9UbDAtOFE5SXdpcldrOXpxMDZuZlBpd3VWeG0xQ3labW82M0NsMnVKU1RBbUE4VlBaMnRRTDVmYm81SmNxZWV2U3lJeS1zYzZPeTFJUE04ZmJ2Z1NvNnN0eEVmN1ZaRi1UOF9uNk1lVTN3ZTZQMkxxTWpsakJ4ZE1mRGN0VUpDSFdvalFwNTA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNVk14VV9UbDAtOFE5SXdpcldrOXpxMDZuZlBpd3VWeG0xQ3labW82M0NsMnVKU1RBbUE4VlBaMnRRTDVmYm81SmNxZWV2U3lJeS1zYzZPeTFJUE04ZmJ2Z1NvNnN0eEVmN1ZaRi1UOF9uNk1lVTN3ZTZQMkxxTWpsakJ4ZE1mRGN0VUpDSFdvalFwNTA?oc=5\" target=\"_blank\">GPTZero ",
-      "source": "GPTZero",
-      "beat": "AI UX Research",
-      "publishedDate": "2024-07-25T07:00:00.000Z",
-      "category": "ux"
-    },
-    {
       "id": "3b78bc1b1db321d8",
       "title": "Adobe Unveils Powerful New Innovations in Illustrator and Photoshop Unlocking New Design Possibilities for Creative Pros",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZl83RVdZdDNLVmNrb0Y2TW0tSk1Qc2Rlc0FpbkdoLXMxa0QyX0ZuMGpvdzJ4VnFMclNGOThxQkxleEk0ZXl6X3VmNzBSV0pieUpUSXhYSDFNTWtLclVJcTl3MjJwWElpSnVpcGtYMWtkb1BzUXJFaXpkU0R1d2hmX0RsWFdRaVE1NXRYdjVhbVhoZEJndHMwc3FsZll3dFFEV0V6WGhOVkQ2U1ZtaW9YX0doM3hzOEtLZ1AxVEM5WnF0YkpSYTdhR3BsQWNNRHI5RjFkdjluMGlOeldQbGpQNHpESHRHWFBWMHlLaG5lMXVDamtLMjNOS0lR?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZl83RVdZdDNLVmNrb0Y2TW0tSk1Qc2Rlc0FpbkdoLXMxa0QyX0ZuMGpvdzJ4VnFMclNGOThxQkxleEk0ZXl6X3VmNzBSV0pieUpUSXhYSDFNTWtLclVJcTl3MjJwWElpSnVpcGtYMWtkb1BzUXJFaXpkU0R1d2hmX0RsWFdRaVE1NXRYdjVhbVhoZEJndHMwc3FsZll3dFFEV0V6WGhOVkQ2U1",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "Adobe Firefly",
       "publishedDate": "2024-07-23T07:00:00.000Z",
       "category": "tools"
@@ -19601,6 +19601,16 @@
       "category": "ux"
     },
     {
+      "id": "038e9c872b2ccad1",
+      "title": "AI-based organizational network analysis",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMVNQcEtscmJEUnB0TnYwMWFjWHg5NFJwdVNjTy1STGh6S3RzVk40cTdfMW9sTVM3UHNRY0RhYVdTRTlEMVhrMU0xbjFXUDI3R0o5S2I4WTZNSnFobndMNjlfZG1CVG1QSHZqeTdVdGlOQkZXRzJzalhvelZ4blE3WnYydUJZUENIa3BBMi13?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOMVNQcEtscmJEUnB0TnYwMWFjWHg5NFJwdVNjTy1STGh6S3RzVk40cTdfMW9sTVM3UHNRY0RhYVdTRTlEMVhrMU0xbjFXUDI3R0o5S2I4WTZNSnFobndMNjlfZG1CVG1QSHZqeTdVdGlOQkZXRzJzalhvelZ4blE3WnYydUJZUENIa3BBMi13?oc=5\" target=\"_blank\">AI-based organi",
+      "source": "Towards Data Science",
+      "beat": "AI Design Feedback",
+      "publishedDate": "2024-05-23T07:00:00.000Z",
+      "category": "ux"
+    },
+    {
       "id": "95dd7993b761b05b",
       "title": "Wearable technology Daily Data",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaOVRueG1NZnZKMkhIMjViQzdwYnpnNW1fY0taMjlxMFRpRkxNSVNqY1J5bmJNRFE0WVFQXzVLQ1RjNV94UG92d0VEel9iX2UzVXBQakxObWF4d3NjZDZzX0tCOC1rNmNEX1pvaEpn?oc=5",
@@ -19745,7 +19755,7 @@
       "title": "5 AI logo design tools to create brand logos for your startup",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vMm82cXNuOEo5Y0l4YmhzRnBtVm0yUWhHa0NCZk4yNTU4YkhhanhKLWV2bUJzdnFvSkVXM2hYdUcyUS1TU2FQbEpvV1F3TlFLbjFSX0IwY2E2bU9KRFFpalE3SXZIRjd2ZW80?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1vMm82cXNuOEo5Y0l4YmhzRnBtVm0yUWhHa0NCZk4yNTU4YkhhanhKLWV2bUJzdnFvSkVXM2hYdUcyUS1TU2FQbEpvV1F3TlFLbjFSX0IwY2E2bU9KRFFpalE3SXZIRjd2ZW80?oc=5\" target=\"_blank\">5 AI logo design tools to create brand logos for your startup</",
-      "source": "yourstory.com",
+      "source": "YourStory.com",
       "beat": "AI Logo Design",
       "publishedDate": "2024-04-26T07:00:00.000Z",
       "category": "branding"
@@ -19895,7 +19905,7 @@
       "title": "Ideogram vs Midjourney: Head to Head Battle!",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43MTNyMVRxM28yTTR6TzdBUnplOFdqVkRQN19WbnAxMHJlWlRpUE92d3NpQl9ta3dCWF9ELUZZTTZZUGY1XzFzUkktNXhkUDZhNEtqckNOdlgydmxEbGx5eFIzM2NuYVZ6T3RtcHNFQmlJeVRaSFlVSg?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE43MTNyMVRxM28yTTR6TzdBUnplOFdqVkRQN19WbnAxMHJlWlRpUE92d3NpQl9ta3dCWF9ELUZZTTZZUGY1XzFzUkktNXhkUDZhNEtqckNOdlgydmxEbGx5eFIzM2NuYVZ6T3RtcHNFQmlJeVRaSFlVSg?oc=5\" target=\"_blank\">Ideogram vs Midjourney: Head to Head Battle!<",
-      "source": "howtogeek.com",
+      "source": "How-To Geek",
       "beat": "Ideogram AI",
       "publishedDate": "2024-03-27T07:00:00.000Z",
       "category": "ux"
@@ -19945,7 +19955,7 @@
       "title": "Adobe Brings Firefly Generative AI Into Substance 3D Workflows",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd3MyTGhGeWVIQWVJdVR6NzdPVGtFUllMTndHdnFYdGxFUTYzQTlRcDJlNXllQVlmeVQxTExJQ283V0tidm5XNDJLV3R4UTJVVXh2YmxIRDEtcFBaLUZiVmdXdElnZUZaWUdHU0JfNFNLQUJpM1cxbFhCUEh3Y2Z6Zk5tS1dTS2FrWWlvajRvTGFmWHp3dGhZdVFHQUJWZFdRYzBlcEE4UGxVNERm?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOd3MyTGhGeWVIQWVJdVR6NzdPVGtFUllMTndHdnFYdGxFUTYzQTlRcDJlNXllQVlmeVQxTExJQ283V0tidm5XNDJLV3R4UTJVVXh2YmxIRDEtcFBaLUZiVmdXdElnZUZaWUdHU0JfNFNLQUJpM1cxbFhCUEh3Y2Z6Zk5tS1dTS2FrWWlvajRvTGFmWHp3dGhZdVFHQUJWZFdRYzBlcEE4UGxVNE",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "Creative AI",
       "publishedDate": "2024-03-18T07:00:00.000Z",
       "category": "tools"
@@ -20275,7 +20285,7 @@
       "title": "6 AI Apps On iPhone That Are Actually Useful",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jRFNvYmZDb3FfTEN6MllnLVRvNWdqQzBnakN6SVNJaWxqdlFfVXl2Q2dTN0QwdU45TEFvNEdyMF9wc3VnV2szbHVNTmpxSTREZFpHTkpiUVQwMmI0Ry0xRDZxLWFCSHl4SEYzUkVXZTU2Zw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1jRFNvYmZDb3FfTEN6MllnLVRvNWdqQzBnakN6SVNJaWxqdlFfVXl2Q2dTN0QwdU45TEFvNEdyMF9wc3VnV2szbHVNTmpxSTREZFpHTkpiUVQwMmI0Ry0xRDZxLWFCSHl4SEYzUkVXZTU2Zw?oc=5\" target=\"_blank\">6 AI Apps On iPhone That Are Actually Useful</a>&nbsp",
-      "source": "slashgear.com",
+      "source": "SlashGear",
       "beat": "Canva AI",
       "publishedDate": "2024-02-12T08:00:00.000Z",
       "category": "tools"
@@ -20991,16 +21001,6 @@
       "category": "ux"
     },
     {
-      "id": "9a63439968e9b787",
-      "title": "Why buttons press our buttons",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14NzNudkZQeGdsemFrYk1nbUlaWHRRdWhkMlVFMUduNklGMnI3b2Q1RGRXOTdfYmxvUkgyWl8tQkVFc0kyajgxMkFFaE9abFd0WkVVYWZybGNqUmxWZWZZOGctX3EyQ3Y1VlB1cmZTeG0xTklNNEtwYmQ0Q0ZrQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE14NzNudkZQeGdsemFrYk1nbUlaWHRRdWhkMlVFMUduNklGMnI3b2Q1RGRXOTdfYmxvUkgyWl8tQkVFc0kyajgxMkFFaE9abFd0WkVVYWZybGNqUmxWZWZZOGctX3EyQ3Y1VlB1cmZTeG0xTklNNEtwYmQ0Q0ZrQQ?oc=5\" target=\"_blank\">Why buttons press our buttons</a>&nbs",
-      "source": "Times Higher Education",
-      "beat": "AI Style Guide",
-      "publishedDate": "2023-10-20T07:00:00.000Z",
-      "category": "tools"
-    },
-    {
       "id": "f6cbbcf20e9333a8",
       "title": "DALL·E 3 is now available in ChatGPT Plus and Enterprise",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNDRmamdGY04wQ3hPU1FXQll1OVhpalIyNzBqMmdvOVFRdXozZWRBT0lsQlFjd1VORGxKSkZRMG1YUmZrMFlmVU9KdGZaeHNqUW9NRW9pRUtqMEVrb1lxbVNPZzJPaXg4YU0xa2x2djNwTmtNMWFTVVBkUTRnYkVXTGV5NHlZbkgyQ3c?oc=5",
@@ -21055,7 +21055,7 @@
       "title": "Adobe Delivers More Power and Precision Across Creative Cloud With Latest AI Powered Release",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORVNpQy1RY1JHRUxLM2ttRHZfaEtrVmc1UUJjeHNSOXc4TnJCTWM3dzIwSmFXMFZ2QW4zVHdnQktmbWtIc0kzOGVsd1pLQU9FX2hCRnNHbWNtOGVZdmhjcGVXaHJPcVpTVkZjaE13aVN1SkZNeFloaUJEVnplcE45RERQNldoY3RBd0dwYzEzbERuenpIcnZOZFdCbE0tOEpYbTN3TGZISllBQnRsaFpTQXhKcE9qb2hfbGRoTUcycGo4alZEdE90ZjR0dEtuRkdwZWVmNA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxORVNpQy1RY1JHRUxLM2ttRHZfaEtrVmc1UUJjeHNSOXc4TnJCTWM3dzIwSmFXMFZ2QW4zVHdnQktmbWtIc0kzOGVsd1pLQU9FX2hCRnNHbWNtOGVZdmhjcGVXaHJPcVpTVkZjaE13aVN1SkZNeFloaUJEVnplcE45RERQNldoY3RBd0dwYzEzbERuenpIcnZOZFdCbE0tOEpYbTN3TGZISllBQn",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "Adobe Firefly",
       "publishedDate": "2023-10-10T07:00:00.000Z",
       "category": "tools"
@@ -21065,7 +21065,7 @@
       "title": "Adobe Unveils the Future of Creativity and AI at Adobe MAX 2023",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdktZb1RVNzF2TmFDU1pndGNOQ2NnTFlTWVI1TGtYcGEzbGo1bDNfcmtoTWxCVnI1N096aFNxSzZxVlA0cGpKSnY2QTNjbTQ4amlfNWJ6R2lkNW1Ua1F4WEN3emMxdGVFbXVzQTRCQ3M5NkVmUXpZLU1aNURQN19ndGVJM0pTYUtJcG5GUTN6MUpRMVBESkdyRnRITnQyNExtRHNMWURvTHF6YnkxbFg1amQwMjVlWE9RMWUw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdktZb1RVNzF2TmFDU1pndGNOQ2NnTFlTWVI1TGtYcGEzbGo1bDNfcmtoTWxCVnI1N096aFNxSzZxVlA0cGpKSnY2QTNjbTQ4amlfNWJ6R2lkNW1Ua1F4WEN3emMxdGVFbXVzQTRCQ3M5NkVmUXpZLU1aNURQN19ndGVJM0pTYUtJcG5GUTN6MUpRMVBESkdyRnRITnQyNExtRHNMWURvTHF6Yn",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "Adobe Firefly",
       "publishedDate": "2023-10-10T07:00:00.000Z",
       "category": "tools"
@@ -21345,7 +21345,7 @@
       "title": "Adobe Releases New Firefly Generative AI Models and Web App Integrates Firefly Into Creative Cloud and Adobe Express",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZnlHSjg4UDdMZlVBXzR0bEZTc185VHBmaGZNYURIOXJkSnVQaVVsQWdBRFhSc1FhN0hiMGFmSzY2cFRCOUpIaFlMcHlxQXlUSFBWWkZFZDdFM3lZd1R6R0lHb0FyNXpDLWFwclBsWUxPbGhkVzZmZC12UHM3cjF0b0xyQTRxRXA5WkFPUjIyR0ZXaWoxYjk1bE8yQWMyUGU4UmtFel95QTVQaHY2aWtiT3prancyLTB0UU1sb1ZnSzE4ZDgzTDlXekU5Y1l3MnZYOHB1RGtoNG94YWkyWDBWYm9HYVp6QTFIU0t0eFNZdEZqV1I2?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZnlHSjg4UDdMZlVBXzR0bEZTc185VHBmaGZNYURIOXJkSnVQaVVsQWdBRFhSc1FhN0hiMGFmSzY2cFRCOUpIaFlMcHlxQXlUSFBWWkZFZDdFM3lZd1R6R0lHb0FyNXpDLWFwclBsWUxPbGhkVzZmZC12UHM3cjF0b0xyQTRxRXA5WkFPUjIyR0ZXaWoxYjk1bE8yQWMyUGU4UmtFel95QTVQaH",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "Adobe Firefly",
       "publishedDate": "2023-09-13T07:00:00.000Z",
       "category": "tools"
@@ -21355,7 +21355,7 @@
       "title": "Adobe Announces All New AI-Powered Creative Cloud Release.",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGhGT2tCOWhyMzE2SG1CbTVTM1IxTkZqNUV1elp3R1BHWW1JcWI3LVFvTW8xSVdpN0ZRdWY2anVaZ1ItcFA5akhFOUxjblZwNWhzMFdvMnJ5cnZaQXV1cmp4VjNXQmEweEs4Yk1iRnVGWXcxdVhfSHZQMmtqVjlVSHBOOXR4aTFhN3BjSmFuVk9XRzZWU2pDRWVNSXpnMXBUZHNxOGdB?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGhGT2tCOWhyMzE2SG1CbTVTM1IxTkZqNUV1elp3R1BHWW1JcWI3LVFvTW8xSVdpN0ZRdWY2anVaZ1ItcFA5akhFOUxjblZwNWhzMFdvMnJ5cnZaQXV1cmp4VjNXQmEweEs4Yk1iRnVGWXcxdVhfSHZQMmtqVjlVSHBOOXR4aTFhN3BjSmFuVk9XRzZWU2pDRWVNSXpnMXBUZHNxOGdB?oc=5\"",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "Adobe Firefly",
       "publishedDate": "2023-09-13T07:00:00.000Z",
       "category": "tools"
@@ -21525,7 +21525,7 @@
       "title": "Adobe Firefly Integrations in Illustrator and Photoshop",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN0tVTnFxNWN3VTdPdlJ1LUF0OHlOV1pGNXF1c2E5RHFNV0t6V3RzSGFuWW5Wbm9ibnl1V1RjSi1QUG5vczJSWHltNGpvYzF6eHBRQzFKR1FtQTQ3NkNlVjVGSUZ4MmhON0ZfYWZoSFRNdkxjdFdKM1o4THoxZlJkay0zTlc1UmR5bWhWSDZ5TW1LWUN4eG83N09EVmx2aGdHT0o0dVRJQ1ZXXy1TVmQ4ZG5B?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQN0tVTnFxNWN3VTdPdlJ1LUF0OHlOV1pGNXF1c2E5RHFNV0t6V3RzSGFuWW5Wbm9ibnl1V1RjSi1QUG5vczJSWHltNGpvYzF6eHBRQzFKR1FtQTQ3NkNlVjVGSUZ4MmhON0ZfYWZoSFRNdkxjdFdKM1o4THoxZlJkay0zTlc1UmR5bWhWSDZ5TW1LWUN4eG83N09EVmx2aGdHT0o0dVRJQ1ZXXy",
-      "source": "packtpub.com",
+      "source": "Packt",
       "beat": "Adobe Firefly",
       "publishedDate": "2023-08-23T07:00:00.000Z",
       "category": "tools"
@@ -21575,7 +21575,7 @@
       "title": "All-New Adobe Express With Firefly Brings Generative AI to Creators Worldwide",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSW1ibnhlaVFIYm5QaFBJa0VWSndzempqell0QmVaT3FIbThQd3lIQmw1LVNVNHlHQzAzVDF3dUlVNzlNQUc2ZmlzNG9uSnNiVElKR2diMGx6NVo5ZHdGUlRGdjZUMGNqNlhlTlcxbExjTnVXeG9MaHJyUEw2MlhBWmRnTjR6RXB1ZnlWc0tlVGdrUVZuZmNnbmpVMEZRTlE2WHJadTZfZ1REd1ZGaXhwdjdGc1A3NUJrV18wYmUxd0k?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSW1ibnhlaVFIYm5QaFBJa0VWSndzempqell0QmVaT3FIbThQd3lIQmw1LVNVNHlHQzAzVDF3dUlVNzlNQUc2ZmlzNG9uSnNiVElKR2diMGx6NVo5ZHdGUlRGdjZUMGNqNlhlTlcxbExjTnVXeG9MaHJyUEw2MlhBWmRnTjR6RXB1ZnlWc0tlVGdrUVZuZmNnbmpVMEZRTlE2WHJadTZfZ1REd1",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "Adobe Firefly",
       "publishedDate": "2023-08-16T07:00:00.000Z",
       "category": "tools"
@@ -21695,7 +21695,7 @@
       "title": "New Wix AI-Powered Platform Promises Speedy E-Commerce Website Creation",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMVBZSW9YaHpOak1tX2dFRUZpRVpmVFBUN1Bqd3N1QTU0MDZfU041bkZVaDItcWhsMkFpM2UxQTNKcDQyQ1QyYy1ING92Q3VlWUxacUlGMFZ5UjUwMEdjUlU4T3FzOF9oeWJMUGxzRm9tcjQxdDRvZXBCWHlJbGl4TE4tSEtULTVac1dWRk9UTDBBZ291dGJWZURCSDNLMzVNUkZEc2tEYlhNdzdFc3dObkJtSkxSX0pKQ25pRQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQMVBZSW9YaHpOak1tX2dFRUZpRVpmVFBUN1Bqd3N1QTU0MDZfU041bkZVaDItcWhsMkFpM2UxQTNKcDQyQ1QyYy1ING92Q3VlWUxacUlGMFZ5UjUwMEdjUlU4T3FzOF9oeWJMUGxzRm9tcjQxdDRvZXBCWHlJbGl4TE4tSEtULTVac1dWRk9UTDBBZ291dGJWZURCSDNLMzVNUkZEc2tEYlhNdz",
-      "source": "ecommercetimes.com",
+      "source": "E-Commerce Times",
       "beat": "Wix AI",
       "publishedDate": "2023-07-18T07:00:00.000Z",
       "category": "ux"
@@ -21789,6 +21789,16 @@
       "beat": "Generative Design",
       "publishedDate": "2023-07-10T11:15:57.000Z",
       "category": "ai-tools"
+    },
+    {
+      "id": "80c020befd28ee97",
+      "title": "What Is the WCAG Ratio? Why You Should Implement It in Your Designs",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HbDhTRjBKMlNvLW9LZmd0ZGtEVmY5cFlpQWU0emVLLVpxZXd6b1FrLTNnZ1BwdmFlaVBoME1KNzU2Y0JTS3dBem1qcGdwd0RRbHpIdkEzRGc1Y25neUVVcTJXcERVbHBUZzdGbVdXUDVIdktUOHc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5HbDhTRjBKMlNvLW9LZmd0ZGtEVmY5cFlpQWU0emVLLVpxZXd6b1FrLTNnZ1BwdmFlaVBoME1KNzU2Y0JTS3dBem1qcGdwd0RRbHpIdkEzRGc1Y25neUVVcTJXcERVbHBUZzdGbVdXUDVIdktUOHc?oc=5\" target=\"_blank\">What Is the WCAG Ratio? Why You Should Implement",
+      "source": "MakeUseOf",
+      "beat": "AI Accessibility",
+      "publishedDate": "2023-07-08T07:00:00.000Z",
+      "category": "ux"
     },
     {
       "id": "31f5dc6d8ba5c03d",
@@ -21915,7 +21925,7 @@
       "title": "All-New Adobe Express With Firefly Revolutionizes How Creators and Brands Design and Share Standout Content",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOd21OOWl5OHo3Rm1jTTRlQlhUX3ZiS2ZKcGM5MTdsazdoSFRpZXNMRGJ0TmR5QjdNX0kwNy03a0s1QTdWdEgyWkVYWW1nZDR0Qnd4UkVTT0ZyV05YbHJFbUhCT3dWb2kwZFVScUpNSEMzWk5PZ053X3JkVVNISEZNa2xKMTlBeVR4MjE2OEYwTTQwVExYcll6YWJ0TUhEMzRzWXVPdzFQbWNqYnowSENYU3Z2SDN1TUpUSm1Jb2hVMkg3OU52dG10aEt0bll3VDZUUU9lZDEyOHdmUUdiNHRjTVIwaS1QUjFR?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOd21OOWl5OHo3Rm1jTTRlQlhUX3ZiS2ZKcGM5MTdsazdoSFRpZXNMRGJ0TmR5QjdNX0kwNy03a0s1QTdWdEgyWkVYWW1nZDR0Qnd4UkVTT0ZyV05YbHJFbUhCT3dWb2kwZFVScUpNSEMzWk5PZ053X3JkVVNISEZNa2xKMTlBeVR4MjE2OEYwTTQwVExYcll6YWJ0TUhEMzRzWXVPdzFQbWNqYn",
-      "source": "news.adobe.com",
+      "source": "Adobe Newsroom",
       "beat": "Adobe Firefly",
       "publishedDate": "2023-06-08T07:00:00.000Z",
       "category": "tools"
@@ -22079,6 +22089,16 @@
       "beat": "Cursor AI Design",
       "publishedDate": "2023-05-11T07:00:00.000Z",
       "category": "ui"
+    },
+    {
+      "id": "27d9c5ed3f2cd6cf",
+      "title": "Meet Google’s new AI Search. And its feisty alter ego",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5d202Q0ppNjNkVXUxenlUS2pNU3NKWUd6dmVtNWl4MnFGb0V3Q1dLX1FRSzY5M3Z1amJiWTdjUTMtWmFnQW1nT1JEM2pvajRqRDZEZXlFQ3Zsa1AxUGNoT1pqUUZ1c3NqR3lyZDV1RkJad2l6UXc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB5d202Q0ppNjNkVXUxenlUS2pNU3NKWUd6dmVtNWl4MnFGb0V3Q1dLX1FRSzY5M3Z1amJiWTdjUTMtWmFnQW1nT1JEM2pvajRqRDZEZXlFQ3Zsa1AxUGNoT1pqUUZ1c3NqR3lyZDV1RkJad2l6UXc?oc=5\" target=\"_blank\">Meet Google’s new AI Search. And its feisty alte",
+      "source": "Fast Company",
+      "beat": "AI Style Guide",
+      "publishedDate": "2023-05-10T07:00:00.000Z",
+      "category": "tools"
     },
     {
       "id": "1f680e9f0ac255f2",
@@ -22295,7 +22315,7 @@
       "title": "The best AI art generators: Bring your wildest dreams to life",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRi0zVTN0bUd5QWEtOXZhWDhCTXBaUC15aGhuZmZEZE03RlZkVFQ5UHlKRDhYZmR0OWtvQzVPd0JPWFQyaEJJMFI1bTlSZ0JaY25vTm1aMTNsY01jeDJZYl9mT1RCTE15Q2kwTUtfODRLTmo5NDQ3bWFydXNQYm5GRHhHSHN1U1c2YlRwd3lralZ4OVpEUThZSmh6dm55aW9MUUxOYjNIZw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQRi0zVTN0bUd5QWEtOXZhWDhCTXBaUC15aGhuZmZEZE03RlZkVFQ5UHlKRDhYZmR0OWtvQzVPd0JPWFQyaEJJMFI1bTlSZ0JaY25vTm1aMTNsY01jeDJZYl9mT1RCTE15Q2kwTUtfODRLTmo5NDQ3bWFydXNQYm5GRHhHSHN1U1c2YlRwd3lralZ4OVpEUThZSmh6dm55aW9MUUxOYjNIZw?oc=",
-      "source": "PCWorld",
+      "source": "pcworld.com",
       "beat": "Stable Diffusion",
       "publishedDate": "2023-04-04T07:00:00.000Z",
       "category": "ux"
@@ -22315,7 +22335,7 @@
       "title": "Generative AI race heats up as Canva drops new ‘magic’ tools for visual communication",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbWRTOEtZWWpIc0JoQTlIMGp3ZWZwN29wRkpJSVR5d3B5dFJnUTlOUlpOQ2VwS3JzQXg3R3VleVAtOWJBajNpVDBQVVo1RWVoQkZqZFM4YjBESTR6U291NTFrZ0k0Qy1WV1J4Y2xFOU15YndpQVhHdGE4SGFLcFpwRUVLV3pYNGtUbElZNjQ5Y1pUVmxIRU5pRkN2amctMjhWTTJiZnhOeXRVRTJ6NXdxcUtvWDJBQnljMmFkZkpCekdUbHJNT184UEJUMHZJamNyWGFj0gHaAUFVX3lxTE1GOWU0UU9JeUdMd0JPVG1mX3RneEZQdlRnS2pIM2d6ekhkOW4yS2dMa0c4Y093OV95NzNwc0x6UWlYeU54Y2RTeHFIcXVnRUNVbkZUR25jYlZsX3k2bGNEemVMWVpQdHVDSHpRT3JrOGM4aWhObmNVaG5FSGZMNG04Z2tNWC1KMnJ0NWRsMzVNTkc3UzVBSlF6TG5lOHhjd3J3S21oakZTWEhfb0dYUWNmcEJjakZvWEl2XzdTbUpzN2NfVnlsVmhqSTZZWmRDc1NxRVNNQmktcElR?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbWRTOEtZWWpIc0JoQTlIMGp3ZWZwN29wRkpJSVR5d3B5dFJnUTlOUlpOQ2VwS3JzQXg3R3VleVAtOWJBajNpVDBQVVo1RWVoQkZqZFM4YjBESTR6U291NTFrZ0k0Qy1WV1J4Y2xFOU15YndpQVhHdGE4SGFLcFpwRUVLV3pYNGtUbElZNjQ5Y1pUVmxIRU5pRkN2amctMjhWTTJiZnhOeXRVRT",
-      "source": "Philstar.com",
+      "source": "philstar.com",
       "beat": "Canva AI",
       "publishedDate": "2023-03-28T07:00:00.000Z",
       "category": "tools"
@@ -22355,7 +22375,7 @@
       "title": "Can’t wait for Microsoft’s AI-generated presentations? Canva has it now",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb1BqSndTQTFSZkNMTTZ2NWNibC0tWTM2ZGNCMHcyMUp4MnFmVUZFUkdOUHNPemlEQkRhczVvZFdDSjU0M3h5anE5bmg3NEo4MmlmR2F5Mk81STh1R1l1N3NhblQ3NlZqYlN5cl9pcUo4Y1lOczQ0MGFXZEV3UHJfVjZ0d3E3dE12RVg2Q0ZvUUdJdW9uNWVTaFJ6eEVhYnVDLVBYX1N3dnJuTG8?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb1BqSndTQTFSZkNMTTZ2NWNibC0tWTM2ZGNCMHcyMUp4MnFmVUZFUkdOUHNPemlEQkRhczVvZFdDSjU0M3h5anE5bmg3NEo4MmlmR2F5Mk81STh1R1l1N3NhblQ3NlZqYlN5cl9pcUo4Y1lOczQ0MGFXZEV3UHJfVjZ0d3E3dE12RVg2Q0ZvUUdJdW9uNWVTaFJ6eEVhYnVDLVBYX1N3dnJuTG",
-      "source": "PCWorld",
+      "source": "pcworld.com",
       "beat": "Microsoft Designer",
       "publishedDate": "2023-03-23T07:00:00.000Z",
       "category": "tools"
@@ -22505,7 +22525,7 @@
       "title": "What is Microsoft Designer, and How Do You Get Started?",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS1A2Q2pXUUFWNG1fc3ZoNk43SWlXb01naWtpR0hQNHFPbnRJYXFwVEZxT2xqM0taYzg5aHhtY1ZpRWMxMGI5dWxaZGl3X0ZJVk5LUlpjNFY2a2I3cHlRd0VXZTBHQkVKa2ZYUkM1Ylo2RjR3REZfX0lUSU15UFZNV0tITFFjb3A1Vk9jNGt5UHo?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNS1A2Q2pXUUFWNG1fc3ZoNk43SWlXb01naWtpR0hQNHFPbnRJYXFwVEZxT2xqM0taYzg5aHhtY1ZpRWMxMGI5dWxaZGl3X0ZJVk5LUlpjNFY2a2I3cHlRd0VXZTBHQkVKa2ZYUkM1Ylo2RjR3REZfX0lUSU15UFZNV0tITFFjb3A1Vk9jNGt5UHo?oc=5\" target=\"_blank\">What is Micr",
-      "source": "howtogeek.com",
+      "source": "How-To Geek",
       "beat": "Microsoft Designer",
       "publishedDate": "2023-01-08T08:00:00.000Z",
       "category": "ux"
@@ -22515,7 +22535,7 @@
       "title": "TT artists working with AI art",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lekk5bkJQcHpRNktkcTlxZjJNWFNEWUJiTDVib1hYLVlGSFFkMFFOTm1DcTljQVFfRHV2S2tEU3QyVUlSd2tvQjhsVFJqbDJ4WXZ0RlVJS2FlZHBGTDF5ZzgwTjV6YjlvSFBVWE02N0ZiUQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1lekk5bkJQcHpRNktkcTlxZjJNWFNEWUJiTDVib1hYLVlGSFFkMFFOTm1DcTljQVFfRHV2S2tEU3QyVUlSd2tvQjhsVFJqbDJ4WXZ0RlVJS2FlZHBGTDF5ZzgwTjV6YjlvSFBVWE02N0ZiUQ?oc=5\" target=\"_blank\">TT artists working with AI art</a>&nbsp;&nbsp;<font c",
-      "source": "technewstt.com",
+      "source": "Tech News TT",
       "beat": "Stable Diffusion",
       "publishedDate": "2022-12-29T08:00:00.000Z",
       "category": "ui"
@@ -22755,7 +22775,7 @@
       "title": "Microsoft's new Designer app integrates OpenAI's DALL-E 2 image generator for graphic design",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeE1yOXBOamNYRDFfZUNjSk1IanRmUlB4T2Q4WE1wQ19UUTRGU3VVWFZia21Ja09GaXBjckphSThHNGhqWW5yV3hXbDFHR1dabFBoSjhaSEtSRHRndC1FbUxQMHpHMjBGVnp6SGlSRnJYV2c1c2MtWjVuZEpNRGdsM2xEYlNBUTh1ZVh2WUxqMkNGNzJEM0hiT0dpNmpSaTFCclJWcWw3RjhTZFVtV0JIck9tQURUTWE1?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeE1yOXBOamNYRDFfZUNjSk1IanRmUlB4T2Q4WE1wQ19UUTRGU3VVWFZia21Ja09GaXBjckphSThHNGhqWW5yV3hXbDFHR1dabFBoSjhaSEtSRHRndC1FbUxQMHpHMjBGVnp6SGlSRnJYV2c1c2MtWjVuZEpNRGdsM2xEYlNBUTh1ZVh2WUxqMkNGNzJEM0hiT0dpNmpSaTFCclJWcWw3RjhTZF",
-      "source": "GeekWire",
+      "source": "geekwire.com",
       "beat": "Microsoft Designer",
       "publishedDate": "2022-10-12T07:00:00.000Z",
       "category": "ux"
@@ -22939,16 +22959,6 @@
       "beat": "DALL-E Design",
       "publishedDate": "2022-07-18T07:00:00.000Z",
       "category": "ai-tools"
-    },
-    {
-      "id": "bc976144fb3f0a27",
-      "title": "The Hidden Governance in AI",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcUxJTnVZdEhGRGlsZ3ZkaXBIOUhOQWUybXBuRlhMazRGMFRYVnFxb2NWU2VIVWtvMktxUHdPVkpuekZEOVlWSUZGbDVYZmE1aUVLREVoYVFRSGc4MTVBQ1pKNXpkSFhlTzZJaXJSdG9VbEs3NU5MQ3FzcFJyUnJLRk85RWxqMGQ1VlRROQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPcUxJTnVZdEhGRGlsZ3ZkaXBIOUhOQWUybXBuRlhMazRGMFRYVnFxb2NWU2VIVWtvMktxUHdPVkpuekZEOVlWSUZGbDVYZmE1aUVLREVoYVFRSGc4MTVBQ1pKNXpkSFhlTzZJaXJSdG9VbEs3NU5MQ3FzcFJyUnJLRk85RWxqMGQ1VlRROQ?oc=5\" target=\"_blank\">The Hidden Govern",
-      "source": "The Regulatory Review",
-      "beat": "AI Design Feedback",
-      "publishedDate": "2022-07-07T07:00:00.000Z",
-      "category": "ux"
     },
     {
       "id": "8c2e5a9cf220e4dd",
@@ -23391,16 +23401,6 @@
       "category": "ux"
     },
     {
-      "id": "04e5c53237725938",
-      "title": "A complete guide to coronavirus charts: Be informed, not terrified",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaHh2eVRYdzVDeTR0cnZzTU9pZF9wUXZqaU5mYkhtaGhGNFZFcU1Hc2paZ3ZJYlQxdHcxbjQ0bU54QWM0UEg4MS01UVNJV1hJZWdFRnpzdm9QZkxHa2l4UXRBTlNaTmRnNGJhaE8wU1hXMExPUWxJaXo3MHNJVEl4V1hqZXFVSlpfQ29pcldIRndKSlE5YzdRdllIZDdFakkwUDNQNQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNaHh2eVRYdzVDeTR0cnZzTU9pZF9wUXZqaU5mYkhtaGhGNFZFcU1Hc2paZ3ZJYlQxdHcxbjQ0bU54QWM0UEg4MS01UVNJV1hJZWdFRnpzdm9QZkxHa2l4UXRBTlNaTmRnNGJhaE8wU1hXMExPUWxJaXo3MHNJVEl4V1hqZXFVSlpfQ29pcldIRndKSlE5YzdRdllIZDdFakkwUDNQNQ?oc=5\" t",
-      "source": "Fast Company",
-      "beat": "AI Data Viz",
-      "publishedDate": "2020-03-17T07:00:00.000Z",
-      "category": "ux"
-    },
-    {
       "id": "d1fbb70356565ad5",
       "title": "Use Framer X to build interactive prototypes",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84TTVVb0R0aDVJSnh5QW5ZalF2NW16RXVWc2J6WmdTSTBKbXk2UjdSUmpRekNzM1pHRDdTS0tCTTVaOFZnNzVXMFo0Zk5YeG04WkxYNk4tbw?oc=5",
@@ -23438,6 +23438,16 @@
       "source": "Creative Bloq",
       "beat": "AI Motion Design",
       "publishedDate": "2019-12-16T08:00:00.000Z",
+      "category": "ux"
+    },
+    {
+      "id": "f483bbfeb98c1986",
+      "title": "42 Usability Testing Tools For Researchers &amp; UI/UX-ers",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CM0U3emNTVnN1bkZhbXp5amYzVTNaRTZ2Vm8zbm1pRFdrTzJuekRpZzlfc2RWbmhEa0Y3Z2ItU1JHWElqR2ZqUFlkTnhDT0V5VE1vT1VGamFRVEd4T1NXck4wR21abVJNYmRlaGNNdllxdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1CM0U3emNTVnN1bkZhbXp5amYzVTNaRTZ2Vm8zbm1pRFdrTzJuekRpZzlfc2RWbmhEa0Y3Z2ItU1JHWElqR2ZqUFlkTnhDT0V5VE1vT1VGamFRVEd4T1NXck4wR21abVJNYmRlaGNNdllxdw?oc=5\" target=\"_blank\">42 Usability Testing Tools For Researchers & UI/UX-er",
+      "source": "Rev",
+      "beat": "AI UX Research",
+      "publishedDate": "2019-11-17T08:00:00.000Z",
       "category": "ux"
     },
     {
@@ -23601,6 +23611,16 @@
       "category": "ux"
     },
     {
+      "id": "8bdd497a84073089",
+      "title": "11 Best Free Website Builders for Real Estate Agents in 2026",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaHlJOF9TRlRDMllmdUFkbF9lajNfZy1iN3hQS0lmUllKd0ZLRGdGb245cWdPS3VELU00NDFqLUNOTEpCTEZBVUVjbndPb2F0RE96UjhmZG9ia1dySnIyWmYzS09sYUN2NEljcGdfM3BUZ1ZHLVBIUWtySUE0SjRxVHdDakg5WS1Z?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaHlJOF9TRlRDMllmdUFkbF9lajNfZy1iN3hQS0lmUllKd0ZLRGdGb245cWdPS3VELU00NDFqLUNOTEpCTEZBVUVjbndPb2F0RE96UjhmZG9ia1dySnIyWmYzS09sYUN2NEljcGdfM3BUZ1ZHLVBIUWtySUE0SjRxVHdDakg5WS1Z?oc=5\" target=\"_blank\">11 Best Free Website Bu",
+      "source": "Website Planet",
+      "beat": "AI Web Design",
+      "publishedDate": "2018-09-05T07:00:00.000Z",
+      "category": "ux"
+    },
+    {
       "id": "20cce268bdfa317b",
       "title": "Package design systems help prevent branding mistakes",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVk5rWlREYUhYZXF5bGRTTEFxczE3MXRlTGhlT3lsWW5DTHdVaUVTd1dhbUxzWjQ1SUdzVTRrcWdQZDc4RmJ3WkhXd2QtdzdfUHFUTXM5bnR0UmVHQ3JQMFZKQmt4SmVqbE1RaF9MV19nWE5hUUhhdFNLYjdsNk9jS1JRNlB1WDVxcFZCOE01MGlTZ2gwa3lfdzdOdF9XZFV0VXpnUg?oc=5",
@@ -23718,6 +23738,16 @@
       "source": "Forbes",
       "beat": "Framer AI",
       "publishedDate": "2017-06-16T07:00:00.000Z",
+      "category": "tools"
+    },
+    {
+      "id": "23237e687a20304d",
+      "title": "Figma or Sketch: Who Wins the War on Multiplayer Design?",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc2hzM2pKRmtwT0FsT3RDRUxEY2ozZXl5WnREUW5PcmhQeDRManZuaThvLWw4Zk5xaVRtSTZhRGhOaVlBZHpNcGdwMTFSdHVfSFhxLWF5V0tjSllHcldjS3JmTGQ5eVNOeTVldmY4OE92a1hlUGo0T043U050T1VHQ3V4SXowZVRN?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc2hzM2pKRmtwT0FsT3RDRUxEY2ozZXl5WnREUW5PcmhQeDRManZuaThvLWw4Zk5xaVRtSTZhRGhOaVlBZHpNcGdwMTFSdHVfSFhxLWF5V0tjSllHcldjS3JmTGQ5eVNOeTVldmY4OE92a1hlUGo0T043U050T1VHQ3V4SXowZVRN?oc=5\" target=\"_blank\">Figma or Sketch: Who Wi",
+      "source": "SitePoint",
+      "beat": "Sketch AI",
+      "publishedDate": "2017-05-11T07:00:00.000Z",
       "category": "tools"
     },
     {
@@ -23951,6 +23981,16 @@
       "category": "ux"
     },
     {
+      "id": "829126bb9abc9fbb",
+      "title": "Clever Data Representations",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iaXp5TGZ1Sy16cDBDdlg3SUNUVTZndkZVMlMycjZEWUZ6Mmw3ZFV4WFlEci1UUFM1UEdEYm84bHh5bjJ6UWJTeGVqTUdJcDJIWkV3MUtuTEJSeXctZmtaLS13alhWSGh5azFwUXRVMEQxS2_SAXhBVV95cUxPT1YxNUVKN05vSUdFQUhHekZYZnF2SzBNa1pDSDNvbWZpanJuNGwxMDVjQXNVOTBMOFhzcVQ3ZTVEUmR2X251M3o1WHVNNVNOcHR5MHFwd0ZxR3hWclZoOWY0MmUwakFQeTVOYzhiN0lQZ1hzZDRMbWs?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1iaXp5TGZ1Sy16cDBDdlg3SUNUVTZndkZVMlMycjZEWUZ6Mmw3ZFV4WFlEci1UUFM1UEdEYm84bHh5bjJ6UWJTeGVqTUdJcDJIWkV3MUtuTEJSeXctZmtaLS13alhWSGh5azFwUXRVMEQxS2_SAXhBVV95cUxPT1YxNUVKN05vSUdFQUhHekZYZnF2SzBNa1pDSDNvbWZpanJuNGwxMDVjQXNVOT",
+      "source": "Trend Hunter",
+      "beat": "AI Data Viz",
+      "publishedDate": "2011-05-06T07:00:00.000Z",
+      "category": "ux"
+    },
+    {
       "id": "f4bb488173b5d9d1",
       "title": "Blend 2D and 3D in After Effects",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MT2pfZzl2czZORXY5dUdtaVVtdXR2VVpHT0dzdnB5ZTZURVc5d3NON01sak0wb3pGUGhacHBYdGRaNXQ2VXp1Znh3dXRCZ2VVdzUwcXROTWYwejlzRjZ2SHdnS09TdGlZUWJHOTdXNmxFMFE5dTV1eXdR?oc=5",
@@ -23961,8 +24001,8 @@
       "category": "motion"
     }
   ],
-  "total": 2396,
+  "total": 2400,
   "beats": 51,
-  "fetchedAt": "2026-08-16T18:46:41.272Z",
-  "durationMs": 758
+  "fetchedAt": "2026-08-16T19:33:17.891Z",
+  "durationMs": 1035
 }
