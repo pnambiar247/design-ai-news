@@ -1,13 +1,63 @@
 {
   "articles": [
     {
+      "id": "64d0a015364578e9",
+      "title": "Google Puts Brand AI Overviews in the Knowledge Panel Spot",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRDFHS3FrMXhqMlctM2htRlJRZEZaRC00cG9SaWxpRTJvRkljZWYzNFNxZmsxODczQWJhUjVqd2hqUk1jQzlSYm9JSzc5aXB2Y3g2REdzYmdDWmgzTEVGV3V5TXlLNzBKTGdHMFJaNk1OWTRWVXdlVC1HUldGTk1OdE9R?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPRDFHS3FrMXhqMlctM2htRlJRZEZaRC00cG9SaWxpRTJvRkljZWYzNFNxZmsxODczQWJhUjVqd2hqUk1jQzlSYm9JSzc5aXB2Y3g2REdzYmdDWmgzTEVGV3V5TXlLNzBKTGdHMFJaNk1OWTRWVXdlVC1HUldGTk1OdE9R?oc=5\" target=\"_blank\">Google Puts Brand AI Overviews ",
+      "source": "ALM Corp",
+      "beat": "AI Marketing Design",
+      "publishedDate": "2026-11-09T18:50:23.000Z",
+      "category": "ux"
+    },
+    {
+      "id": "2d297b2e1cb0f085",
+      "title": "Shopify AI Search Orders Up 3.3x: What Agencies Should Track",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QNEhyd1pYOFZZNEJvSnZleWFZMENyaHF5ajZnTW14SVlHQXJkZXByaFUxa0hHUEFXcnlLYmVVM0E2QnJGSkEwN3VwQlZaZXRwNFFZcHZvRUtfcDFFWFpqdXBzZG1SZFVMakE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1QNEhyd1pYOFZZNEJvSnZleWFZMENyaHF5ajZnTW14SVlHQXJkZXByaFUxa0hHUEFXcnlLYmVVM0E2QnJGSkEwN3VwQlZaZXRwNFFZcHZvRUtfcDFFWFpqdXBzZG1SZFVMakE?oc=5\" target=\"_blank\">Shopify AI Search Orders Up 3.3x: What Agencies Should Track</a>",
+      "source": "ALM Corp",
+      "beat": "AI Marketing Design",
+      "publishedDate": "2026-11-09T18:50:23.000Z",
+      "category": "ux"
+    },
+    {
+      "id": "c60d03e923510378",
+      "title": "Craze – AI Video Platform, Creative Direction &amp; Timeline Editing",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMlpKRzdWU25LeGJGZVFHMVZTOXpGd05YWUxwV19XeEh0dzhYM1oyZUs0ZGVWWE5LanpINjlwaU5NUENXdkYwT1FwTi14b2Q2bWVHSlFMS1BRNDBPazBfSTJUOGJzTnhYYXBKUUdYbWlobjA5QzU0Y3dpdFRNaVJhU1RreG9UZEFpSXc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMlpKRzdWU25LeGJGZVFHMVZTOXpGd05YWUxwV19XeEh0dzhYM1oyZUs0ZGVWWE5LanpINjlwaU5NUENXdkYwT1FwTi14b2Q2bWVHSlFMS1BRNDBPazBfSTJUOGJzTnhYYXBKUUdYbWlobjA5QzU0Y3dpdFRNaVJhU1RreG9UZEFpSXc?oc=5\" target=\"_blank\">Craze – AI Video Pla",
+      "source": "Quasa.io",
+      "beat": "AI Video Design",
+      "publishedDate": "2026-11-09T18:02:23.000Z",
+      "category": "ux"
+    },
+    {
+      "id": "d1b58b93cf1ac0f5",
+      "title": "Anthropic launches Claude Design: AI that creates prototypes and presentations at the click of a button",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQjV4YmtqWVZhUFBLVXV2c1dSanUzRG52d2JibnFES05RZzRncWMtOGIwS2dnS0NqTUFQY2pqNnpwLVJVQ09MaXVyemJZN3BJSXowUVotWlpnZURwU0hfQ0pZNEF3a2gwbXloeDMyVXBJeGxjLUhKVlBiNFZ2em9pQTJJengzZ3ptMFJGU3JwMmZlWnBJRHdELTBLTVJocndKNmUtbU9mdWU2TWw2N01CNTlZeDVmc29mZ3BWMU11WmxSSHlhbmhpVUtYRC10VnB2c3JvUExueFRubGxJVjJ5OTUwbi1FaUU0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQjV4YmtqWVZhUFBLVXV2c1dSanUzRG52d2JibnFES05RZzRncWMtOGIwS2dnS0NqTUFQY2pqNnpwLVJVQ09MaXVyemJZN3BJSXowUVotWlpnZURwU0hfQ0pZNEF3a2gwbXloeDMyVXBJeGxjLUhKVlBiNFZ2em9pQTJJengzZ3ptMFJGU3JwMmZlWnBJRHdELTBLTVJocndKNmUtbU9mdWU2TW",
+      "source": "آي-فون إسلام",
+      "beat": "AI Prototyping",
+      "publishedDate": "2026-11-09T14:42:20.000Z",
+      "category": "tools"
+    },
+    {
       "id": "d728ed646bca2094",
       "title": "From TikTok Effects to Holiday Campaigns: What Reeldo.ai Reveals About the Changing Role of Short-Form Video",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPM3dSWE9aYUNEc05rTUNFazk0OHhkRVpSVmhPMHZIRk5MNmljSENOTWtjYkhqRDMwREJRbUxzbGVJRW5Gclh3Y0FJMGpRZy1kRE4wTXNRTm8teUJwOEp5QWZqcWl0UGtmcWNwNkNxRTM2OWUwR0RTQURxcjFiekFkTWptYnRiWlAwWjgwdWItQ0NyNS1OdENkMnJMMkJFb1plQV9VR3NDcTBDMl9NWUtMNlFXR2ZNMzI2dEVoRlB0TThCSXBGX09Fc1BqcFQ5eWxtMmtSWEpuZEZCX0N1bUxiVWdxeG9vemc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPM3dSWE9aYUNEc05rTUNFazk0OHhkRVpSVmhPMHZIRk5MNmljSENOTWtjYkhqRDMwREJRbUxzbGVJRW5Gclh3Y0FJMGpRZy1kRE4wTXNRTm8teUJwOEp5QWZqcWl0UGtmcWNwNkNxRTM2OWUwR0RTQURxcjFiekFkTWptYnRiWlAwWjgwdWItQ0NyNS1OdENkMnJMMkJFb1plQV9VR3NDcTBDMl",
-      "source": "www.corrierenazionale.it",
+      "source": "corrierenazionale.it",
       "beat": "AI Video Design",
       "publishedDate": "2026-11-09T13:12:12.000Z",
+      "category": "ux"
+    },
+    {
+      "id": "77c77dab4e50ef92",
+      "title": "UX Roundup: Human “Taste” Less Unique | World Usability Day | New Work With AI | Agent Waits | Pale Text | AI Teammates | Evidence | Proximity Compatibility Principle | Back Button",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YaVNWcnJ6dEpVZFZSWDZKamRBTUk1aG1kaFhOU29lcHE3alNSQVMyRGt2a2pkZkd5alo5ZUs4X1ZyV2U1VEU0N0VySjBUN2pUY3RRZlJSRkNZSk42RzJoQmtWS2NTMUhvVEE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1YaVNWcnJ6dEpVZFZSWDZKamRBTUk1aG1kaFhOU29lcHE3alNSQVMyRGt2a2pkZkd5alo5ZUs4X1ZyV2U1VEU0N0VySjBUN2pUY3RRZlJSRkNZSk42RzJoQmtWS2NTMUhvVEE?oc=5\" target=\"_blank\">UX Roundup: Human “Taste” Less Unique | World Usability Day | Ne",
+      "source": "Jakob Nielsen on UX",
+      "beat": "AI User Testing",
+      "publishedDate": "2026-11-09T12:21:33.000Z",
       "category": "ux"
     },
     {
@@ -21,16 +71,6 @@
       "category": "ux"
     },
     {
-      "id": "0aca7a256b1c1bcc",
-      "title": "Best AI for UI Design in 2026: We Gave 5 Tools the Same Brief",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4UWEtUFMya0MtNWt5eVdVUkIxclB1OGhpd1EzRVlPX0VscVdzSE1QVW5FRnZQYndST0JiQXZuTjZETFhqZmJTaTdULU5yWDdhMDhfVg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4UWEtUFMya0MtNWt5eVdVUkIxclB1OGhpd1EzRVlPX0VscVdzSE1QVW5FRnZQYndST0JiQXZuTjZETFhqZmJTaTdULU5yWDdhMDhfVg?oc=5\" target=\"_blank\">Best AI for UI Design in 2026: We Gave 5 Tools the Same Brief</a>&nbsp;&nbsp;<font color=\"#6f",
-      "source": "Fello AI",
-      "beat": "AI Style Guide",
-      "publishedDate": "2026-11-09T06:06:39.000Z",
-      "category": "tools"
-    },
-    {
       "id": "1729dc679edac210",
       "title": "AI Platform Integrates Persona Methods for Fashion Startups",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM0dkTml1Nm02Z243TFBjejJ5WGQ5UTNlWmVXMUltSmR0Q2xxWWR0UEtlbXpsU0xfVm9PN1Bpem5iQ2xxdWluX21qYlk3NTNkRTlPalQ1SV9oNU1Yc3liQXJWWGVJTnBOYUM2N2FWbGpLcTl1MFhRcExYSGR3alhMYzZqWERwbzFnZkhobA?oc=5",
@@ -39,16 +79,6 @@
       "beat": "AI Branding",
       "publishedDate": "2026-11-08T19:49:24.000Z",
       "category": "ux"
-    },
-    {
-      "id": "d1b58b93cf1ac0f5",
-      "title": "Anthropic launches Claude Design: AI that creates prototypes and presentations at the click of a button",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQjV4YmtqWVZhUFBLVXV2c1dSanUzRG52d2JibnFES05RZzRncWMtOGIwS2dnS0NqTUFQY2pqNnpwLVJVQ09MaXVyemJZN3BJSXowUVotWlpnZURwU0hfQ0pZNEF3a2gwbXloeDMyVXBJeGxjLUhKVlBiNFZ2em9pQTJJengzZ3ptMFJGU3JwMmZlWnBJRHdELTBLTVJocndKNmUtbU9mdWU2TWw2N01CNTlZeDVmc29mZ3BWMU11WmxSSHlhbmhpVUtYRC10VnB2c3JvUExueFRubGxJVjJ5OTUwbi1FaUU0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQjV4YmtqWVZhUFBLVXV2c1dSanUzRG52d2JibnFES05RZzRncWMtOGIwS2dnS0NqTUFQY2pqNnpwLVJVQ09MaXVyemJZN3BJSXowUVotWlpnZURwU0hfQ0pZNEF3a2gwbXloeDMyVXBJeGxjLUhKVlBiNFZ2em9pQTJJengzZ3ptMFJGU3JwMmZlWnBJRHdELTBLTVJocndKNmUtbU9mdWU2TW",
-      "source": "آي-فون إسلام",
-      "beat": "AI Prototyping",
-      "publishedDate": "2026-11-08T17:35:25.000Z",
-      "category": "tools"
     },
     {
       "id": "7bac837636f6b0a5",
@@ -81,6 +111,16 @@
       "category": "ux"
     },
     {
+      "id": "855f33b4ad560752",
+      "title": "Wanaka Studio AI 3D game builder",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RVFRzMlRCcWdiaEhVS0xId1dtR1YtTUQ0R0ZjUWNVbWtSdlBuNmM2b0VHSjE0N2RMSkk1RE9XaGhsd2c3Tzdsby1tYnJIQWtCYVFXaHl2UDQxNWlMWE92NHB5aUp3aHhOMVJuVUo2anEzVFIxcDFqN29jQ2k5ZDQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5RVFRzMlRCcWdiaEhVS0xId1dtR1YtTUQ0R0ZjUWNVbWtSdlBuNmM2b0VHSjE0N2RMSkk1RE9XaGhsd2c3Tzdsby1tYnJIQWtCYVFXaHl2UDQxNWlMWE92NHB5aUp3aHhOMVJuVUo2anEzVFIxcDFqN29jQ2k5ZDQ?oc=5\" target=\"_blank\">Wanaka Studio AI 3D game builder</a>",
+      "source": "Dynamic Business",
+      "beat": "AI Prototyping",
+      "publishedDate": "2026-11-07T15:32:56.000Z",
+      "category": "ai-tools"
+    },
+    {
       "id": "4468f3e64d8c991d",
       "title": "Dochase ADx Revolutionises Targeted Advertising With Launch Of Retain AI At Brandcom Awards",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLU40V3Zoc0RPOTVNSkpjRXE0YmhVR3hKQVJhQ3lzYktPRkxyOFoxRlY1V2FXYWc0ZFQyajhTaTR0c01ZelNxSXZJV0YwaUM4TWJHZEJJS0k2Ym8wY2gwNzlXVFI5dWduQTk4V1czc1ozR1k0cWZlVDh6TFlOaEhFRkV0N3M2Nkt6Mnl6amlrdXE4RXNzNy00OFZLR1JqNG9Va1RMRTUxbm9xS2F1cU5pblV6enZSMjFzQUJhMjdfWTk?oc=5",
@@ -91,13 +131,13 @@
       "category": "ux"
     },
     {
-      "id": "43e74fbdb8a5bd7a",
-      "title": "Google brings AI-powered Diwali image creation to Search app: All you need to know",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZkhOR25oelBVMTJ1dDVlcnRrSU9TQjFyVl9ISnZ2cVJxcThoY3N3TmFmcE5Fazl3NzZVTFhrRGE0MTBJTUI4dmF2QWxDeTNtelpOYVZxUmg2UE5UMUZJX09kdXM3R1I5cGFFUy1UNHhnM2hFVWowbUVlVWpZX2d2QnRXX2s3RG4xSTRUZWRjelNtRDRDX1d6bUNjQVBtTWF6X1gxMXROMS0xalBTOWpCLXFTZ2h0TXpHVGxaVndhX0R6ZHcxUkcyYdIBzgFBVV95cUxQMnlCNnZiZUEzTmVaQjZFanhqUDJiU0JNYllBUnlBNmhmUG9iZXVYYnRSS0l2TXZaOWFYMnBNSHNSYnFYdkxITXRFQjVfaDdHN0Q0WHFIVW9GS2ZZd3hQVlltbGF0ajl5RkgzZFBScTFqT3gxWmU4bnJkbFBFVzd6Qk43Ylc5TEFjWENlaTRKcEhmSmw4bkVzcGR2N0FKVlpzY1FubWROa3d4UnFORmt0NGNKd2xrTDF1cDJ5eGF0eWkxYmdBNHp2bW9BYk9zQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZkhOR25oelBVMTJ1dDVlcnRrSU9TQjFyVl9ISnZ2cVJxcThoY3N3TmFmcE5Fazl3NzZVTFhrRGE0MTBJTUI4dmF2QWxDeTNtelpOYVZxUmg2UE5UMUZJX09kdXM3R1I5cGFFUy1UNHhnM2hFVWowbUVlVWpZX2d2QnRXX2s3RG4xSTRUZWRjelNtRDRDX1d6bUNjQVBtTWF6X1gxMXROMS0xal",
-      "source": "Storyboard18",
+      "id": "14872f366ae8ef95",
+      "title": "Dior’s holiday ad triggers new AI debate",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN3ZwWE1uWWFQX3FabVdwbkozd3JzcjFUcEdQWnI5OW53NHo3Y1U1OHgtSzNFVjNQUHBUb1FRR3QtNXhyb0l3dXR1OVczWnczMWpEYUhXamU1MzIyOS1WcHhqX3BOdEZyNm9iLV9WWlc5UlpqZU5TS1BtTmhRSHV6QzBjR2VhaFNMRkk2V2Vpa21tUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPN3ZwWE1uWWFQX3FabVdwbkozd3JzcjFUcEdQWnI5OW53NHo3Y1U1OHgtSzNFVjNQUHBUb1FRR3QtNXhyb0l3dXR1OVczWnczMWpEYUhXamU1MzIyOS1WcHhqX3BOdEZyNm9iLV9WWlc5UlpqZU5TS1BtTmhRSHV6QzBjR2VhaFNMRkk2V2Vpa21tUQ?oc=5\" target=\"_blank\">Dior’s ho",
+      "source": "Fast Company",
       "beat": "AI Marketing Design",
-      "publishedDate": "2026-11-07T09:11:01.000Z",
+      "publishedDate": "2026-11-07T04:17:57.000Z",
       "category": "ux"
     },
     {
@@ -118,16 +158,6 @@
       "source": "Social News XYZ",
       "beat": "AI Video Design",
       "publishedDate": "2026-11-06T22:46:02.000Z",
-      "category": "ux"
-    },
-    {
-      "id": "e8dd90cc88229ce8",
-      "title": "Supermetrics Lets Claude Build Ads Across 6 Platforms: 2026",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0Z4YTllT2g2MFJUUWZaZGNRRW5TYmZBU1QtMDJpSkRncm1yeWlvQ0FpckM4RFBSQU55SFlHbU93X1NPNWV3TDB2WGp5bElhbjFLczBQX21pYUJVeEIzREhDbTdfZkNCLWw0cG9HOGFLbHltMkMweHFTNXR2MVVDTFQ2a0s5bEpXN01SOWY4S2pMNURQVTIzWEI3Ri0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0Z4YTllT2g2MFJUUWZaZGNRRW5TYmZBU1QtMDJpSkRncm1yeWlvQ0FpckM4RFBSQU55SFlHbU93X1NPNWV3TDB2WGp5bElhbjFLczBQX21pYUJVeEIzREhDbTdfZkNCLWw0cG9HOGFLbHltMkMweHFTNXR2MVVDTFQ2a0s5bEpXN01SOWY4S2pMNURQVTIzWEI3Ri0?oc=5\" target=\"_bla",
-      "source": "ALM Corp",
-      "beat": "AI Marketing Design",
-      "publishedDate": "2026-11-06T19:35:40.000Z",
       "category": "ux"
     },
     {
@@ -317,7 +347,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxORldscFp4TFFIaTZUeUhycWtrbWhfRHpBc19hUEV3d0NPWDZ5TDJlUVFMOTJhR1hWWFRXZ3ZhXzM4cXBCS2M0WnBodmE1elAtejNKQnJSQkpMT29RemF6NkRIQUZETWpGSUYyUE1vSm1Xem9tWTdtdUl6X1ktSkpTcWF4NkppUHo4eWhYWThkNHNlNF8yZ290ZlRzZFdmeTU2dWdzVGV2WG4zbH",
       "source": "Dealroom",
       "beat": "Framer AI",
-      "publishedDate": "2026-10-23T11:32:13.000Z",
+      "publishedDate": "2026-10-23T19:39:08.000Z",
       "category": "tools"
     },
     {
@@ -911,6 +941,16 @@
       "category": "tools"
     },
     {
+      "id": "8b7c0d0d967eafcc",
+      "title": "Is ArrowJS Really the UI for the Agentic Era? Here’s What I Found",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nOWpiWGp5MFc2TW93T2drWm5oNUFUcHlEMlBPLVRhM2RWZGF1RWlyMWxXcm0xcGl5Q0d3TVBBOE1YazNfWmFlYXdLRWFNcHZpUmQ1NVhZX0VBdlVzUHhUUUJHTUhyVURWcEdlT3NWM1Q0YU1scjBWWnZn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5nOWpiWGp5MFc2TW93T2drWm5oNUFUcHlEMlBPLVRhM2RWZGF1RWlyMWxXcm0xcGl5Q0d3TVBBOE1YazNfWmFlYXdLRWFNcHZpUmQ1NVhZX0VBdlVzUHhUUUJHTUhyVURWcEdlT3NWM1Q0YU1scjBWWnZn?oc=5\" target=\"_blank\">Is ArrowJS Really the UI for the Agentic Er",
+      "source": "KDnuggets",
+      "beat": "AI Component Gen",
+      "publishedDate": "2026-09-08T07:00:00.000Z",
+      "category": "ui"
+    },
+    {
       "id": "3adb2abdebae3ab1",
       "title": "Generate and create directly in your timeline with new AI-powered innovations in Premiere and After Effects",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOHZtRWZJVXBlQkxnNDRSZDJHUUR2cWRIWFZxd1B0LXVyZzFGY0FQTHNjWDh5UzlRNDBoNUFGV2J6VjBZSDdxSGNFYWNtaEdPZlk1WFlhemdTYUJxZTllTWh5c1ZxbXFiSG1qeEl0QW84a3dlUEhqMkQ5bFRVY3FaNUJiMHVQeFYwb0R0X1R3ZTJvRThZX3pTNzlacGpseVNiTWR5RnYyM1hyeGE5RTJRMVVKYkJtQjc5MWZiOHNiMDVRYjk2QnhwTjRmR1BBOE1Oa3RQS1BnYldBNks2?oc=5",
@@ -981,12 +1021,12 @@
       "category": "ux"
     },
     {
-      "id": "b4e0209d0716007d",
-      "title": "Research: AI-Generated Ads Perform Worse Than Human-Made Ones—Even When Customers Can’t Tell Them Apart",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdmEwd3JydjNTNGxkSjRiVy1kN0E5aVRsd2VDbDVUSFhfYWllWUVVMlZiNjFBREtLamViSTRTczVJZ1hrbUxJTVE0RFJfWm50VHJzT3NkVWROY2l5YUQ5T25YLVBNNjdHUjNyN3JMdVdCYU1WekN0U2NxNkpLM1ZzSzBpRDU0eXZQQTU1dDBMS2JjZXo3czRTVzlPOFptSXJKZnB1cFhneHdwS0lIb2V0LVpsaXRRSmltNl9wdnIzcVJrejQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdmEwd3JydjNTNGxkSjRiVy1kN0E5aVRsd2VDbDVUSFhfYWllWUVVMlZiNjFBREtLamViSTRTczVJZ1hrbUxJTVE0RFJfWm50VHJzT3NkVWROY2l5YUQ5T25YLVBNNjdHUjNyN3JMdVdCYU1WekN0U2NxNkpLM1ZzSzBpRDU0eXZQQTU1dDBMS2JjZXo3czRTVzlPOFptSXJKZnB1cFhneHdwS0",
-      "source": "Harvard Business Review",
-      "beat": "AI Marketing Design",
+      "id": "75463416b5266672",
+      "title": "Can AI help solve the peer-review crisis? Here are its promises and pitfalls",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON1hSX2xMRDA2aU51bzlROGZEV1luM1phN0hXUFlIbnU1bzRZWWVFWU83SXhCd3I0blhpVmdKb3Q0ZGVmcVdjOXB0ZFdwdkdpYWhTSWZ5ZmRhaFY2YlRHSEFWQkFoMXh3b2Ria2J1OFdzQkdDa0tnVjRtd3NGejNmdnN2U3E2UEZqUVFHZlZLdzViSGVyOG03c25LXzE2bC1pVWIySnVXdEFld2dhaW43eg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxON1hSX2xMRDA2aU51bzlROGZEV1luM1phN0hXUFlIbnU1bzRZWWVFWU83SXhCd3I0blhpVmdKb3Q0ZGVmcVdjOXB0ZFdwdkdpYWhTSWZ5ZmRhaFY2YlRHSEFWQkFoMXh3b2Ria2J1OFdzQkdDa0tnVjRtd3NGejNmdnN2U3E2UEZqUVFHZlZLdzViSGVyOG03c25LXzE2bC1pVWIySnVXdEFld2",
+      "source": "Science | AAAS",
+      "beat": "AI Design Feedback",
       "publishedDate": "2026-09-03T07:00:00.000Z",
       "category": "ux"
     },
@@ -1019,6 +1059,16 @@
       "beat": "Wix AI",
       "publishedDate": "2026-09-01T07:00:00.000Z",
       "category": "ai-tools"
+    },
+    {
+      "id": "56502031c9c6f2c5",
+      "title": "Graphic Designer Salary: Your 2026 Guide",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zYWZ1WlhoY3kzcDBXN29hWWpjZjZfc18wTjNTdW1mdDdjX09lR0xnZmdmeHN5U2d6WXVfT3lCcHRKUDYxRkNsSUlYeWN0N3Vldm40NmRURlFWUkJqdldqZXRKR0liUzc0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zYWZ1WlhoY3kzcDBXN29hWWpjZjZfc18wTjNTdW1mdDdjX09lR0xnZmdmeHN5U2d6WXVfT3lCcHRKUDYxRkNsSUlYeWN0N3Vldm40NmRURlFWUkJqdldqZXRKR0liUzc0?oc=5\" target=\"_blank\">Graphic Designer Salary: Your 2026 Guide</a>&nbsp;&nbsp;<font color",
+      "source": "Coursera",
+      "beat": "AI Illustration",
+      "publishedDate": "2026-09-01T07:00:00.000Z",
+      "category": "ui"
     },
     {
       "id": "be8f6261858cfc0a",
@@ -1531,6 +1581,16 @@
       "category": "ux"
     },
     {
+      "id": "ccc973e151e39a38",
+      "title": "What Is a Visual Designer? (+ How to Become One in 5 Steps)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iVTRUUHRzTU1tSW04WVdyd0dLUWJfaTA0NEdiaEg2OW5OTl9qaWdsT1lUa2lybVk5NG1LN2N1X1VFRFhYS2xoSEVmbkdwRnJTd1J3WEUzOUlON2gxd3c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iVTRUUHRzTU1tSW04WVdyd0dLUWJfaTA0NEdiaEg2OW5OTl9qaWdsT1lUa2lybVk5NG1LN2N1X1VFRFhYS2xoSEVmbkdwRnJTd1J3WEUzOUlON2gxd3c?oc=5\" target=\"_blank\">What Is a Visual Designer? (+ How to Become One in 5 Steps)</a>&nbsp;&nbsp;<font",
+      "source": "Coursera",
+      "beat": "AI User Testing",
+      "publishedDate": "2026-07-15T07:00:00.000Z",
+      "category": "ux"
+    },
+    {
       "id": "1f86336800e35794",
       "title": "How to Use Claude Design for Designing Software with a Design System",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS1BmWGlxZkg1dlQyRkJkTGVremtwNUgwUEZWUk0wWlk1U196QV83ckFxejhPeXI2c20zUXRpS0tpYkx6TXJTRnZOXzExYlFYdWEydzdXTUUwcUdwTlVKb0hCckYzd1BIYmN4R1p2Z0xTeURLRGtJaVdHbFd1NW5NeC11Qm40TTNONlJTdlNlVGRSVXlscjJYOEpFV3pSeFE?oc=5",
@@ -1551,16 +1611,6 @@
       "category": "ux"
     },
     {
-      "id": "ccc973e151e39a38",
-      "title": "What Is a Visual Designer? (+ How to Become One in 5 Steps)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iVTRUUHRzTU1tSW04WVdyd0dLUWJfaTA0NEdiaEg2OW5OTl9qaWdsT1lUa2lybVk5NG1LN2N1X1VFRFhYS2xoSEVmbkdwRnJTd1J3WEUzOUlON2gxd3c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iVTRUUHRzTU1tSW04WVdyd0dLUWJfaTA0NEdiaEg2OW5OTl9qaWdsT1lUa2lybVk5NG1LN2N1X1VFRFhYS2xoSEVmbkdwRnJTd1J3WEUzOUlON2gxd3c?oc=5\" target=\"_blank\">What Is a Visual Designer? (+ How to Become One in 5 Steps)</a>&nbsp;&nbsp;<font",
-      "source": "Coursera",
-      "beat": "AI Branding",
-      "publishedDate": "2026-07-15T07:00:00.000Z",
-      "category": "ui"
-    },
-    {
       "id": "3d176df7e218e76a",
       "title": "After 20 years with Adobe, I've switched to Maxon Autograph – here's why",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3NPeTBZeXVfaHBJSG13Z2F0U3dGdDBwUEVDUTRFSXJzR2FmRjdfZ0pBc2RwU2RVU3lNQTR3SVFHdF9GVXVmNTg3N195UnFyLWtVaFA2Q0tYbENCOTVIdGtZSkh2TTFxSkpsMUF5UzdCQ3lnZEt5QTBqZXF1bV80SERTY0NsQ0RjUkhlV2gwYUc4M2ltYm1QQzR4b0VFWFhkWHVwd3U1LWJHWERMSVpWclRrNkxOZWs?oc=5",
@@ -1579,6 +1629,16 @@
       "beat": "AI Branding",
       "publishedDate": "2026-07-14T07:00:00.000Z",
       "category": "ux"
+    },
+    {
+      "id": "fd045fa511710a17",
+      "title": "Stylish Text Generators: Font Generator Creates 150+ Copy And Paste Styles For Social…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KQ0ZPOVJQc1FXVnY3bzJWNmxWcmJUdHJRQ0h2aUtNZVZrQ0hHZ2I1NVZac0lEY21iTFpCT3JUdDFRejhkaW0wWk9od01UdTQtNjR4dEN0aEIwR2E2Znc4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KQ0ZPOVJQc1FXVnY3bzJWNmxWcmJUdHJRQ0h2aUtNZVZrQ0hHZ2I1NVZac0lEY21iTFpCT3JUdDFRejhkaW0wWk9od01UdTQtNjR4dEN0aEIwR2E2Znc4?oc=5\" target=\"_blank\">Stylish Text Generators: Font Generator Creates 150+ Copy And Paste Styles For ",
+      "source": "Trend Hunter",
+      "beat": "AI Typography",
+      "publishedDate": "2026-07-11T07:00:00.000Z",
+      "category": "branding"
     },
     {
       "id": "7b5be739f021723d",
@@ -1659,16 +1719,6 @@
       "beat": "AI Logo Design",
       "publishedDate": "2026-07-02T07:00:00.000Z",
       "category": "ui"
-    },
-    {
-      "id": "968b4bc8604c4e5c",
-      "title": "Top Website Statistics For 2025",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJMmdZVVBsT1NPWjkya1RhVnkydkJ3bG11UW5TNXZCT2t6cUFKYUNWeDN2STI2Ym5oRGhQWUg1a0xUZzI0dUZIUF9vM0lDRUpRdGpMVXlOdldTSWtwM3UtbVZuLXZCWGhSN0VnbzJZdmNEYU5GY3VR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBJMmdZVVBsT1NPWjkya1RhVnkydkJ3bG11UW5TNXZCT2t6cUFKYUNWeDN2STI2Ym5oRGhQWUg1a0xUZzI0dUZIUF9vM0lDRUpRdGpMVXlOdldTSWtwM3UtbVZuLXZCWGhSN0VnbzJZdmNEYU5GY3VR?oc=5\" target=\"_blank\">Top Website Statistics For 2025</a>&nbsp;&nbsp;",
-      "source": "Forbes",
-      "beat": "AI User Testing",
-      "publishedDate": "2026-07-01T07:00:00.000Z",
-      "category": "ux"
     },
     {
       "id": "9c2dde3ebc589986",
@@ -2091,16 +2141,6 @@
       "category": "ui"
     },
     {
-      "id": "05b252cc98945903",
-      "title": "Codex for every role, tool, and workflow",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6RzVPbFNDZEpQQWYwa3MyOTJ1ZTFMemc2MFJXUl9MZXNiTmVIMjZaSVN6VkwxNkFGekF3UEVHc3d4SS13SEFsbURCMGgtcVFzZ0xZWlRYQmx4b0Qwdnk1cFEwNklFc3dKbzhlUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFB6RzVPbFNDZEpQQWYwa3MyOTJ1ZTFMemc2MFJXUl9MZXNiTmVIMjZaSVN6VkwxNkFGekF3UEVHc3d4SS13SEFsbURCMGgtcVFzZ0xZWlRYQmx4b0Qwdnk1cFEwNklFc3dKbzhlUQ?oc=5\" target=\"_blank\">Codex for every role, tool, and workflow</a>&nbsp;&nbsp;<font",
-      "source": "OpenAI",
-      "beat": "Sketch AI",
-      "publishedDate": "2026-06-02T07:00:00.000Z",
-      "category": "tools"
-    },
-    {
       "id": "ec2d7790d1651c48",
       "title": "The Next Frontier of Visual AI Is Code",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14MnE1X3NZNGNBTEVjZUkxNE1BdFJ6VkVHOElwNTMwRzdtQkZPaEZ3eDRMNmVmTWFJVERHeWU2MTFNQUNrdEJxMEVfOVJQTENtLXNlTWxGTlZYX3Y4SWxRQjZpMjh5dEU?oc=5",
@@ -2371,16 +2411,6 @@
       "category": "ux"
     },
     {
-      "id": "9c547121a90c4024",
-      "title": "AI Is Changing Creative Work, but the Arts Aren't Disappearing",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNak5tNGY2cGRZanRyRW51N3JvUExYcGxLcDZSXzMtaUhmdU1VUmlERFZsTTFUNWdERXE3ak9WamZnSDRQLUxRWFhIcFZIT1Y0M2U4X2JReGx6UHlEOFB4MGxUVW83S215dm92T3kzUjJwRURuTkFtSnhRX0N0SjRDRkxGb3gxQmxmZlJqc0NWb0hjdzlyMWt3cXZ3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNak5tNGY2cGRZanRyRW51N3JvUExYcGxLcDZSXzMtaUhmdU1VUmlERFZsTTFUNWdERXE3ak9WamZnSDRQLUxRWFhIcFZIT1Y0M2U4X2JReGx6UHlEOFB4MGxUVW83S215dm92T3kzUjJwRURuTkFtSnhRX0N0SjRDRkxGb3gxQmxmZlJqc0NWb0hjdzlyMWt3cXZ3?oc=5\" target=\"_blank\"",
-      "source": "Gallup.com",
-      "beat": "Creative AI",
-      "publishedDate": "2026-05-03T07:00:00.000Z",
-      "category": "ux"
-    },
-    {
       "id": "53ee251f92137ba8",
       "title": "I Redesigned My Home Using 13 Different AI Services (Just 3 Made the Cut)",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ySnU5dW51T0VZbTVNZHN6MEdfVDVRV1FnclVpZVNKRlBrQVpZRmpjRHZmRDNYYi1QakFmNmZtSWxnUE8zNmZnam1JakplQ1Vadnktd1REdzJLTkxudEpNRUNXR0EyWGJaYUVweA?oc=5",
@@ -2561,16 +2591,6 @@
       "category": "tools"
     },
     {
-      "id": "a488bda1a57ee254",
-      "title": "Figma stock hits a 52-week low as Google's AI design tools spark investor concern",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT245N1BEN0ZoSy1yd2RRbW9ublJqdVE3cUM3U28tNGRIQzFDUnhibXFpUjBiYXBRWGx4THFsZnpkTVdFbS1tQmUtUTBERmxDQm5fX1dYT3hmbDh5NV95WnpZV1Z2R2FkTUtsbHJMVmpNTFpPUG9OcE9vMzQyTXk0aGJoaHVxUmFsdW5saExjVDRkQTV5cjhXLWRmMklib0plSjhZeE9hTTQ2ckFCeVZPX1hn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNT245N1BEN0ZoSy1yd2RRbW9ublJqdVE3cUM3U28tNGRIQzFDUnhibXFpUjBiYXBRWGx4THFsZnpkTVdFbS1tQmUtUTBERmxDQm5fX1dYT3hmbDh5NV95WnpZV1Z2R2FkTUtsbHJMVmpNTFpPUG9OcE9vMzQyTXk0aGJoaHVxUmFsdW5saExjVDRkQTV5cjhXLWRmMklib0plSjhZeE9hTTQ2ck",
-      "source": "Technobezz",
-      "beat": "Adobe Stitch",
-      "publishedDate": "2026-04-18T07:00:00.000Z",
-      "category": "tools"
-    },
-    {
       "id": "517a8eb980bd71c9",
       "title": "Claude Design vs Google Stitch: The AI Duel That Crashed Figma Stock (2026 Guide)",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRjJNZ0JsampXelRxdkJXQlZpWXAwQWpwUE1obXZ5YzRLMmQ1WG5BOEZHU1JwTk5aY2g1YlFjel9MVmh6ckpBOWtsRWR1Vy15dGEybWVKOHRHQnM1UHJfd055b20yQk41R05taHhtY0FFVzEzdElQSGE4a2pwUmx4cXJGV1RxdmhiTjFIeTgxdExQb29La2c?oc=5",
@@ -2631,22 +2651,22 @@
       "category": "tools"
     },
     {
+      "id": "7728066d87d4d45c",
+      "title": "Creatives say AI is helping them meet growing demand for content — and improving their work",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWlZ4Z0pQVEx0Q21NRGJDb0RVMEdmYUVCc1ZmNTRWQnhaeHJhRU5xdUJxMHJCZl9aZ2ZFNFAxejBBeV9uYnIwRTlMMTY1LV9hZS1hNGlIbmNZUlA3MUwtVXFYdC04d2dKUlVGa1pGek9oWGJ0bHVCMzV6RVltR3BpU0x4emhFZWdCNkk5OFZPS2UwWl9zcDB3czlhbkhZdUNrdmZCdVpTVWtZamxDaE9RMXhldm5VYUJDR3NfSG5lRE0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWlZ4Z0pQVEx0Q21NRGJDb0RVMEdmYUVCc1ZmNTRWQnhaeHJhRU5xdUJxMHJCZl9aZ2ZFNFAxejBBeV9uYnIwRTlMMTY1LV9hZS1hNGlIbmNZUlA3MUwtVXFYdC04d2dKUlVGa1pGek9oWGJ0bHVCMzV6RVltR3BpU0x4emhFZWdCNkk5OFZPS2UwWl9zcDB3czlhbkhZdUNrdmZCdVpTVWtZam",
+      "source": "Adobe",
+      "beat": "AI Video Design",
+      "publishedDate": "2026-04-17T07:00:00.000Z",
+      "category": "ux"
+    },
+    {
       "id": "9506b6148af0a374",
       "title": "Anthropic Debuts Claude Design for Building Marketing Assets, Decks, and UIs",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUDBKRW1Bbm8yN2lDaVNtVWFmbjdZYUR3X253U3NnZENtX3VVRFZranpoWUt4djFEbmpSUEFTNWR6Z0NTUU5DNXdBamM4bklmdnZHdnMyVEZLREw2STlnRko1VG5OMXZ4UGYxUXF5QXNwZnJaN2NmVkZGbTNZYmZZN2NURzBLbHJoZm9zWVoySl9rOW9TcEt0Q2tqOTF3OU5kekFFejRLVQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQUDBKRW1Bbm8yN2lDaVNtVWFmbjdZYUR3X253U3NnZENtX3VVRFZranpoWUt4djFEbmpSUEFTNWR6Z0NTUU5DNXdBamM4bklmdnZHdnMyVEZLREw2STlnRko1VG5OMXZ4UGYxUXF5QXNwZnJaN2NmVkZGbTNZYmZZN2NURzBLbHJoZm9zWVoySl9rOW9TcEt0Q2tqOTF3OU5kekFFejRLVQ?oc=",
       "source": "ADWEEK",
       "beat": "AI Typography",
-      "publishedDate": "2026-04-17T07:00:00.000Z",
-      "category": "ux"
-    },
-    {
-      "id": "7728066d87d4d45c",
-      "title": "Creatives say AI is helping them meet growing demand for content — and improving their work",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWlZ4Z0pQVEx0Q21NRGJDb0RVMEdmYUVCc1ZmNTRWQnhaeHJhRU5xdUJxMHJCZl9aZ2ZFNFAxejBBeV9uYnIwRTlMMTY1LV9hZS1hNGlIbmNZUlA3MUwtVXFYdC04d2dKUlVGa1pGek9oWGJ0bHVCMzV6RVltR3BpU0x4emhFZWdCNkk5OFZPS2UwWl9zcDB3czlhbkhZdUNrdmZCdVpTVWtZamxDaE9RMXhldm5VYUJDR3NfSG5lRE0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWlZ4Z0pQVEx0Q21NRGJDb0RVMEdmYUVCc1ZmNTRWQnhaeHJhRU5xdUJxMHJCZl9aZ2ZFNFAxejBBeV9uYnIwRTlMMTY1LV9hZS1hNGlIbmNZUlA3MUwtVXFYdC04d2dKUlVGa1pGek9oWGJ0bHVCMzV6RVltR3BpU0x4emhFZWdCNkk5OFZPS2UwWl9zcDB3czlhbkhZdUNrdmZCdVpTVWtZam",
-      "source": "Adobe",
-      "beat": "Creative AI",
       "publishedDate": "2026-04-17T07:00:00.000Z",
       "category": "ux"
     },
@@ -3111,22 +3131,22 @@
       "category": "tools"
     },
     {
+      "id": "f2ed4928c1e772f7",
+      "title": "Introducing “vibe design” with Stitch",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYkJaSndfYzVGb3ZaTERNMXVGS0Y5UzI0OEhlclFzWHg1N1ZnNjVNRm9mblJ4OUl4RW1YOUktcVlMNnFpSm5HeHpqb2ZHZm0wd3gwVWNPQTR0cE0xSks3Rm1MWktmT3liblVVRUVuZjNmSkJkRnZlY2o4SDJGeXRlQXZiRGdhSzJxeWpvcnZOS0kxdHlq?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOYkJaSndfYzVGb3ZaTERNMXVGS0Y5UzI0OEhlclFzWHg1N1ZnNjVNRm9mblJ4OUl4RW1YOUktcVlMNnFpSm5HeHpqb2ZHZm0wd3gwVWNPQTR0cE0xSks3Rm1MWktmT3liblVVRUVuZjNmSkJkRnZlY2o4SDJGeXRlQXZiRGdhSzJxeWpvcnZOS0kxdHlq?oc=5\" target=\"_blank\">Introdu",
+      "source": "blog.google",
+      "beat": "AI Style Guide",
+      "publishedDate": "2026-03-18T07:00:00.000Z",
+      "category": "tools"
+    },
+    {
       "id": "e0c09514c327ef8f",
       "title": "Freepik Spaces Review (2026): Workflows, Lists, Pricing &amp; Limits",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR2R1dzd2cXdTVEtTbU5CTTdQOVV2Y3JzdGg1d0dXRHpOSktpTFpRaDFia3JnSFMxRTJSWEZ1U3dJbHRETDBUaWJJbG1Ydk9qUEl6a29ZMm02SXN0cU5iaFRNZ3BTWTN5RDA0VW9CYW9UNWZjdXFPcjdBS3NRUWlvUnhTeC1vTWoxbE9kRVNFSzhMcVBSYmVfQXJZY1FBT0F6aUdBQTRBcXVranN6UlRRWHc4NU5rSnRZbWl1MFJZSDg?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR2R1dzd2cXdTVEtTbU5CTTdQOVV2Y3JzdGg1d0dXRHpOSktpTFpRaDFia3JnSFMxRTJSWEZ1U3dJbHRETDBUaWJJbG1Ydk9qUEl6a29ZMm02SXN0cU5iaFRNZ3BTWTN5RDA0VW9CYW9UNWZjdXFPcjdBS3NRUWlvUnhTeC1vTWoxbE9kRVNFSzhMcVBSYmVfQXJZY1FBT0F6aUdBQTRBcXVran",
       "source": "Kingy AI",
       "beat": "AI Video Design",
-      "publishedDate": "2026-03-18T07:00:00.000Z",
-      "category": "ux"
-    },
-    {
-      "id": "f2ed4928c1e772f7",
-      "title": "Introducing “vibe design” with Stitch",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYkJaSndfYzVGb3ZaTERNMXVGS0Y5UzI0OEhlclFzWHg1N1ZnNjVNRm9mblJ4OUl4RW1YOUktcVlMNnFpSm5HeHpqb2ZHZm0wd3gwVWNPQTR0cE0xSks3Rm1MWktmT3liblVVRUVuZjNmSkJkRnZlY2o4SDJGeXRlQXZiRGdhSzJxeWpvcnZOS0kxdHlq?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOYkJaSndfYzVGb3ZaTERNMXVGS0Y5UzI0OEhlclFzWHg1N1ZnNjVNRm9mblJ4OUl4RW1YOUktcVlMNnFpSm5HeHpqb2ZHZm0wd3gwVWNPQTR0cE0xSks3Rm1MWktmT3liblVVRUVuZjNmSkJkRnZlY2o4SDJGeXRlQXZiRGdhSzJxeWpvcnZOS0kxdHlq?oc=5\" target=\"_blank\">Introdu",
-      "source": "blog.google",
-      "beat": "AI Prototyping",
       "publishedDate": "2026-03-18T07:00:00.000Z",
       "category": "ux"
     },
@@ -3229,6 +3249,16 @@
       "beat": "AI Web Design",
       "publishedDate": "2026-03-10T07:00:00.000Z",
       "category": "ux"
+    },
+    {
+      "id": "8a3d879c54c2f219",
+      "title": "A practical map of AI coding tools: IDEs, agents, app builders, design-to-code tools and coding models.",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WWDluUEduaERoMlNXWmRkUnhuaHhZNVljUVVxbDVXYjRPMVFPOFowNE9zRUd4MFR4YWRObHl5Wk5pQTduc3dvaE8xc2J1SmlCQThudQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WWDluUEduaERoMlNXWmRkUnhuaHhZNVljUVVxbDVXYjRPMVFPOFowNE9zRUd4MFR4YWRObHl5Wk5pQTduc3dvaE8xc2J1SmlCQThudQ?oc=5\" target=\"_blank\">A practical map of AI coding tools: IDEs, agents, app builders, design-to-code tools and codi",
+      "source": "Substack",
+      "beat": "Cursor AI Design",
+      "publishedDate": "2026-03-10T07:00:00.000Z",
+      "category": "web"
     },
     {
       "id": "506f8d750208be6c",
@@ -3411,16 +3441,6 @@
       "category": "tools"
     },
     {
-      "id": "ef8a6333a767d904",
-      "title": "Figma Just Hit $304M in a Single Quarter. Growing 40%. And Just Like That — SaaS is Back.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa1RNNjF5SDAxNG9kalpRTk1YOE4wNDZla0M3ZEhQQUcwS183VUxmc2dTOFh2dkYxZENMdUdzZm5vNXdfMVFUQjkxaHRQa3NRdTBzWWh4ZGduOUxmRDI1di1PdnZoSXczWkVuSVBXUTJUVk5XTmVTNHMyQmNPeTFFRFRwSHNyOEFWRURYLVY3UzVYSDdsc09RdVdJekdFNWpTYWV2ME9aNGx0Zw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa1RNNjF5SDAxNG9kalpRTk1YOE4wNDZla0M3ZEhQQUcwS183VUxmc2dTOFh2dkYxZENMdUdzZm5vNXdfMVFUQjkxaHRQa3NRdTBzWWh4ZGduOUxmRDI1di1PdnZoSXczWkVuSVBXUTJUVk5XTmVTNHMyQmNPeTFFRFRwSHNyOEFWRURYLVY3UzVYSDdsc09RdVdJekdFNWpTYWV2ME9aNGx0Zw",
-      "source": "saastr.com",
-      "beat": "Figma AI",
-      "publishedDate": "2026-02-18T08:00:00.000Z",
-      "category": "tools"
-    },
-    {
       "id": "a05aca9a6116d49c",
       "title": "Agentic AI, explained",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nNkJMcjBySVgtWG5XemFIRzVObzZIaEpFZzNLZldpWGZGVWlfNWtONVhmSDlnNjh1ZXo0YkpjR0RnREJ3bXhxdUtkU2ltSnZqUHJnU2tBWXhvc0lqMnpma1JsSk9ONi05S1BBWk5XSFUyaTJH?oc=5",
@@ -3501,16 +3521,6 @@
       "category": "motion"
     },
     {
-      "id": "cf01b67a45b16726",
-      "title": "Introducing Claude Opus 4.6",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90b09UTmFMU3laaUE4WGQ0ejltUDEtZHdHMjlSY1pDTUhjX1A3VF9qRU56ejhuRkR3eFFvUFB4UV9ZTjMzaklkTkczSEJZWXRNOE1UX3hDd3dHdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE90b09UTmFMU3laaUE4WGQ0ejltUDEtZHdHMjlSY1pDTUhjX1A3VF9qRU56ejhuRkR3eFFvUFB4UV9ZTjMzaklkTkczSEJZWXRNOE1UX3hDd3dHdw?oc=5\" target=\"_blank\">Introducing Claude Opus 4.6</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
-      "source": "Anthropic",
-      "beat": "AI Design Systems",
-      "publishedDate": "2026-02-05T08:00:00.000Z",
-      "category": "tools"
-    },
-    {
       "id": "7f7844f0bb9cdb9c",
       "title": "Amazon plans to use AI to speed up TV and film production",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJjaVNPQW1HZWFtRkZLaUVCa1pDZDA1RThMQml3Ul9SUlAzN1Q3N0oyQjF6dTRGUThTT1prQUdIdXVMSFZ6UnlfRDZFQVB5SnFLcjA5SmduNjBVMHYtcnlIb0tteVY4eWhyYTBWdVA3eE9vaDdoZmQyRHoxa2xsYVpDMWhNcllpZVlLalpoT0xFVUMtcXBHaEVyR2RrUVZMYU5NZjNCeFhDQQ?oc=5",
@@ -3556,7 +3566,7 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZbE1UcFlFcWhkM3pYbnBySmpucG1CbV9fY1pfYXV5ZXduUUJrM2lfa0F0X0hyX0hBenpqQW5IeWVPOEZFX0U1S3FJdnktZ1hIVGJyYnRxTVd2TVNsTlE?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZbE1UcFlFcWhkM3pYbnBySmpucG1CbV9fY1pfYXV5ZXduUUJrM2lfa0F0X0hyX0hBenpqQW5IeWVPOEZFX0U1S3FJdnktZ1hIVGJyYnRxTVd2TVNsTlE?oc=5\" target=\"_blank\">What Is a UX Data Analyst?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coursera</font>",
       "source": "Coursera",
-      "beat": "AI User Testing",
+      "beat": "AI UX Research",
       "publishedDate": "2026-01-31T08:00:00.000Z",
       "category": "ux"
     },
@@ -3571,14 +3581,14 @@
       "category": "ui"
     },
     {
-      "id": "621dead7a6062010",
-      "title": "9 Best UI Design Tools for 2026",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KaU1lcjlwc3FIVG5hNFd6UWFIQWQ3bGpQRHBoX3VucTV4eHBHMmJFUkpyb09GajhETGNpcGYyS3FPRDdSeF9Cd0tEYnhGTHdfOWZNVUFZSQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KaU1lcjlwc3FIVG5hNFd6UWFIQWQ3bGpQRHBoX3VucTV4eHBHMmJFUkpyb09GajhETGNpcGYyS3FPRDdSeF9Cd0tEYnhGTHdfOWZNVUFZSQ?oc=5\" target=\"_blank\">9 Best UI Design Tools for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Shopify</font>",
-      "source": "Shopify",
-      "beat": "Framer AI",
+      "id": "62be7004f7d9eba4",
+      "title": "“Faking ‘realness’ on a computer doesn’t get us anywhere new.” – Elizabeth Goodspeed on imperfection as design strategy",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONk4tcUlUemlsOTFMaDk4aUFIdnlpcFZWNUVfRHRWdWx3dlRYbDdwQ3ZwYkc4bGxkNXd5cnBGYmNGWXl4YzZxR2dDb1AxR0ZkcXptU24wcUVCU2Q0TTI2OEtNVEpvMDNvT2xJaFZ0NnZsVFJwTU92S192TjU0ZnAzSml3MXNvOWZ6UW5ITlBmSFE3LWNudnNTSg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxONk4tcUlUemlsOTFMaDk4aUFIdnlpcFZWNUVfRHRWdWx3dlRYbDdwQ3ZwYkc4bGxkNXd5cnBGYmNGWXl4YzZxR2dDb1AxR0ZkcXptU24wcUVCU2Q0TTI2OEtNVEpvMDNvT2xJaFZ0NnZsVFJwTU92S192TjU0ZnAzSml3MXNvOWZ6UW5ITlBmSFE3LWNudnNTSg?oc=5\" target=\"_blank\">“",
+      "source": "It's Nice That",
+      "beat": "AI Illustration",
       "publishedDate": "2026-01-29T08:00:00.000Z",
-      "category": "tools"
+      "category": "ux"
     },
     {
       "id": "9f2fdab7838d3345",
@@ -3961,16 +3971,6 @@
       "category": "ux"
     },
     {
-      "id": "01770a972d72fc23",
-      "title": "Art Careers in Today’s Job Market: Fine Arts to Digital Design",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8za2xHakFobFZ4d213VXo5S21FVnV1Sjd2ei12Y0h2NnVaUzVCcU4tWEVQcVdldHVnUlRfSFlabnNQUXdHWXdkZXRDV1N5UWpWbTB2SF8xX0Q?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE8za2xHakFobFZ4d213VXo5S21FVnV1Sjd2ei12Y0h2NnVaUzVCcU4tWEVQcVdldHVnUlRfSFlabnNQUXdHWXdkZXRDV1N5UWpWbTB2SF8xX0Q?oc=5\" target=\"_blank\">Art Careers in Today’s Job Market: Fine Arts to Digital Design</a>&nbsp;&nbsp;<font colo",
-      "source": "Coursera",
-      "beat": "AI Illustration",
-      "publishedDate": "2025-12-29T08:00:00.000Z",
-      "category": "ux"
-    },
-    {
       "id": "f07b96b1274b1716",
       "title": "Artificial intelligence and learner autonomy: a meta-analysis of self-regulated and self-directed learning",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRHBGX3FBS3Z5Z3VaWWtpUkZvQXdzYVhsNGh0TTJzVW1hT1NCMkI4NGRuTHJob3F5eGhrSE9aQVZZeDJ4QVNOVWU0a1p4WFV6MGQ4X0lFaWRiUERjaUxTZ2laVU0xNEsyUm5DeDI3bm00ZjBIVTZXdmNYRC13YUhjWHJpaU1vdmw1aWlaWnllZ3o?oc=5",
@@ -4242,13 +4242,23 @@
     },
     {
       "id": "739f404a0038ac10",
-      "title": "7 Best AI UX and UI Design Tools for Websites &amp; Apps (October 2026)",
+      "title": "7 Best AI UX and UI Design Tools for Websites &amp; Apps (November 2026)",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83a05Jb1RVNS11SkY2ZGpaakVNYTBzamlWQnlUTUxxZGJKSUVCTHdnOW1MVGctcEFuaFBkd05RTzhaYl9EY0pEcGJpeHZ0M1ZncVdFOF93aVU4aWZt?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE83a05Jb1RVNS11SkY2ZGpaakVNYTBzamlWQnlUTUxxZGJKSUVCTHdnOW1MVGctcEFuaFBkd05RTzhaYl9EY0pEcGJpeHZ0M1ZncVdFOF93aVU4aWZt?oc=5\" target=\"_blank\">7 Best AI UX and UI Design Tools for Websites & Apps (October 2026)</a>&nbsp;&nbsp;",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE83a05Jb1RVNS11SkY2ZGpaakVNYTBzamlWQnlUTUxxZGJKSUVCTHdnOW1MVGctcEFuaFBkd05RTzhaYl9EY0pEcGJpeHZ0M1ZncVdFOF93aVU4aWZt?oc=5\" target=\"_blank\">7 Best AI UX and UI Design Tools for Websites & Apps (November 2026)</a>&nbsp;&nbsp",
       "source": "Unite.AI",
       "beat": "AI UX Design",
       "publishedDate": "2025-11-30T08:00:00.000Z",
       "category": "ux"
+    },
+    {
+      "id": "3a9fd21ac0bdf544",
+      "title": "Using Generative AI to Create UX/UI Component Libraries",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WZHJNRDY1YXRMS0xjcDRYNm9MdEFubTBGelBBY1N5S3haVU5VX2l5SHhUQTdyek9OaXRpczZNMFdETlp3S2Z6dTRWNkpvckpwZWUybg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WZHJNRDY1YXRMS0xjcDRYNm9MdEFubTBGelBBY1N5S3haVU5VX2l5SHhUQTdyek9OaXRpczZNMFdETlp3S2Z6dTRWNkpvckpwZWUybg?oc=5\" target=\"_blank\">Using Generative AI to Create UX/UI Component Libraries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">",
+      "source": "Substack",
+      "beat": "AI Design Systems",
+      "publishedDate": "2025-11-30T08:00:00.000Z",
+      "category": "tools"
     },
     {
       "id": "7073a8a14dbc4f8f",
@@ -4279,6 +4289,16 @@
       "beat": "Design + AI Tools",
       "publishedDate": "2025-11-24T08:00:00.000Z",
       "category": "ux"
+    },
+    {
+      "id": "7d26e8cd0909dbfc",
+      "title": "Design and prototyping of an AI-powered wearable device for continuous vital signs monitoring with intelligent alerting",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXQ2dRTGNXVkpfaEdJT0lHX0RhNnFiSnRzQUVLcnVHYlFYbDRVSHRZOVVkY2RXQkpvcVQ3T0k2TERPTFV1bjN0VndaV0hyWW1meDFqbGRXN29BVTJYVE04?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXQ2dRTGNXVkpfaEdJT0lHX0RhNnFiSnRzQUVLcnVHYlFYbDRVSHRZOVVkY2RXQkpvcVQ3T0k2TERPTFV1bjN0VndaV0hyWW1meDFqbGRXN29BVTJYVE04?oc=5\" target=\"_blank\">Design and prototyping of an AI-powered wearable device for continuous vital si",
+      "source": "Nature",
+      "beat": "AI Prototyping",
+      "publishedDate": "2025-11-23T08:00:00.000Z",
+      "category": "ai-tools"
     },
     {
       "id": "7b1fb3a7a71648a8",
@@ -4391,6 +4411,16 @@
       "category": "ui"
     },
     {
+      "id": "b0b2b3ac749358eb",
+      "title": "Stop Wasting Prompts: An Expert’s Guide to Creating Better AI Images",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMWgwLXhPYUZQYnJ0M1ZUR0lEZU5SdVBmUEZteml0XzJHNmhjT0QwMFJUazdSam1nVWY2N0dqSzFMRFRxUm82bG5xd0Q1M1o5bEc1V2lBTURJQThial80cFl1bGd6RWxjaUp3UW5YOEdraFJrYnlWNTQtUVM5M3RTZWE0YVpBM0ZpVjV5QjQwWUJSbGhGRTZvakZPSDRxTHdHRjd4bmR6ZVVMN1dQSG9kUXVjLVkwN3ZaVFF3S1Vuck9sVHlWSHhCLQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMWgwLXhPYUZQYnJ0M1ZUR0lEZU5SdVBmUEZteml0XzJHNmhjT0QwMFJUazdSam1nVWY2N0dqSzFMRFRxUm82bG5xd0Q1M1o5bEc1V2lBTURJQThial80cFl1bGd6RWxjaUp3UW5YOEdraFJrYnlWNTQtUVM5M3RTZWE0YVpBM0ZpVjV5QjQwWUJSbGhGRTZvakZPSDRxTHdHRjd4bmR6ZVVMN1",
+      "source": "CNET",
+      "beat": "AI Web Design",
+      "publishedDate": "2025-11-14T08:00:00.000Z",
+      "category": "ux"
+    },
+    {
       "id": "2beb5bfb149bbc89",
       "title": "Wix Is the Best Way for Most People to Build a Website",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMF83aC1mNlUtcmhzTmVGd3lETmVrQ3cySjJwWjBZN2pSdTFhWUowc1dBQjhDV0NCQW9mTHp0OW5KRWNmVnhKa1pTSjItR3VHTklsczMzZlpkRnRHWmgwc1RsdUtZUUtvV04xaG1kMXdWb1RJTUpFdXBVVEY5VWhiaW9SRTNyQUU3Q05nUjBB?oc=5",
@@ -4479,16 +4509,6 @@
       "beat": "Generative Design",
       "publishedDate": "2025-11-05T08:00:00.000Z",
       "category": "ui"
-    },
-    {
-      "id": "89f25f39b1294a49",
-      "title": "Adobe MAX 2025 Takeaways – ITS Blog",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SRF9hVy16bXZ0eUNsRWJ1T3BmcTFMSVBqZG82dFllbUVHVVFtcExBQnlXM1g1cGFBQ1NqYVBNRTZFUENUcmNzNFZOTjdPMTRsVmxfbVRsX3MzV3ZZS2Zyek1HUUw4Rm03MFRJ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5SRF9hVy16bXZ0eUNsRWJ1T3BmcTFMSVBqZG82dFllbUVHVVFtcExBQnlXM1g1cGFBQ1NqYVBNRTZFUENUcmNzNFZOTjdPMTRsVmxfbVRsX3MzV3ZZS2Zyek1HUUw4Rm03MFRJ?oc=5\" target=\"_blank\">Adobe MAX 2025 Takeaways – ITS Blog</a>&nbsp;&nbsp;<font color=",
-      "source": "Carleton College",
-      "beat": "AI Video Design",
-      "publishedDate": "2025-11-04T08:00:00.000Z",
-      "category": "tools"
     },
     {
       "id": "6eca603f09ebfccd",
@@ -4701,6 +4721,16 @@
       "category": "ux"
     },
     {
+      "id": "72362b882be7562a",
+      "title": "\"The best logos in the world are typographic\": Why fonts matter more than ever in 2025",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd05hTXFWUnV2S2ZRMzlwZjdVYzZHZ0RiTXN0RTBwLUtBdEtfOGRDQ21XRHFkWVpRUGtXakdWUExSODRvOFFKejQtbGt1bVRzdEk4cDFZMnMxV3lzRk1ENGhTNzY4SWpXbkR1Vk4wN2xDVWdMQmt4Um9sTFg4Vmpma0U0MXpCajAxQUtlYk1CQUxsazN6UlUzWkxrNmhiQ1E2Y1N3bUNlMDl1eXJua0xsVWU0Z19FU09LU25hbWpqZVFzNHVlVzN1RjNEb0V2MktzREE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd05hTXFWUnV2S2ZRMzlwZjdVYzZHZ0RiTXN0RTBwLUtBdEtfOGRDQ21XRHFkWVpRUGtXakdWUExSODRvOFFKejQtbGt1bVRzdEk4cDFZMnMxV3lzRk1ENGhTNzY4SWpXbkR1Vk4wN2xDVWdMQmt4Um9sTFg4Vmpma0U0MXpCajAxQUtlYk1CQUxsazN6UlUzWkxrNmhiQ1E2Y1N3bUNlMDl1eX",
+      "source": "Creative Bloq",
+      "beat": "AI Typography",
+      "publishedDate": "2025-10-18T07:00:00.000Z",
+      "category": "ux"
+    },
+    {
       "id": "1851d31a74700849",
       "title": "How Target Technology Is Powering Retail Growth",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTHByMDFtUnNXb0w0cWU5dWpJZnNqNC1BZGkzSk0xd0VkQVItSEI5dFc2QnlOX2RrQ3VvcFVVSXVFS3ZRUFJYRTkzRFZSZi1DblVhYURLX0lqaGRKTGxWZmhEQWh4VFFnYWJWdHFNTXR1MVk5Yk5rdWVvdWI0ZV93TGZtRFh4MHZhdDFqaUtn?oc=5",
@@ -4881,6 +4911,16 @@
       "category": "ux"
     },
     {
+      "id": "995ae373e0698e8c",
+      "title": "In the gen AI economy, consumers want innovation they can trust",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3QwNkg3TXYydng5d2JXdGczSjRGOTYwaTFOSnI4dk5rSEVkV01Ba21hUi1xSkE3UUgxQ3U4QVpsZFVZVzFRS0xCd09LRFFKMTRXRHZERXpOWjJYRVpOZjdWRUJtNjMwLWIxSDFUcEhvTDVSMlV2bm1aNFVOa2hLbFRfTWs4T3I5MTJ1NVkyb25CbFR5dUFacWVhQmZ1YkpleG96YWpZVWVndw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3QwNkg3TXYydng5d2JXdGczSjRGOTYwaTFOSnI4dk5rSEVkV01Ba21hUi1xSkE3UUgxQ3U4QVpsZFVZVzFRS0xCd09LRFFKMTRXRHZERXpOWjJYRVpOZjdWRUJtNjMwLWIxSDFUcEhvTDVSMlV2bm1aNFVOa2hLbFRfTWs4T3I5MTJ1NVkyb25CbFR5dUFacWVhQmZ1YkpleG96YWpZVWVndw",
+      "source": "Deloitte",
+      "beat": "AI UX Research",
+      "publishedDate": "2025-09-25T07:00:00.000Z",
+      "category": "ux"
+    },
+    {
       "id": "09ff6cf4ad68c89a",
       "title": "How to shape the future with type, tech, and creative thinking",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObnVoOGZtZXBQNjdjd0pIZk9Db29YV3RDUFdnUks5SkFZZVRRU1JGX05TVVRhNHlEaUd2Ymd3enZ4SnAtVF9CNHVVMmhUdGpzY0xPdV9teXRMYnpLNFI1NVVXcGZCVlZ3VVd5TXhpVkpKSzlYYVRsUkJ4ajJQUk5LRjM3T0xGODFGZzBIbGlLQjZUY2s5TzJVX05WQm4xQQ?oc=5",
@@ -4959,16 +4999,6 @@
       "beat": "AI Marketing Design",
       "publishedDate": "2025-09-17T07:00:00.000Z",
       "category": "ai-tools"
-    },
-    {
-      "id": "f268a2b8a8b8ebf6",
-      "title": "Amazon debuts AI ‘creative partner’ to aid with campaign development",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMWd5ZVVjZUFjVnVFSHhFbnVaNEYzZWVTM1g4WENWNWtQaVlMZFV6d0JMbFM1NERIYjk0bEstWEF4cVVaMFNfNDRYNjlhS0xGdjZUcWZzMHZSLXhVRHN1STc5bjBnb3I5aU85NkRCUXpDbFlncFhaTGVYcHNvYzVta0tZWnE2VXBnb1RxU1VrZ1B5WUxkczhwYko4bEpyX3JReWdOQUhSMGwyYVgzOWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOMWd5ZVVjZUFjVnVFSHhFbnVaNEYzZWVTM1g4WENWNWtQaVlMZFV6d0JMbFM1NERIYjk0bEstWEF4cVVaMFNfNDRYNjlhS0xGdjZUcWZzMHZSLXhVRHN1STc5bjBnb3I5aU85NkRCUXpDbFlncFhaTGVYcHNvYzVta0tZWnE2VXBnb1RxU1VrZ1B5WUxkczhwYko4bEpyX3JReWdOQUhSMGwyYV",
-      "source": "Marketing Dive",
-      "beat": "Generative Design",
-      "publishedDate": "2025-09-17T07:00:00.000Z",
-      "category": "ux"
     },
     {
       "id": "fd2e3c37826cc5d1",
@@ -5552,13 +5582,13 @@
     },
     {
       "id": "9fe50d5732326553",
-      "title": "Introducing ChatGPT agent",
+      "title": "Introducing ChatGPT agent: bridging research and action",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkVDRuRk1lakE4elV1c2w5UlIxdklTQTFuZEhfaUZpTEw2WF9oM2hFM25oRUVsVWpxVlJDVUhZSEFnVGJiUE1WYlFQSVdjR0ZvM3RrQl9Id2FpLXNpZEVobw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkVDRuRk1lakE4elV1c2w5UlIxdklTQTFuZEhfaUZpTEw2WF9oM2hFM25oRUVsVWpxVlJDVUhZSEFnVGJiUE1WYlFQSVdjR0ZvM3RrQl9Id2FpLXNpZEVobw?oc=5\" target=\"_blank\">Introducing ChatGPT agent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkVDRuRk1lakE4elV1c2w5UlIxdklTQTFuZEhfaUZpTEw2WF9oM2hFM25oRUVsVWpxVlJDVUhZSEFnVGJiUE1WYlFQSVdjR0ZvM3RrQl9Id2FpLXNpZEVobw?oc=5\" target=\"_blank\">Introducing ChatGPT agent: bridging research and action</a>&nbsp;&nbsp;<font ",
       "source": "OpenAI",
       "beat": "Design + AI Tools",
       "publishedDate": "2025-07-17T07:00:00.000Z",
-      "category": "ui"
+      "category": "ux"
     },
     {
       "id": "af8236a8724b12d2",
@@ -5628,16 +5658,6 @@
       "source": "H&amp;M Group",
       "beat": "Generative Design",
       "publishedDate": "2025-07-02T07:00:00.000Z",
-      "category": "ux"
-    },
-    {
-      "id": "f4cf8c03b870c6d1",
-      "title": "10 Books for UX Designers That Boost Your AI Mindset",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2UjhuYlZJcjNXWFdjTUFkNXc1dGhDOFp3YmZKWkZ1NmJKVXVsSmRtWG1EcTdkX25CbUNTZzVuRjAxTnRMNHNmZFRBcEw2SHhCOEhwUTNtbXV3TlgzZU15QnJmQ09zekk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2UjhuYlZJcjNXWFdjTUFkNXc1dGhDOFp3YmZKWkZ1NmJKVXVsSmRtWG1EcTdkX25CbUNTZzVuRjAxTnRMNHNmZFRBcEw2SHhCOEhwUTNtbXV3TlgzZU15QnJmQ09zekk?oc=5\" target=\"_blank\">10 Books for UX Designers That Boost Your AI Mindset</a>&nbsp;&nbsp;",
-      "source": "Salesforce",
-      "beat": "AI UX Design",
-      "publishedDate": "2025-07-01T07:00:00.000Z",
       "category": "ux"
     },
     {
@@ -6509,16 +6529,6 @@
       "beat": "AI Presentation",
       "publishedDate": "2025-03-24T07:00:00.000Z",
       "category": "ai-tools"
-    },
-    {
-      "id": "8f54b4a74274a52a",
-      "title": "I generated 5 AI images with the new Ideogram 2a model — and the results truly surprised me",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTjM1U1FyTUh4RHdOcHFVb0RFaHZLLVNoS29pYlBZMXF6WTNPelRlV3ZwNlNLMENIRkV1NnI1RmFqQmdQbjVPNnFRdi1TYU1aTm5qcjVsaU1jajJTZVBLLVhiNXVFS2RlWklXd1dMTVJJNTJRVnNjSDZDVnBybDdoaGFHRU1qUE13NDhEV2U0LS1nSFFsVGkxNGxZaUdGYmc4Q3dITmpJa0tpUEEtVVBRLVpBbFJzdU9oZUhDN2VYUU52MUJGQnJTeGlPOUQwQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQTjM1U1FyTUh4RHdOcHFVb0RFaHZLLVNoS29pYlBZMXF6WTNPelRlV3ZwNlNLMENIRkV1NnI1RmFqQmdQbjVPNnFRdi1TYU1aTm5qcjVsaU1jajJTZVBLLVhiNXVFS2RlWklXd1dMTVJJNTJRVnNjSDZDVnBybDdoaGFHRU1qUE13NDhEV2U0LS1nSFFsVGkxNGxZaUdGYmc4Q3dITmpJa0tpUE",
-      "source": "Tom's Guide",
-      "beat": "Ideogram AI",
-      "publishedDate": "2025-03-22T07:00:00.000Z",
-      "category": "ux"
     },
     {
       "id": "fc290e2ff2d152b5",
@@ -7431,6 +7441,16 @@
       "category": "ux"
     },
     {
+      "id": "7b50d8d7639a022c",
+      "title": "10 free AI interior design generators",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IVGNKSjZ0b0JHZURxVVJ5VDVZU1Y3bFdpQkFPTTBpeWNPUThWUzM5N2VIbUNsZm4xX254Y1pnQUNUcDM1emVyOVFDS2pjdm55OVM0cC1tRFhVNTFmUnY5X1Vwc0dETmN4Mld1OHU2bXFUX0E3LU1XV0MtZnBfX1U?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9IVGNKSjZ0b0JHZURxVVJ5VDVZU1Y3bFdpQkFPTTBpeWNPUThWUzM5N2VIbUNsZm4xX254Y1pnQUNUcDM1emVyOVFDS2pjdm55OVM0cC1tRFhVNTFmUnY5X1Vwc0dETmN4Mld1OHU2bXFUX0E3LU1XV0MtZnBfX1U?oc=5\" target=\"_blank\">10 free AI interior design generator",
+      "source": "Parametric Architecture",
+      "beat": "Sketch AI",
+      "publishedDate": "2024-08-20T07:00:00.000Z",
+      "category": "tools"
+    },
+    {
       "id": "21130024270aad02",
       "title": "School of Architecture Wins AI and Technology Award",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tTnphc1pNSzZCMk5PbExIbXExeGFoRG5XYjlqTmN5VXRPRHNBbzJjRlpJYXNVLTNHRUZYQ19qdlBXWHZRcjJ2aXhjMHN1VWtnOUE5RWlOWXhBenRscmc4NEZEcFFFTVFTZDU0NjRRLTg?oc=5",
@@ -7831,16 +7851,6 @@
       "category": "ai-tools"
     },
     {
-      "id": "e4c85a0c1814a652",
-      "title": "What is Generative AI?",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BRFFFTnh4anVUMXNYVzl2S0dlakJHVDFvWUJ0aWhtNVNDN3ZWaXpjMjJtcTJfa0lieTZGcHRpUnRERUprbkpuUXhYVlJvN04wWmdBSl9KR01OZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BRFFFTnh4anVUMXNYVzl2S0dlakJHVDFvWUJ0aWhtNVNDN3ZWaXpjMjJtcTJfa0lieTZGcHRpUnRERUprbkpuUXhYVlJvN04wWmdBSl9KR01OZw?oc=5\" target=\"_blank\">What is Generative AI?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
-      "source": "IBM",
-      "beat": "AI Video Design",
-      "publishedDate": "2024-03-22T07:00:00.000Z",
-      "category": "ux"
-    },
-    {
       "id": "84cd00bf80ce40f8",
       "title": "Building your own copilot with Copilot Studio",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmZfcGQzWE5FdVM0ZHc3bmw0WjhyV2NUS2YxWVRmaE0wcjRiSHprNmFuZHBESlZMTTlBaGJnUzFLcUExWngyQ0pBZWw5OTcxcl9SVkhEWHA4LW15Y2xBYmFxTmtnekVxaUswM3V5b2JJeFJmMTh4STc3Y25LOHdNV3FueTFIdVRYdzJBQWZWMTR3REJnWkZDV3NBS3o4YVByT0JmN241RE1tdw?oc=5",
@@ -7989,6 +7999,16 @@
       "beat": "Stable Diffusion",
       "publishedDate": "2024-02-15T08:00:00.000Z",
       "category": "ui"
+    },
+    {
+      "id": "a785630335483735",
+      "title": "Safeguarding your brand identity: Logo Matching for Brand Protection",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTkM0R1I2eGdxVUJMVzVMVmZVRWs5UW4wSFlWLTNHMi03bmk3azlVdDRHSzdJYWhfVk81aEhtb2x3ZmdrRFQ5SkZsWkV1WHBvUWsxaVpUTHViUm5QdkdmQk1LdUtacnluQnctcktoYlA1NGVKbnR2bmZqTU1UZUJhblhjRUdBelVxVnZadmJVUE1OcUJhMWZPdVAzTHM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNTkM0R1I2eGdxVUJMVzVMVmZVRWs5UW4wSFlWLTNHMi03bmk3azlVdDRHSzdJYWhfVk81aEhtb2x3ZmdrRFQ5SkZsWkV1WHBvUWsxaVpUTHViUm5QdkdmQk1LdUtacnluQnctcktoYlA1NGVKbnR2bmZqTU1UZUJhblhjRUdBelVxVnZadmJVUE1OcUJhMWZPdVAzTHM?oc=5\" target=\"_bla",
+      "source": "Cloudflare Blog",
+      "beat": "AI Branding",
+      "publishedDate": "2024-02-15T08:00:00.000Z",
+      "category": "ux"
     },
     {
       "id": "35d899a1718df094",
@@ -8331,16 +8351,6 @@
       "category": "motion"
     },
     {
-      "id": "898f71d8f9539539",
-      "title": "DALL-E 3 magic: 13 prompts to craft mind-blowing images for free using Bing Image Creator",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTzJjUGRxSTZtM0ZTR1dRTi1VNlVnMzR0bGtjQnVfeUQyNFpnRkJwd0Z2dlE1eFhaQzVtOUQ2dlR6NHJCVm5PVGdlLVkwNEFpOG1lNm10NDh6YmZ3dXJKMGk4dlFhcDRxMmlobnRyWWR2VGIzRlRRX0hvQ0pYRkswLS02dDRwUEVtdTFMLU5GTVIzaktuZk4wM21BbG9JZnlZNmtaU1dWdmItbjRfdEdiQzZYNk5fQXBDY2JYT3ZlMW1yQ3JHQzk2cGJCTlpKOHlIWVHSAdgBQVVfeXFMTjFFZFVXbjlicWpndGtYbF9fQkpiX3dURU9uZlU5cjVtRFkxSlVYUTJQbG1tZ1Z2UkItZnplWklnZFpUN1g1d1ZiR3pKdzNGaVFhM0RMLTZVY3NOSlItLVdETjVJdHhUVjJ6b0hUYzNpYklIdjNqWGRYYzUxbFBjaS05NWZnUTNxeTh1RkxNSXFtZDVFNURnRDRacGpEVUZHM3loZDhVOWwxZGtsbmoyUmFxYWwwVFlTdVBRX2lrbW5FNkFHU096RV8wdzdkWnYtdThvN19mdkRW?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTzJjUGRxSTZtM0ZTR1dRTi1VNlVnMzR0bGtjQnVfeUQyNFpnRkJwd0Z2dlE1eFhaQzVtOUQ2dlR6NHJCVm5PVGdlLVkwNEFpOG1lNm10NDh6YmZ3dXJKMGk4dlFhcDRxMmlobnRyWWR2VGIzRlRRX0hvQ0pYRkswLS02dDRwUEVtdTFMLU5GTVIzaktuZk4wM21BbG9JZnlZNmtaU1dWdmItbj",
-      "source": "The Indian Express",
-      "beat": "DALL-E Design",
-      "publishedDate": "2023-10-07T07:00:00.000Z",
-      "category": "ux"
-    },
-    {
       "id": "cfe85ec1e5f0bafe",
       "title": "Canva Launches New Suite of AI-Powered Design Tools",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdGNqY1hEazZKbkRHZmgzYWN1c1d2cWxVR3kxNkhfQ2UtN1BIOEpwVkNjQWdzVUFDRWNXRGM5dUluNDdabTBZZkZyeEFrSmw3al9QUXVBMm1LLXIzUVNBTGE1elRSM2VIQlZsczFvNlc2UUpHX2tBNEJrLWsyclZtc1BvekNnUTJ4S0ttS1NPZ0dKSG9LQmRsZ3dLVdIBoAFBVV95cUxQZW5WRmZZNnM2SnVLLTdxcVA3MTNmYVRDOEdIZl9XNjBPcWNYLXJXUDA4REpyb3VKSVpqWkNlSk16ZDViSThGQ01sZlpYM25UYTFQeGlZeUtMcjFtbExLX0pYaTJUSkRKX3FOemZTSkVINUlxV0pXVUpEdG1pWlFnTlgzcHZ0eUJvcXhHbHhueEkwR29VSnVzN1FRd0JzMTdX?oc=5",
@@ -8391,6 +8401,16 @@
       "category": "ai-tools"
     },
     {
+      "id": "f1ca502b42c26126",
+      "title": "The Notion-ification of Google Workspace",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6NktTYWhxejZSTFdOaGNTZnlOcmdsLUF1Z09HNjVIV1pHVEJaSkVlMnZIRno0LWY5OWduVGxYZDhMZEVpYlE0dko3bm9DdUNJRllXWW1yTE85YUQ1TTlqUDV0UkZGX3RkdjJLeWYzbDY2R1RxYUlyUA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB6NktTYWhxejZSTFdOaGNTZnlOcmdsLUF1Z09HNjVIV1pHVEJaSkVlMnZIRno0LWY5OWduVGxYZDhMZEVpYlE0dko3bm9DdUNJRllXWW1yTE85YUQ1TTlqUDV0UkZGX3RkdjJLeWYzbDY2R1RxYUlyUA?oc=5\" target=\"_blank\">The Notion-ification of Google Workspace</a>&",
+      "source": "Android Police",
+      "beat": "Notion AI Design",
+      "publishedDate": "2023-09-21T07:00:00.000Z",
+      "category": "ai-tools"
+    },
+    {
       "id": "d897776be25f9b91",
       "title": "Redefining Facebook’s brand identity",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa3E1MV8yQU8tTnJVRFZpcDdvQWdNTnpCdVNKb1RsTGVUS0FGT29CSTJ3VUcyTnU4amxyUThXenVzMWF3NFJPVVl4SE4zbi1KVnNZQ0YwcFk5U2VOMWVqSU9Ga2xLYWE4SkdiaW1YU2tvRGRNSlVRaDVlXzRkMVQxS0JZdw?oc=5",
@@ -8399,6 +8419,16 @@
       "beat": "AI Style Guide",
       "publishedDate": "2023-09-20T07:00:00.000Z",
       "category": "tools"
+    },
+    {
+      "id": "2ac7fcc9716dcd28",
+      "title": "10 Free AI Animation Tools to Bring Your Images to Life",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MUHh1YkM3N1N6N0xyNFQ0dzRVczcwYWp5WGFTMUEtLXlhMFlLRGE2NmNkRXVuN21aV0FtUDZYclZmaWstYlhuTDVJYVRWeFFPRjBLWHNYYWMtWnc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MUHh1YkM3N1N6N0xyNFQ0dzRVczcwYWp5WGFTMUEtLXlhMFlLRGE2NmNkRXVuN21aV0FtUDZYclZmaWstYlhuTDVJYVRWeFFPRjBLWHNYYWMtWnc?oc=5\" target=\"_blank\">10 Free AI Animation Tools to Bring Your Images to Life</a>&nbsp;&nbsp;<font color=\"",
+      "source": "No Film School",
+      "beat": "Pika Labs",
+      "publishedDate": "2023-09-14T07:00:00.000Z",
+      "category": "ui"
     },
     {
       "id": "9faee7a4996ac129",
@@ -8898,16 +8928,6 @@
       "source": "Medium",
       "beat": "AI Logo Design",
       "publishedDate": "2023-04-26T07:00:00.000Z",
-      "category": "ux"
-    },
-    {
-      "id": "125d7affa3eb4a3f",
-      "title": "Escapement: A Tool for Interactive Prototyping with Video via Sensor-Mediated Abstraction of Time",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaXo0WTFBdGplY1R5WnJTTVVCdjFtNXBUOWIwVkNrNmVwMElqZVdwQXMzejFLY19IYTd4ZUhyaFhTdG5jT0dubmplbDN0bDNLdGZJb0hBb19KQUktLW56Z2h0cHdfMlUzRzFZeVVrcTVTdTlkSHI0NkExdnlfVS1pV2xiZmEtcktQTEw2bkMzN0ZOWXZGUHZYUmdIVjdza1hGUmZQNWQ5MEZOdlV1QmZXWURGd3hCNFRTRjQ2VHdoZWVlYjVjUVE0V205YnRPa2xtaVFsZWwzYTRoYW5yWUFLM2dpOHQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaXo0WTFBdGplY1R5WnJTTVVCdjFtNXBUOWIwVkNrNmVwMElqZVdwQXMzejFLY19IYTd4ZUhyaFhTdG5jT0dubmplbDN0bDNLdGZJb0hBb19KQUktLW56Z2h0cHdfMlUzRzFZeVVrcTVTdTlkSHI0NkExdnlfVS1pV2xiZmEtcktQTEw2bkMzN0ZOWXZGUHZYUmdIVjdza1hGUmZQNWQ5MEZOdl",
-      "source": "Microsoft",
-      "beat": "AI Prototyping",
-      "publishedDate": "2023-04-23T07:00:00.000Z",
       "category": "ux"
     },
     {
@@ -9591,8 +9611,8 @@
       "category": "tools"
     }
   ],
-  "total": 959,
+  "total": 961,
   "beats": 51,
-  "fetchedAt": "2026-11-09T17:29:12.254Z",
-  "durationMs": 609
+  "fetchedAt": "2026-11-10T01:31:07.628Z",
+  "durationMs": 780
 }
